@@ -1,8 +1,17 @@
-name: Held_der_Zeit
-description: Default template created by the Manual Builder tool
+name: Chantelise
+description: Made by Held_der_Zeit.
 
 game: Manual_Chantelise_Held_der_Zeit
 
 Manual_Chantelise_Held_der_Zeit:
     progression_balancing: 50
     accessibility: items
+    death_link: 50
+    stagesanity: 0
+    progressive_stages: 0
+    shop_shuffle: 2
+    shop_sell_unlock: 50
+    fish_trade: 50
+    fishsanity: 0
+    spellsanity: 0
+    regular_treasure_shuffle: 0
