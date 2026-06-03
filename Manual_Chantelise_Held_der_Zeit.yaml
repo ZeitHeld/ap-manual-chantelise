@@ -1,0 +1,8 @@
+name: Held_der_Zeit
+description: Default template created by the Manual Builder tool
+
+game: Manual_Chantelise_Held_der_Zeit
+
+Manual_Chantelise_Held_der_Zeit:
+    progression_balancing: 50
+    accessibility: items

@@ -1,0 +1,29 @@
+{
+    "Aira Shop Shuffle": {
+        "hidden": true
+    },
+    "Merchant Shop Shuffle": {
+        "hidden": true
+    },
+    "Dungeon Shop Shuffle": {
+        "hidden": true
+    },
+    "Fish Trading": {
+        "yaml_option": [
+            "fish_trade"
+        ]
+    },
+    "Fishsanity": {
+        "yaml_option": [
+            "fishsanity"
+        ]
+    },
+    "Shop Sell Unlock Shuffle": {
+        "yaml_option": [
+            "shop_sell_unlock"
+        ]
+    },
+    "Tier 2 Spell": {
+        "hidden": true
+    }
+}

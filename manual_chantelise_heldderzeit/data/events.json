@@ -1,0 +1,323 @@
+[
+    {
+        "name": "Can Catch Anglerfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Aramaki Salmon",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Arowana",
+        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Sealed Palace Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Axolotl",
+        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Familiar Forest Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Blue Shark",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Boiled Octopus",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Carp",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Carp Flag",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Catfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Clione",
+        "requires": "|Can Fish| AND (|Town Access| OR |Aquan Ruins Access| OR |Familiar Forest Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Clownfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Coelacanth",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Conger Eel",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch East-sea Mackerel",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Eel",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Firefish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Giant Oarfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Hammerhead",
+        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Sealed Palace Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Koi",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Little Blackfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Little Redfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Lobster",
+        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Sealed Palace Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Mackerel",
+        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Manta",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Mantis Shrimp",
+        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Aquan Ruins Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Mecha-Coelacanth",
+        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Ocean Sunfish",
+        "requires": "|Can Fish| AND |Aquan Ruins Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Octopus",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Penguin",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Piranha",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Pufferfish",
+        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Rainbow Trout",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Red Sea Bream",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Red Sea Cucumber",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Salmon",
+        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Sealed Palace Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Sea Cucumber",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Seabass",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Snakehead",
+        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Familiar Forest Access|)",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Sperm Whale",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Squid",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Star Snapper",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Sweetfish",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Taiyaki",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Trilobyte",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Tube-snout",
+        "requires": "|Can Fish| AND |Terran Ruins Access|",
+        "visible": true
+    },
+    {
+        "name": "Can Catch Yellowfin Tuna",
+        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "visible": true
+    },
+    {
+        "name": "Town Access",
+        "requires": ""
+    },
+    {
+        "name": "The Plains Access",
+        "requires": ""
+    },
+    {
+        "name": "Terran Ruins Access",
+        "requires": "|Progressive Dungeon:1|"
+    },
+    {
+        "name": "Ignan Ruins Access",
+        "requires": "|Progressive Dungeon:2|"
+    },
+    {
+        "name": "Aquan Ruins Access",
+        "requires": "|Progressive Dungeon:3|"
+    },
+    {
+        "name": "Zephyran Ruins Access",
+        "requires": "|Progressive Dungeon:4|"
+    },
+    {
+        "name": "Sealed Palace Access",
+        "requires": "|Progressive Dungeon:5|"
+    },
+    {
+        "name": "Familiar Forest Access",
+        "requires": "|Familiar Forest|"
+    },
+    {
+        "name": "Survival Dungeon Access",
+        "requires": "|Survival Dungeon|"
+    },
+    {
+        "name": "Map Access",
+        "requires": ""
+    },
+    {
+        "name": "Can Fish",
+        "requires": "|@Fishing Rod|"
+    },
+    {
+        "name": "Blazing Charm Unlockable",
+        "requires": "(|Honey| OR |Can Acquire Honey|) AND (|Water Shroom| OR |Can Acquire Water Shroom|) AND (|Gunpowder| OR |Can Acquire Gunpowder|)",
+        "visible": true
+    },
+    {
+        "name": "Poison Crystal Unlockable",
+        "requires": "(|Toothpick| OR |Can Acquire Toothpick|) AND (|Honey| OR |Can Acquire Honey|) AND (|Insect King's Shell| OR |Can Acquire Insect King's Shell|)",
+        "visible": true
+    },
+    {
+        "name": "Dragon Buster Unlockable",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King's Shell| OR |Can Acquire Insect King's Shell|)",
+        "visible": true
+    },
+    {
+        "name": "Can Acquire Gunpowder",
+        "requires": "|Ignan Ruins Access| OR |Aquan Ruins Access| OR |Zephyran Ruins Access| OR |Sealed Palace Access|"
+    },
+    {
+        "name": "Can Acquire Insect King's Shell",
+        "requires": "|Terran Ruins Access|"
+    },
+    {
+        "name": "Can Acquire Toothpick",
+        "requires": "|Aquan Ruins Access| OR |Sealed Palace Access|"
+    },
+    {
+        "name": "Can Acquire Honey",
+        "requires": "|Ignan Ruins Access|"
+    },
+    {
+        "name": "Can Acquire Wyvern Horn",
+        "requires": "|Zephyran Ruins Access|"
+    },
+    {
+        "name": "Can Acquire Slime Liver",
+        "requires": "|Terran Ruins Access| OR |Sealed Palace Access|"
+    },
+    {
+        "name": "Can Acquire Broken Seal",
+        "requires": "|Sealed Palace Access| OR |Survival Dungeon Access|"
+    },
+    {
+        "name": "Can Acquire Water Shroom",
+        "requires": "|Terran Ruins Access| OR |Ignan Ruins Access| OR |Survival Dungeon Access|"
+    }
+]
