@@ -4,7 +4,7 @@ It's old and tough but still Charming and fun.
 
 ## Requirements
 - Chantelise (Avilable on [Steam](https://store.steampowered.com/app/70420/Chantelise__A_Tale_of_Two_Sisters/) or [GamersGate](https://www.gamersgate.com/de/product/chantelise-a-tale-of-two-sisters/?srsltid=AfmBOoohRZ7UbwFaSpQmetKfYUg5A4yPf8rng5ki1Ptk4L3tjmgqFspX) - Steam Reccommended)
-- [Manual Client](https://github.com/ManualForArchipelago/Manual)
+- [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) and [Manual Client](https://github.com/ManualForArchipelago/Manual)
 - [Latest Release of the Chantelise AP-Manual](https://github.com/ZeitHeld/ap-manual-chantelise/releases)`.apworld`
 - A strong will
 - Patience
