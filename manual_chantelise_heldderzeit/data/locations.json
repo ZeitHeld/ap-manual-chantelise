@@ -1114,6 +1114,13 @@
       ],
       "requires": "",
       "id": 830
+    },
+    {
+      "name": "All Hidden Treasures Found",
+      "region": "Map",
+      "category": [""],
+      "requires": "|Progressive Dungeon:5| AND |Progressive Familiar Forest:2| AND |Survival Dungeon| AND |Winged Boots| AND |Speedboots|",
+      "id": 9000
     }
   ]
 }
