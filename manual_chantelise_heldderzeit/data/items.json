@@ -1057,7 +1057,7 @@
       "category": [
         "Equipment",
         "Charm",
-		"Trading Reward"
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -1097,7 +1097,7 @@
       "category": [
         "Equipment",
         "Charm",
-		"Trading Reward"
+		    "Trading Reward"
       ],
       "useful": true
     },
@@ -1125,8 +1125,8 @@
       "count": 1,
       "name": "Earth Crystal",
       "category": [
-	        "Equipment",
-	        "Crystal"
+        "Equipment",
+        "Crystal"
       ],
       "useful": true
     },
@@ -1134,8 +1134,8 @@
       "count": 1,
       "name": "Darkness Crystal",
       "category": [
-	        "Equipment",
-	        "Crystal"
+        "Equipment",
+        "Crystal"
       ],
       "useful": true
     },
@@ -1143,10 +1143,10 @@
       "count": 2,
       "name": "Air Crystal",
       "category": [
-	        "Equipment",
-	        "Crystal",
-			"Aira Item",
-			"Merchant Item"
+        "Equipment",
+        "Crystal",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true
     },
@@ -1154,9 +1154,9 @@
       "count": 1,
       "name": "Void Crystal",
       "category": [
-	        "Equipment",
-	        "Crystal",
-			"Aira Item"
+        "Equipment",
+        "Crystal",
+			  "Aira Item"
       ],
       "useful": true
     },
@@ -1184,8 +1184,8 @@
       "count": 1,
       "name": "Speedboots",
       "category": [
-	        "Equipment",
-	        "Boots"
+        "Equipment",
+        "Boots"
       ],
       "progression": true
     },
@@ -1193,8 +1193,8 @@
       "count": 1,
       "name": "Winged Boots",
       "category": [
-	        "Equipment",
-	        "Boots"
+        "Equipment",
+        "Boots"
       ],
       "progression": true
     },
@@ -1202,8 +1202,8 @@
       "count": 1,
       "name": "Mermaid Boots",
       "category": [
-	        "Equipment",
-	        "Boots"
+        "Equipment",
+        "Boots"
       ],
       "useful": true
     },
@@ -1211,8 +1211,8 @@
       "count": 1,
       "name": "Eskimo Shoes",
       "category": [
-	        "Equipment",
-	        "Boots"
+        "Equipment",
+        "Boots"
       ],
       "useful": true
     },
@@ -1220,8 +1220,8 @@
       "count": 1,
       "name": "Coin Emblem",
       "category": [
-	        "Equipment",
-	        "Emblem"
+        "Equipment",
+        "Emblem"
       ],
       "progresion": true,
       "useful": true
@@ -1262,7 +1262,7 @@
       "category": [
         "Equipment",
         "Emblem",
-		"Trading Reward"
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -1272,7 +1272,7 @@
       "category": [
         "Equipment",
         "Emblem",
-		"Trading Reward"
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -1309,7 +1309,7 @@
       "category": [
         "Equipment",
         "Accessory",
-		"Trading Reward"
+        "Trading Reward"
       ],
       "progression": true,
       "useful": true
@@ -1340,7 +1340,7 @@
       "category": [
         "Equipment",
         "Other",
-		"Aira Item"
+        "Aira Item"
       ],
       "progression": true,
       "useful": true
@@ -1350,7 +1350,7 @@
       "name": "Music Box",
       "category": [
         "Misc",
-		"Trading Reward"
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -1367,7 +1367,7 @@
       "name": "Ancient Grammophone",
       "category": [
         "Misc",
-		"Selling Unlockable"
+        "Selling Unlockable"
       ],
       "filler": true
     },
@@ -1376,7 +1376,7 @@
       "name": "Walnut Bread",
       "category": [
         "Food",
-		"Survival Dungeon Item"
+        "Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1385,7 +1385,7 @@
       "name": "Egg Toast",
       "category": [
         "Food",
-		"Survival Dungeon Item"
+        "Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1394,7 +1394,7 @@
       "name": "Roast Chicken",
       "category": [
         "Food",
-		"Survival Dungeon Item"
+        "Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1403,7 +1403,7 @@
       "name": "Ham Sandwich",
       "category": [
         "Food",
-		"Survival Dungeon Item"
+        "Survival Dungeon Item"
       ],
       "filler": true
     }
