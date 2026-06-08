@@ -67,7 +67,7 @@
       "Map",
       "Merchant"
     ],
-    "requires": "|Familiar Forest|"
+    "requires": "|Progressive Familiar Forest:1|"
   },
   "Survival Dungeon": {
     "connects_to": [
