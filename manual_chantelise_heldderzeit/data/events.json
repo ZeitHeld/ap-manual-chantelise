@@ -259,7 +259,11 @@
     },
     {
         "name": "Familiar Forest Access",
-        "requires": "|Familiar Forest|"
+        "requires": "|Progressive Familiar Forest:1|"
+    },
+    {
+        "name": "Full Familiar Forest Access",
+        "requires": "|Progressive Familiar Forest:2|"
     },
     {
         "name": "Survival Dungeon Access",
