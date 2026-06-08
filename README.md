@@ -10,25 +10,24 @@ It's old and tough but still Charming and fun.
 - Patience
 
 ## Implemented Features
+- Regular Treasures
+  - In the world are a few treasure chests placed that can be opened a single time.
 - Hidden Treasures
-  - Meet certain conditions to make a treasure spawn on each stage and collect it's randmoized reward!
+  - Meet certain conditions to make a treasure spawn on each stage and collect it's randomized reward!
 - Unlockable Dungeons
   - Dungeons need to be unlocked. All but Familiar Forest and Survival Dungeon are Progressive
 - Shop Shuffle
   - Bought Items are Shuffled
 - Shop Sell Unlocks
-  - Sell Certain Items to unlock something that then can appear in the shop! (needs a better implemetnation or rework I think)
+  - Sell Certain Items to unlock something that then can appear in the shop! (Currently needs a better implementation)
 - Fish Trading
   - Trade in Caught Fish to the Fisherman for a randomized Reward!
-- (Some) Story Events
+- (Some) Story Events and other Flags
 
 ## Upcoming/Planned Features
-- Regular Treasures
 - Fishasnity
-  - Catcha  fish for the first time for a randomized reward!
+  - Catch a fish for the first time for a randomized reward!
 - Stagesanity
   - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check.
-- *Proper Item Pool*
 - Survival Dungeon Shop Shuffle Inclusion
 - Survival Dungeon Floor Rewards
-
