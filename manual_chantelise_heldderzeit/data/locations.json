@@ -1007,7 +1007,7 @@
       "category": [
         "Fish Trading"
       ],
-      "requires": "|Can Catch Pufferfish| AND |Tube-snout| AND |Can Catch Anglerfish| AND |Can Catch Salmon|",
+      "requires": "|Can Catch Pufferfish| AND |Can Catch Tube-snout| AND |Can Catch Anglerfish| AND |Can Catch Salmon|",
       "dont_place_item_category": [
         "Fish"
       ],
@@ -1121,6 +1121,13 @@
       "category": [""],
       "requires": "|Progressive Dungeon:5| AND |Progressive Familiar Forest:2| AND |Survival Dungeon| AND |Winged Boots| AND |Speedboots|",
       "id": 9000
+    },
+    {
+      "name": "PLACEHODLER LOCATION",
+      "region": "Map",
+      "category": [""],
+      "requires": "",
+      "id": 9100
     }
   ]
 }
