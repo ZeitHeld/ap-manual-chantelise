@@ -26,87 +26,87 @@ from typing import Type, Any
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
 
-class FishTrade(Toggle):
-	"""
-	Fish trades from the Fisherman in Plains gives other rewards.
-	"""
+# class FishTrade(Toggle):
+# 	"""
+# 	Fish trades from the Fisherman in Plains gives other rewards.
+# 	"""
 	
-	display_name = "Fish Trading"
+# 	display_name = "Fish Trading"
 
-class ShopShuffle(Choice):
-	"""
-	Randomizes the Items that are to be found in the Shhop.
-	Availbale Options:
-	- None
-	- Aira
-	- Aira + Merchant
-	- All (Aira, Merchant + Survival Dungeon)
-	"""
+# class ShopShuffle(Choice):
+# 	"""
+# 	Randomizes the Items that are to be found in the Shhop.
+# 	Availbale Options:
+# 	- None
+# 	- Aira
+# 	- Aira + Merchant
+# 	- All (Aira, Merchant + Survival Dungeon)
+# 	"""
 
-	display_name = "Shop Shuffle"
+# 	display_name = "Shop Shuffle"
 	
-	option_none = 0
-	option_aira_only = 1
-	option_include_merchant = 2
-	option_both_with_survival = 3
+# 	option_none = 0
+# 	option_aira_only = 1
+# 	option_include_merchant = 2
+# 	option_both_with_survival = 3
 	
-	default = 2
+# 	default = 2
 	
-class ShopSellUnlockShuffle(DefaultOnToggle):
-	"""
-	If enabled with Shop Shuffle, will also include checks to buy the unlocked items.
-	"""
+# class ShopSellUnlockShuffle(DefaultOnToggle):
+# 	"""
+# 	If enabled with Shop Shuffle, will also include checks to buy the unlocked items.
+# 	"""
 	
-	display_name = "Shop Sell Unlock Shuffle"
+# 	display_name = "Shop Sell Unlock Shuffle"
 
 
-class Fishsanity(Toggle):
-	"""
-	!! NOT YET IMPLEMENTED !!
-	Adds in a check for catching a fish for the first time, and items for the corresponding fishes.
-	"""
+# class Fishsanity(Toggle):
+# 	"""
+# 	!! NOT YET IMPLEMENTED !!
+# 	Adds in a check for catching a fish for the first time, and items for the corresponding fishes.
+# 	"""
 	
-	display_name = "Fishsanity"
+# 	display_name = "Fishsanity"
 
 
-class Stagesanity(Toggle):
-	"""
-	!! NOT YET IMPLEMENTED !!
-	Unlocks of Stages give Items
-	and find Stages as Items
-	"""
+# class Stagesanity(Toggle):
+# 	"""
+# 	!! NOT YET IMPLEMENTED !!
+# 	Unlocks of Stages give Items
+# 	and find Stages as Items
+# 	"""
 	
-	display_name = "Stagesanity"
+# 	display_name = "Stagesanity"
 
-class Spellsanity(Choice):
-	"""
-	!! NOT YET IMPLEMENTED !!
-	Adds in every spell as it's own unlockable Item.
-	Spells get prioritied over junk during generation. 
-	Available Options: None, Tiers 3-4, Tiers 2-4 (You can only cast spells with one gem.)
-	"""
+# class Spellsanity(Choice):
+# 	"""
+# 	!! NOT YET IMPLEMENTED !!
+# 	Adds in every spell as it's own unlockable Item.
+# 	Spells get prioritied over junk during generation. 
+# 	Available Options: None, Tiers 3-4, Tiers 2-4 (You can only cast spells with one gem.)
+# 	"""
 	
-	display_name = "Spell Shuffle"
+# 	display_name = "Spell Shuffle"
 
-	option_none = 0
-	option_regular = 1
-	option_include_tier2 = 2
+# 	option_none = 0
+# 	option_regular = 1
+# 	option_include_tier2 = 2
 
-	default = 0
+# 	default = 0
 
-class ProgressiveStages(Toggle):
-	"""
-	!! NOT YET IMPLEMENTED !!
-	Makes Stage Unlocks for Dungeons Progressive
-	"""
+# class ProgressiveStages(Toggle):
+# 	"""
+# 	!! NOT YET IMPLEMENTED !!
+# 	Makes Stage Unlocks for Dungeons Progressive
+# 	"""
 	
-	display_name = "Progressive Stages"
+# 	display_name = "Progressive Stages"
 
-	option_disabled = 0
-	option_enabled = 1
-	option_include_bonus_stage = 2
+# 	option_disabled = 0
+# 	option_enabled = 1
+# 	option_include_bonus_stage = 2
 
-	default = 0
+# 	default = 0
 
 
 
@@ -146,9 +146,9 @@ class ProgressiveStages(Toggle):
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     #options["stage_sanity"] = Stagesanity
 	#options["progressive_stages"] = ProgressiveStages
-	options["shop_shuffle"] = ShopShuffle
-	options["shop_sell_unlock_shuffle"] = ShopSellUnlockShuffle
-	options["fish_trading_shuffle"] = FishTrade
+	# options["shop_shuffle"] = ShopShuffle
+	# options["shop_sell_unlock_shuffle"] = ShopSellUnlockShuffle
+	# options["fish_trading_shuffle"] = FishTrade
 	#options["fishsanity"] = Fishsanity
 	#options["spellsanity"] = Spellsanity
 	#options["death_link"] = 
