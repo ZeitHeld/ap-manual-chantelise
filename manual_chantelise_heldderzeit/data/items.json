@@ -599,7 +599,7 @@
       "name": "Ferromin G",
       "category": [
         "Fermin",
-        "Aira Item",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -611,7 +611,7 @@
       "name": "Ferromin FX",
       "category": [
         "Fermin",
-        "Aira Item",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -623,7 +623,7 @@
       "name": "Ferromin R",
       "category": [
         "Fermin",
-        "Aira Item",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -635,7 +635,7 @@
       "name": "Ferromin S",
       "category": [
         "Fermin",
-        "Aira Item",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -897,7 +897,7 @@
       "category": [
         "Equipment",
         "Shield",
-        "Survival Dungeon Item",
+        "Survival Dungeon Item"
       ],
       "useful": true
     },

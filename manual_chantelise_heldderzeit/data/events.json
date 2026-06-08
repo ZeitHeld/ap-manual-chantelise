@@ -327,5 +327,5 @@
     {
         "name": "Can Heal",
         "requires": "|Progressive Spell Upgrade:1|"
-    },
+    }
 ]

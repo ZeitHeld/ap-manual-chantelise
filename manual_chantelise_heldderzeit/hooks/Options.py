@@ -170,14 +170,13 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
 	
-	#groups["Gameplay Options"] = [Stagesanity]
-	#groups["Gameplay Options"] = [ProgressiveStages]
+	#groups["Gameplay Options"] = [Stagesanity] # NOT YET IMPLEMENTED
+	#groups["Gameplay Options"] = [ProgressiveStages] # NOT YET IMPLEMENTED
 	
-	groups["Randomization Options"] = [ShopShuffle]
-	groups["Randomization Options"] = [ShopSellUnlockShuffle]
-	groups["Randomization Options"] = [FishTrade]
-	#groups["Randomization Options"] = [Fishsanity]
-	#groups["Randomization Options"] = [Spellsanity]
+	#groups["Randomization Options"] = [ShopShuffle, ShopSellUnlockShuffle, FishTrade]
+	
+	#groups["Randomization Options"] = [Fishsanity] # NOT YET IMPLEMENTED
+	#groups["Randomization Options"] = [Spellsanity] # NOT YET IMPLEMENTED
     return groups
 
 def after_option_groups_created(groups: list[OptionGroup]) -> list[OptionGroup]:
