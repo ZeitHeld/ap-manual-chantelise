@@ -385,7 +385,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Full Familiar Forest Access",
       "id": 160
     },
     {
@@ -394,7 +394,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Full Familiar Forest Access",
       "id": 161
     },
     {
@@ -403,7 +403,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Can Fish",
+      "requires": "Full Familiar Forest Access AND Can Fish",
       "id": 162
     },
     {
@@ -412,7 +412,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Full Familiar Forest Access",
       "id": 163
     },
     {
