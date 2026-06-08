@@ -97,7 +97,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Speedboots OR Winged Boots",
+      "requires": "|Speedboots| OR |Winged Boots|",
       "id": 113
     },
     {
@@ -196,7 +196,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Winged Boots",
+      "requires": "|Winged Boots|",
       "id": 130
     },
     {
@@ -259,7 +259,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Can Fish",
+      "requires": "|Can Fish|",
       "id": 140
     },
     {
@@ -268,7 +268,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Winged Boots",
+      "requires": "|Winged Boots|",
       "id": 141
     },
     {
@@ -277,7 +277,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Winged Boots",
+      "requires": "|Winged Boots|",
       "id": 142
     },
     {
@@ -295,7 +295,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Speedboots",
+      "requires": "|Speedboots|",
       "id": 144
     },
     {
@@ -313,7 +313,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Winged Boots",
+      "requires": "|Winged Boots|",
       "id": 146
     },
     {
@@ -358,7 +358,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Can Fish",
+      "requires": "|Can Fish|",
       "id": 154
     },
     {
@@ -376,7 +376,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Can Fish",
+      "requires": "|Can Fish|",
       "id": 156
     },
     {
@@ -385,7 +385,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Full Familiar Forest Access",
+      "requires": "|Full Familiar Forest Access|",
       "id": 160
     },
     {
@@ -394,7 +394,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Full Familiar Forest Access",
+      "requires": "|Full Familiar Forest Access|",
       "id": 161
     },
     {
@@ -403,7 +403,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Full Familiar Forest Access AND Can Fish",
+      "requires": "|Full Familiar Forest Access| AND |Can Fish|",
       "id": 162
     },
     {
@@ -412,7 +412,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "Full Familiar Forest Access",
+      "requires": "|Full Familiar Forest Access|",
       "id": 163
     },
     {
