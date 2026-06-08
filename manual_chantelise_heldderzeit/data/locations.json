@@ -56,8 +56,8 @@
       "id": 31
     },
     {
-      "region": "The Plains",
       "name": "Tutorial 3 - Hidden Treasure",
+      "region": "The Plains",
       "category": [
         "Hidden Treasure"
       ],
@@ -97,7 +97,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Speedboots OR Winged Boots",
       "id": 113
     },
     {
@@ -196,7 +196,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Winged Boots",
       "id": 130
     },
     {
@@ -259,7 +259,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Can Fish",
       "id": 140
     },
     {
@@ -268,7 +268,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Winged Boots",
       "id": 141
     },
     {
@@ -277,7 +277,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Winged Boots",
       "id": 142
     },
     {
@@ -295,7 +295,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Speedboots",
       "id": 144
     },
     {
@@ -313,7 +313,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Winged Boots",
       "id": 146
     },
     {
@@ -358,7 +358,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Can Fish",
       "id": 154
     },
     {
@@ -376,7 +376,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Can Fish",
       "id": 156
     },
     {
@@ -403,7 +403,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "Can Fish",
       "id": 162
     },
     {
@@ -1069,6 +1069,51 @@
       "prehint": true,
       "hint_entrance": "12x Snakehead, 3x Hammerhead, 20x Pufferfish",
       "id": 516
+    },
+    {
+      "name": "Ruined Main Gate - Treasure Chest",
+      "region": "Terran Ruins",
+      "category": [
+        "Regular Treasure"
+      ],
+      "requires": "",
+      "id": 800
+    },
+    {
+      "name": "Deepest Cavern - Treasure Chest",
+      "region": "Terran Ruins",
+      "category": [
+        "Regular Treasure"
+      ],
+      "requires": "",
+      "id": 801
+    },
+    {
+      "name": "Volcano Path - Treasure Chest",
+      "region": "Ignan Ruins",
+      "category": [
+        "Regular Treasure"
+      ],
+      "requires": "",
+      "id": 810
+    },
+    {
+      "name": "Spiral Corridor - Treasure Chest",
+      "region": "Aquan Ruins",
+      "category": [
+        "Regular Treasure"
+      ],
+      "requires": "",
+      "id": 820
+    },
+    {
+      "name": "Emperor Bug's Tomb - Treasure Chest",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Regular Treasure"
+      ],
+      "requires": "",
+      "id": 830
     }
   ]
 }
