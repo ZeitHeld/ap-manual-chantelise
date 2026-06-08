@@ -1121,13 +1121,6 @@
       "category": [""],
       "requires": "|Progressive Dungeon:5| AND |Progressive Familiar Forest:2| AND |Survival Dungeon| AND |Winged Boots| AND |Speedboots|",
       "id": 9000
-    },
-    {
-      "name": "PLACEHODLER LOCATION",
-      "region": "Map",
-      "category": [""],
-      "requires": "",
-      "id": 9100
     }
   ]
 }
