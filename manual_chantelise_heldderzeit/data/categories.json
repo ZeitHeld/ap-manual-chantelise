@@ -25,5 +25,23 @@
     },
     "Tier 2 Spell": {
         "hidden": true
+    },
+    "Aira Item": {
+        "hidden": true
+    },
+    "Merchant Item": {
+        "hidden": true
+    },
+    "Trading Reward": {
+        "hidden": true
+    },
+    "Selling Unlockable": {
+        "hidden": true
+    },
+    "Equipment": {
+        "hidden": true
+    },
+    "Survival Dungeon Item": {
+        "hidden": true
     }
 }

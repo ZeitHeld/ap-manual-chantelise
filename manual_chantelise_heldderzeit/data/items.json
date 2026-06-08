@@ -11,8 +11,8 @@
       "early": true
     },
     {
-      "count": 1,
-      "name": "Familiar Forest",
+      "count": 2,
+      "name": "Progressive Familiar Forest",
       "category": [
         "Dungeon Unlock"
       ],
@@ -36,7 +36,7 @@
     },
     {
       "count": 3,
-      "name": "Progressive Item Slot Expansion",
+      "name": "Progressive Equipment Slot Expansion",
       "category": [
         "Ability"
       ],
@@ -62,7 +62,8 @@
       "count": 1,
       "name": "Old Man Pole",
       "category": [
-        "Fishing Rod"
+        "Fishing Rod",
+        "Trading Reward"
       ],
       "progression": true
     },
@@ -540,7 +541,8 @@
       "count": 1,
       "name": "Golden Scales",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -548,7 +550,8 @@
       "count": 2,
       "name": "Golden Pedestal",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -556,7 +559,8 @@
       "count": 1,
       "name": "Unthankful Statue",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -564,7 +568,8 @@
       "count": 1,
       "name": "Golden Candy",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -580,7 +585,9 @@
       "count": 5,
       "name": "Ferromin",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "value": {
@@ -591,7 +598,8 @@
       "count": 2,
       "name": "Ferromin G",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -602,7 +610,8 @@
       "count": 2,
       "name": "Ferromin FX",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -610,10 +619,11 @@
       }
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "Ferromin R",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -624,7 +634,8 @@
       "count": 1,
       "name": "Ferromin S",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item"
       ],
       "useful": true,
       "value": {
@@ -646,7 +657,8 @@
       "count": 1,
       "name": "Omega Ferromin",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Survival Dungeon Item"
       ],
       "useful": true,
       "value": {
@@ -696,7 +708,7 @@
     },
     {
       "count": 0,
-      "name": "Insect King's Shell",
+      "name": "Insect King Shell",
       "category": [
         "Material",
         "Selling Unlock",
@@ -757,21 +769,24 @@
       "progression": true
     },
     {
-      "count": 2,
+      "count": 3,
       "name": "Leather Gloves",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "Tough Gloves",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item"
       ],
       "useful": true,
       "filler": true
@@ -787,913 +802,609 @@
       "filler": true
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "White Gauntlet",
       "category": [
         "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
-    {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Rocket Glove",
       "category": [
         "Equipment",
         "Glove"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Dragon Buster",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Sellng Unlockable"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Star Glove",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 3,
+      "name": "Wooden Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Common Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield"
       ],
       "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Big Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Knight's Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Legendary Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "TH Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Amber Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Selling Unlockable"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Salamander Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Pearl Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Jade Shield",
       "category": [
         "Equipment",
-        "Glove"
+        "Shield",
+        "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 4,
+      "name": "Focus Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Staff",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Magician's Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item"
       ],
       "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Pretty Wand",
       "category": [
         "Equipment",
-        "Glove"
+        "Staff"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Cane Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Staff"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Spirit Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Staff"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Divine Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Staff",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Souvenir Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm"
       ],
       "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Standard Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm"
       ],
       "useful": true,
       "filler": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 2,
+      "name": "Popular Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm",
+        "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 3,
+      "name": "Hallowed Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm",
+        "Aira Item",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Miracle Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Omnicharm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 2,
+      "name": "Sand Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm",
+        "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
+	{
+		"count": 1,
+		"name": "Blazing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Selling Unlockable"
+		],
+		"useful": true
+	},
     {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
+		"count": 1,
+		"name": "Wing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Trading Reward"
+		],
+		"useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Shell Charm",
       "category": [
         "Equipment",
-        "Glove"
+        "Charm",
+		    "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Fire Crystal",
       "category": [
         "Equipment",
-        "Glove"
+        "Crystal"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
-    },
+		"count": 2,
+		"name": "Water Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Aira Item",
+			"Merchant Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Earth Crystal",
       "category": [
         "Equipment",
-        "Glove"
+        "Crystal"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Darkness Crystal",
       "category": [
         "Equipment",
-        "Glove"
+        "Crystal"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 2,
+      "name": "Air Crystal",
       "category": [
         "Equipment",
-        "Glove"
+        "Crystal",
+        "Aira Item",
+        "Merchant Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Void Crystal",
       "category": [
         "Equipment",
-        "Glove"
+        "Crystal",
+			  "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
+	{
+		"count": 1,
+		"name": "Paralysis Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Trading Reward"
+		],
+		"useful": true
+	},
     {
-      "count": 1,
-      "name": "Tough Gloves",
-      "category": [
-        "Equipment",
-        "Glove"
-      ],
-      "useful": true,
-      "filler": true
+		"count": 1,
+		"name": "Poison Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Selling Unlockable"
+		],
+		"useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Speedboots",
       "category": [
         "Equipment",
-        "Glove"
+        "Boots"
       ],
-      "useful": true,
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Winged Boots",
       "category": [
         "Equipment",
-        "Glove"
+        "Boots"
       ],
-      "useful": true,
-      "filler": true
+      "progression": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Mermaid Boots",
       "category": [
         "Equipment",
-        "Glove"
+        "Boots"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Eskimo Shoes",
       "category": [
         "Equipment",
-        "Glove"
+        "Boots"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Coin Emblem",
       "category": [
         "Equipment",
-        "Glove"
+        "Emblem"
       ],
-      "useful": true,
-      "filler": true
+      "progresion": true,
+      "useful": true
     },
+	{
+		"count": 1,
+		"name": "Food Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"progresion": true,
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Air Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Water Emblem",
       "category": [
         "Equipment",
-        "Glove"
+        "Emblem"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Fire Emblem",
       "category": [
         "Equipment",
-        "Glove"
+        "Emblem",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Earth Emblem",
       "category": [
         "Equipment",
-        "Glove"
+        "Emblem",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Strongarm Band",
       "category": [
         "Equipment",
-        "Glove"
+        "Accessory"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Superarm Band",
       "category": [
         "Equipment",
-        "Glove"
+        "Accessory"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Magic Necklace",
       "category": [
         "Equipment",
-        "Glove"
+        "Accessory"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 3,
+      "name": "Soul Pendant",
       "category": [
         "Equipment",
-        "Glove"
+        "Accessory",
+        "Trading Reward"
       ],
-      "useful": true,
-      "filler": true
+      "progression": true,
+      "useful": true
     },
+	{
+		"count": 2,
+		"name": "Antivenom",
+		"category": [
+			"Equipment",
+			"Other",
+			"Aira Item",
+			"Merchant Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Backscratcher",
       "category": [
         "Equipment",
-        "Glove"
+        "Other"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 2,
+      "name": "Cat Statue",
       "category": [
         "Equipment",
-        "Glove"
+        "Other",
+        "Aira Item"
       ],
-      "useful": true,
-      "filler": true
+      "progression": true,
+      "useful": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Music Box",
       "category": [
-        "Equipment",
-        "Glove"
+        "Misc",
+        "Trading Reward"
       ],
-      "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Old Grammophone",
       "category": [
-        "Equipment",
-        "Glove"
+        "Misc"
       ],
-      "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Ancient Grammophone",
       "category": [
-        "Equipment",
-        "Glove"
+        "Misc",
+        "Selling Unlockable"
       ],
-      "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Walnut Bread",
       "category": [
-        "Equipment",
-        "Glove"
+        "Food",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Egg Toast",
       "category": [
-        "Equipment",
-        "Glove"
+        "Food",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
       "filler": true
     },
     {
       "count": 1,
-      "name": "Tough Gloves",
+      "name": "Roast Chicken",
       "category": [
-        "Equipment",
-        "Glove"
+        "Food",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
       "filler": true
     },
     {
-      "count": 1,
-      "name": "Tough Gloves",
+      "count": 2,
+      "name": "Ham Sandwich",
       "category": [
-        "Equipment",
-        "Glove"
+        "Food",
+        "Survival Dungeon Item"
       ],
-      "useful": true,
       "filler": true
     }
   ]

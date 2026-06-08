@@ -259,7 +259,11 @@
     },
     {
         "name": "Familiar Forest Access",
-        "requires": "|Familiar Forest|"
+        "requires": "|Progressive Familiar Forest:1|"
+    },
+    {
+        "name": "Full Familiar Forest Access",
+        "requires": "|Progressive Familiar Forest:2|"
     },
     {
         "name": "Survival Dungeon Access",
@@ -280,12 +284,12 @@
     },
     {
         "name": "Poison Crystal Unlockable",
-        "requires": "(|Toothpick| OR |Can Acquire Toothpick|) AND (|Honey| OR |Can Acquire Honey|) AND (|Insect King's Shell| OR |Can Acquire Insect King's Shell|)",
+        "requires": "(|Toothpick| OR |Can Acquire Toothpick|) AND (|Honey| OR |Can Acquire Honey|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
         "visible": true
     },
     {
         "name": "Dragon Buster Unlockable",
-        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King's Shell| OR |Can Acquire Insect King's Shell|)",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
         "visible": true
     },
     {
@@ -293,7 +297,7 @@
         "requires": "|Ignan Ruins Access| OR |Aquan Ruins Access| OR |Zephyran Ruins Access| OR |Sealed Palace Access|"
     },
     {
-        "name": "Can Acquire Insect King's Shell",
+        "name": "Can Acquire Insect King Shell",
         "requires": "|Terran Ruins Access|"
     },
     {
@@ -319,5 +323,9 @@
     {
         "name": "Can Acquire Water Shroom",
         "requires": "|Terran Ruins Access| OR |Ignan Ruins Access| OR |Survival Dungeon Access|"
+    },
+    {
+        "name": "Can Heal",
+        "requires": "|Progressive Spell Upgrade:1|"
     }
 ]
