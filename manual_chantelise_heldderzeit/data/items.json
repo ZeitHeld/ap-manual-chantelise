@@ -62,7 +62,8 @@
       "count": 1,
       "name": "Old Man Pole",
       "category": [
-        "Fishing Rod"
+        "Fishing Rod",
+        "Trading Reward"
       ],
       "progression": true
     },
@@ -537,34 +538,38 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Golden Scales",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 2,
+      "name": "Golden Pedestal",
+      "category": [
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
     {
       "count": 1,
-      "name": "Golden Pedestal",
-      "category": [
-        "Treasure"
-      ],
-      "filler": true
-    },
-    {
-      "count": 0,
       "name": "Unthankful Statue",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Golden Candy",
       "category": [
-        "Treasure"
+        "Treasure",
+        "Trading Reward"
       ],
       "filler": true
     },
@@ -577,10 +582,12 @@
       "filler": true
     },
     {
-      "count": 3,
+      "count": 5,
       "name": "Ferromin",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "value": {
@@ -588,10 +595,11 @@
       }
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "Ferromin G",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
       ],
       "useful": true,
       "value": {
@@ -599,10 +607,11 @@
       }
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "Ferromin FX",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
       ],
       "useful": true,
       "value": {
@@ -610,10 +619,11 @@
       }
     },
     {
-      "count": 1,
+      "count": 2,
       "name": "Ferromin R",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
       ],
       "useful": true,
       "value": {
@@ -621,10 +631,11 @@
       }
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Ferromin S",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Aira Item",
       ],
       "useful": true,
       "value": {
@@ -646,7 +657,8 @@
       "count": 1,
       "name": "Omega Ferromin",
       "category": [
-        "Fermin"
+        "Fermin",
+        "Survival Dungeon Item"
       ],
       "useful": true,
       "value": {
@@ -761,7 +773,9 @@
       "name": "Leather Gloves",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
@@ -771,7 +785,8 @@
       "name": "Tough Gloves",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item"
       ],
       "useful": true,
       "filler": true
@@ -791,7 +806,9 @@
       "name": "White Gauntlet",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item",
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -809,7 +826,8 @@
       "name": "Dragon Buster",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Sellng Unlockable"
       ],
       "useful": true
     },
@@ -818,7 +836,8 @@
       "name": "Star Glove",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Survival Dungeon Item"
       ],
       "useful": true
     },
@@ -827,7 +846,9 @@
       "name": "Wooden Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
@@ -847,7 +868,8 @@
       "name": "Big Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Aira Item"
       ],
       "useful": true
     },
@@ -874,7 +896,8 @@
       "name": "TH Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Survival Dungeon Item",
       ],
       "useful": true
     },
@@ -883,7 +906,8 @@
       "name": "Amber Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Selling Unlockable"
       ],
       "useful": true
     },
@@ -892,7 +916,8 @@
       "name": "Salamander Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -901,7 +926,8 @@
       "name": "Pearl Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -910,7 +936,8 @@
       "name": "Jade Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Aira Item"
       ],
       "useful": true
     },
@@ -919,7 +946,9 @@
       "name": "Focus Staff",
       "category": [
         "Equipment",
-        "Staff"
+        "Staff",
+        "Aira Item",
+        "Merchant Item"
       ],
       "useful": true,
       "filler": true
@@ -929,7 +958,8 @@
       "name": "Magician's Staff",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Aira Item"
       ],
       "useful": true,
       "filler": true
@@ -966,7 +996,8 @@
       "name": "Divine Staff",
       "category": [
         "Equipment",
-        "Staff"
+        "Staff",
+        "Survival Dungeon Item"
       ],
       "useful": true
     },
@@ -995,7 +1026,8 @@
       "name": "Popular Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Aira Item"
       ],
       "useful": true
     },
@@ -1004,7 +1036,9 @@
       "name": "Hallowed Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Aira Item",
+        "Trading Reward"
       ],
       "useful": true
     },
@@ -1022,7 +1056,8 @@
       "name": "Omnicharm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+		"Trading Reward"
       ],
       "useful": true
     },
@@ -1031,34 +1066,38 @@
       "name": "Sand Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Aira Item"
       ],
       "useful": true
     },
+	{
+		"count": 1,
+		"name": "Blazing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Selling Unlockable"
+		],
+		"useful": true
+	},
     {
-      "count": 1,
-      "name": "Blazing Charm",
-      "category": [
-        "Equipment",
-        "Charm"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Wing Charm",
-      "category": [
-        "Equipment",
-        "Charm"
-      ],
-      "useful": true
+		"count": 1,
+		"name": "Wing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Trading Reward"
+		],
+		"useful": true
     },
     {
       "count": 1,
       "name": "Shell Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+		"Trading Reward"
       ],
       "useful": true
     },
@@ -1072,20 +1111,22 @@
       "useful": true
     },
     {
-      "count": 2,
-      "name": "Water Crystal",
-      "category": [
-        "Equipment",
-        "Crystal"
-      ],
-      "useful": true
-    },
+		"count": 2,
+		"name": "Water Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Aira Item",
+			"Merchant Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
       "name": "Earth Crystal",
       "category": [
-        "Equipment",
-        "Crystal"
+	        "Equipment",
+	        "Crystal"
       ],
       "useful": true
     },
@@ -1093,8 +1134,8 @@
       "count": 1,
       "name": "Darkness Crystal",
       "category": [
-        "Equipment",
-        "Crystal"
+	        "Equipment",
+	        "Crystal"
       ],
       "useful": true
     },
@@ -1102,8 +1143,10 @@
       "count": 2,
       "name": "Air Crystal",
       "category": [
-        "Equipment",
-        "Crystal"
+	        "Equipment",
+	        "Crystal",
+			"Aira Item",
+			"Merchant Item"
       ],
       "useful": true
     },
@@ -1111,35 +1154,38 @@
       "count": 1,
       "name": "Void Crystal",
       "category": [
-        "Equipment",
-        "Crystal"
+	        "Equipment",
+	        "Crystal",
+			"Aira Item"
       ],
       "useful": true
     },
+	{
+		"count": 1,
+		"name": "Paralysis Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Trading Reward"
+		],
+		"useful": true
+	},
     {
-      "count": 1,
-      "name": "Paralysis Crystal",
-      "category": [
-        "Equipment",
-        "Crystal"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Poison Crystal",
-      "category": [
-        "Equipment",
-        "Crystal"
-      ],
-      "useful": true
+		"count": 1,
+		"name": "Poison Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Selling Unlockable"
+		],
+		"useful": true
     },
     {
       "count": 1,
       "name": "Speedboots",
       "category": [
-        "Equipment",
-        "Boots"
+	        "Equipment",
+	        "Boots"
       ],
       "progression": true
     },
@@ -1147,8 +1193,8 @@
       "count": 1,
       "name": "Winged Boots",
       "category": [
-        "Equipment",
-        "Boots"
+	        "Equipment",
+	        "Boots"
       ],
       "progression": true
     },
@@ -1156,8 +1202,8 @@
       "count": 1,
       "name": "Mermaid Boots",
       "category": [
-        "Equipment",
-        "Boots"
+	        "Equipment",
+	        "Boots"
       ],
       "useful": true
     },
@@ -1165,8 +1211,8 @@
       "count": 1,
       "name": "Eskimo Shoes",
       "category": [
-        "Equipment",
-        "Boots"
+	        "Equipment",
+	        "Boots"
       ],
       "useful": true
     },
@@ -1174,31 +1220,33 @@
       "count": 1,
       "name": "Coin Emblem",
       "category": [
-        "Equipment",
-        "Emblem"
+	        "Equipment",
+	        "Emblem"
       ],
       "progresion": true,
       "useful": true
     },
-    {
-      "count": 1,
-      "name": "Food Emblem",
-      "category": [
-        "Equipment",
-        "Emblem"
-      ],
-      "progresion": true,
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Air Emblem",
-      "category": [
-        "Equipment",
-        "Emblem"
-      ],
-      "useful": true
-    },
+	{
+		"count": 1,
+		"name": "Food Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"progresion": true,
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Air Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
       "name": "Water Emblem",
@@ -1213,7 +1261,8 @@
       "name": "Fire Emblem",
       "category": [
         "Equipment",
-        "Emblem"
+        "Emblem",
+		"Trading Reward"
       ],
       "useful": true
     },
@@ -1222,7 +1271,8 @@
       "name": "Earth Emblem",
       "category": [
         "Equipment",
-        "Emblem"
+        "Emblem",
+		"Trading Reward"
       ],
       "useful": true
     },
@@ -1258,20 +1308,23 @@
       "name": "Soul Pendant",
       "category": [
         "Equipment",
-        "Accessory"
+        "Accessory",
+		"Trading Reward"
       ],
       "progression": true,
       "useful": true
     },
-    {
-      "count": 2,
-      "name": "Antivenom",
-      "category": [
-        "Equipment",
-        "Other"
-      ],
-      "useful": true
-    },
+	{
+		"count": 2,
+		"name": "Antivenom",
+		"category": [
+			"Equipment",
+			"Other",
+			"Aira Item",
+			"Merchant Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
       "name": "Backscratcher",
@@ -1286,7 +1339,8 @@
       "name": "Cat Statue",
       "category": [
         "Equipment",
-        "Other"
+        "Other",
+		"Aira Item"
       ],
       "progression": true,
       "useful": true
@@ -1295,7 +1349,8 @@
       "count": 1,
       "name": "Music Box",
       "category": [
-        "Misc"
+        "Misc",
+		"Trading Reward"
       ],
       "filler": true
     },
@@ -1311,7 +1366,8 @@
       "count": 1,
       "name": "Ancient Grammophone",
       "category": [
-        "Misc"
+        "Misc",
+		"Selling Unlockable"
       ],
       "filler": true
     },
@@ -1319,7 +1375,8 @@
       "count": 1,
       "name": "Walnut Bread",
       "category": [
-        "Food"
+        "Food",
+		"Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1327,7 +1384,8 @@
       "count": 1,
       "name": "Egg Toast",
       "category": [
-        "Food"
+        "Food",
+		"Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1335,7 +1393,8 @@
       "count": 1,
       "name": "Roast Chicken",
       "category": [
-        "Food"
+        "Food",
+		"Survival Dungeon Item"
       ],
       "filler": true
     },
@@ -1343,7 +1402,8 @@
       "count": 2,
       "name": "Ham Sandwich",
       "category": [
-        "Food"
+        "Food",
+		"Survival Dungeon Item"
       ],
       "filler": true
     }
