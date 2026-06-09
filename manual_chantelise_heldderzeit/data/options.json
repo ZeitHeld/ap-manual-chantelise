@@ -89,7 +89,9 @@
                 "include_merchant": 2
             },
             "aliases": {
-                "aira_&_merchant": 2
+                "aira": 1,
+                "aira_&_merchant": 2,
+                "merchant": 2
             },
             "visibility": [
                 "simple_ui",
@@ -139,7 +141,7 @@
             "default": false,
             "group": "Randomization Options"
         },
-        "_spellsanity":{
+        "spellsanity":{
             "display_name": "Spellsanity",
             "description": "Adds in the Tier III and IV Spells into the pool.",
             "type": "Choice",
@@ -147,6 +149,14 @@
                 "none": 0,
                 "regular": 1,
                 "include_tier2": 2
+            },
+            "aliases": {
+                "tier3-4": 1,
+                "tier2-4": 2,
+                "tier3": 1,
+                "tier2": 2,
+                "3-4": 1,
+                "2-4": 2
             },
             "visibility": [
                 "simple_ui",
