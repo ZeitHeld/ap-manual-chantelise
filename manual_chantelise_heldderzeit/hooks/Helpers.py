@@ -5,12 +5,15 @@ from BaseClasses import MultiWorld
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the category, False to disable it, or None to use the default behavior
 def before_is_category_enabled(multiworld: MultiWorld, player: int, category_name: str) -> Optional[bool]:
-    # if category_name == "Aira Shop Shuffle":
-    #     return get_option_value(multiworld, player, "shop_shuffle") >= 1
-    # if category_name == "Merchant Shop Shuffle":
-    #     return get_option_value(multiworld, player, "shop_shuffle") >= 2
-    # if category_name == "Dungeon Shop Shuffle":
-    #     return get_option_value(multiworld, player, "shop_shuffle") >= 3
+    from ..Helpers import get_option_value
+    
+    if category_name == "Aira Shop Shuffle":
+        return get_option_value(multiworld, player, "shop_shuffle") >= 1
+    if category_name == "Merchant Shop Shuffle":
+        return get_option_value(multiworld, player, "shop_shuffle") >= 2
+    if category_name == "Survival Dungeon Shop Shuffle":
+        return get_option_value(multiworld, player, "shop_shuffle") >= 3
+    
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
