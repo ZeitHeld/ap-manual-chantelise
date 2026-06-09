@@ -102,5 +102,12 @@
     "entrance_requires": {
       "Map": "|Can Fish|"
     }
+  },
+  "Fishsanity": {
+    "connects_to": [
+      "Map"
+    ],
+    "starting": true,
+    "requires": "|Can Fish| AND {YamlEnabled(fishsanity)}"
   }
 }

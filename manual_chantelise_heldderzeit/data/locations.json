@@ -1071,6 +1071,420 @@
       "id": 516
     },
     {
+      "name": "Catch First Axolotl",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Axolotl|",
+      "id": 700
+    },
+    {
+      "name": "Catch First Clione",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Clione|",
+      "id": 701
+    },
+    {
+      "name": "Catch First Clownfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Clownfish|",
+      "id": 702
+    },
+    {
+      "name": "Catch First Little Blackfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Little Blackfish|",
+      "id": 703
+    },
+    {
+      "name": "Catch First Little Redfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Little Redfish|",
+      "id": 704
+    },
+    {
+      "name": "Catch First Lobster",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Lobster|",
+      "id": 705
+    },
+    {
+      "name": "Catch First Mantis Shrimp",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mantis Shrimp|",
+      "id": 706
+    },
+    {
+      "name": "Catch First Red Sea Cucumber",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Red Sea Cucumber|",
+      "id": 707
+    },
+    {
+      "name": "Catch First Sea Cucumber",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sea Cucumber|",
+      "id": 708
+    },
+    {
+      "name": "Catch First Arowana",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Arowana|",
+      "id": 730
+    },
+    {
+      "name": "Catch First Carp",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Carp|",
+      "id": 731
+    },
+    {
+      "name": "Catch First Carp Flag",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Carp Flag|",
+      "id": 732
+    },
+    {
+      "name": "Catch First Coelacanth",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Coelacanth|",
+      "id": 733
+    },
+    {
+      "name": "Catch First Conger Eel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Conger Eel|",
+      "id": 734
+    },
+    {
+      "name": "Catch First East-sea Mackerel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch East-sea Mackerel|",
+      "id": 735
+    },
+    {
+      "name": "Catch First Eel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Eel|",
+      "id": 736
+    },
+    {
+      "name": "Catch First Firefish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Firefish|",
+      "id": 737
+    },
+    {
+      "name": "Catch First Koi",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Koi|",
+      "id": 738
+    },
+    {
+      "name": "Catch First Mackerel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mackerel|",
+      "id": 739
+    },
+    {
+      "name": "Catch First Octopus",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Octopus|",
+      "id": 740
+    },
+    {
+      "name": "Catch First Penguin",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Penguin|",
+      "id": 741
+    },
+    {
+      "name": "Catch First Piranha",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Piranha|",
+      "id": 742
+    },
+    {
+      "name": "Catch First Pufferfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Pufferfish|",
+      "id": 743
+    },
+    {
+      "name": "Catch First Rainbow Trout",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Rainbow Trout|",
+      "id": 744
+    },
+    {
+      "name": "Catch First Red Sea Bream",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Red Sea Bream|",
+      "id": 745
+    },
+    {
+      "name": "Catch First Seabass",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Seabass|",
+      "id": 746
+    },
+    {
+      "name": "Catch First Snakehead",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Snakehead|",
+      "id": 747
+    },
+    {
+      "name": "Catch First Squid",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Squid|",
+      "id": 748
+    },
+    {
+      "name": "Catch First Sweetfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sweetfish|",
+      "id": 749
+    },
+    {
+      "name": "Catch First Taiyaki",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Taiyaki|",
+      "id": 750
+    },
+    {
+      "name": "Catch First Trilobyte",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Trilobyte|",
+      "id": 751
+    },
+    {
+      "name": "Catch First Tube-snout",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Tube-snout|",
+      "id": 752
+    },
+    {
+      "name": "Catch First Anglerfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Anglerfish|",
+      "id": 760
+    },
+    {
+      "name": "Catch First Aramaki Salmon",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Aramaki Salmon|",
+      "id": 761
+    },
+    {
+      "name": "Catch First Blue Shark",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Blue Shark|",
+      "id": 762
+    },
+    {
+      "name": "Catch First Boiled Octopus",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Boiled Octopus|",
+      "id": 763
+    },
+    {
+      "name": "Catch First Catfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Catfish|",
+      "id": 764
+    },
+    {
+      "name": "Catch First Giant Oarfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Giant Oarfish|",
+      "id": 765
+    },
+    {
+      "name": "Catch First Hammerhead",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Hammerhead|",
+      "id": 766
+    },
+    {
+      "name": "Catch First Manta",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Manta|",
+      "id": 767
+    },
+    {
+      "name": "Catch First Mecha-Coelacanth",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mecha-Coelacanth|",
+      "id": 768
+    },
+    {
+      "name": "Catch First Ocean Sunfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Ocean Sunfish|",
+      "id": 769
+    },
+    {
+      "name": "Catch First Salmon",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Salmon|",
+      "id": 770
+    },
+    {
+      "name": "Catch First Sperm Whale",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sperm Whale|",
+      "id": 771
+    },
+    {
+      "name": "Catch First Star Snapper",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Star Snapper|",
+      "id": 772
+    },
+    {
+      "name": "Catch First Yellowfin Tuna",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Yellowfin Tuna|",
+      "id": 773
+    },
+    {
       "name": "Ruined Main Gate - Treasure Chest",
       "region": "Terran Ruins",
       "category": [

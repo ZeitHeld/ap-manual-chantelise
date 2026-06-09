@@ -116,417 +116,373 @@
       "progression": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Anglerfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Aramaki Slamon",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Arowana",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Axolotl",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Blue Shark",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Boiled Octopus",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
+
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Carp",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Carp Flag",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
+  
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Catfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Clione",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Clownfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Coelacanth",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Conger Eel",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "East-sea Mackerel",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Eel",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Firefish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Giant Oarfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Hammerhead",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Koi",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Little Blackfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Little Redfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Lobster",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mackerel",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Manta",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mantis Shrimp",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mecha-Coelacanth",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Ocean Sunfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Octopus",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Penguin",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Piranha",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Pufferfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Rainbow Trout",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Red Sea Bream",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Red Sea Cucumber",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Salmon",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sea Cucucmber",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Seabass",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Snakehead",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sperm Whale",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Squid",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Star Snapper",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sweetfish",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Taiyaki",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Trilobyte",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Tube-snout",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Yellowfin Tuna",
       "category": [
         "Fish"
       ],
-      "progression_skip_balancing": true,
       "filler": true
     },
     {

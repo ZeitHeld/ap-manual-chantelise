@@ -18,6 +18,11 @@
             "fishsanity"
         ]
     },
+    "Fish": {
+        "yaml_option": [
+            "fishsanity"
+        ]
+    },
     "Shop Sell Unlock Shuffle": {
         "yaml_option": [
             "shop_sell_unlock"
@@ -43,5 +48,15 @@
     },
     "Survival Dungeon Item": {
         "hidden": true
+    },
+    "Spell": {
+        "yaml_option": [
+            "spellsanity"
+        ]
+    },
+    "Stage": {
+        "yaml_option": [
+            "stagesanity"
+        ]
     }
 }
