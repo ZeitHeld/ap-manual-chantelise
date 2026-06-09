@@ -44,6 +44,140 @@
     },
     {
       "count": 1,
+      "name": "Clusterbomb",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 2 Spell",
+        "Fire Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Icile Edge",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 2 Spell",
+        "Water Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Blitz",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 2 Spell",
+        "Air Spell"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Super Armor",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 2 Spell",
+        "Earth Spell"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Fire Wall",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 3 Spell",
+        "Fire Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Heal",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 3 Spell",
+        "Water Spell"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Tornado",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 3 Spell",
+        "Air Spell"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Meteor Impact",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 3 Spell",
+        "Earth Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fire Spirit",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 4 Spell",
+        "Fire Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Water Spirit",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 4 Spell",
+        "Water Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Wind Spirit",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 4 Spell",
+        "Air Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Earth Spirit",
+      "category": [
+        "Ability",
+        "Spell",
+        "Tier 4 Spell",
+        "Earth Spell"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
       "name": "Teacher's Pole",
       "category": [
         "Fishing Rod"
