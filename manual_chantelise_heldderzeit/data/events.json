@@ -101,7 +101,7 @@
     },
     {
         "name": "Can Catch Little Redfish",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |IGnan Ruins Access|)",
+        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Ignan Ruins Access|)",
         "visible": true
     },
     {
