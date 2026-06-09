@@ -139,7 +139,7 @@
             "default": false,
             "group": "Randomization Options"
         },
-        "_spellsanity":{
+        "spellsanity":{
             "display_name": "Spellsanity",
             "description": "Adds in the Tier III and IV Spells into the pool.",
             "type": "Choice",
