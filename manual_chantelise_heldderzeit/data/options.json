@@ -79,7 +79,7 @@
             "default": true,
             "group": "Gameplay Options"
         },
-        "_shop_shuffle":{
+        "shop_shuffle":{
             "display_name": "Shop Shuffle",
             "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
             "type": "Choice",
@@ -100,7 +100,7 @@
             "default": 2,
             "group": "Randomization Options"
         },
-        "_shop_sell_unlock":{
+        "shop_sell_unlock":{
             "display_name": "Shop Sell Unlock Shuffle",
             "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
             "type": "Toggle",
@@ -113,7 +113,7 @@
             "default": true,
             "group": "Randomization Options"
         },
-        "_fish_trade":{
+        "fish_trade":{
             "display_name": "Fish Trading",
             "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
             "type": "Toggle",
@@ -126,7 +126,7 @@
             "default": true,
             "group": "Randomization Options"
         },
-        "_fishanity":{
+        "fishanity":{
             "display_name": "Fishsanity",
             "description": "Includes First Time Catching a Fish as a Check.",
             "type": "Toggle",
