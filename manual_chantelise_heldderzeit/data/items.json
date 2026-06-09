@@ -116,7 +116,7 @@
       "progression": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Anglerfish",
       "category": [
         "Fish"
@@ -125,7 +125,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Aramaki Slamon",
       "category": [
         "Fish"
@@ -134,7 +134,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Arowana",
       "category": [
         "Fish"
@@ -143,7 +143,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Axolotl",
       "category": [
         "Fish"
@@ -152,7 +152,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Blue Shark",
       "category": [
         "Fish"
@@ -161,7 +161,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Boiled Octopus",
       "category": [
         "Fish"
@@ -170,7 +170,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Carp",
       "category": [
         "Fish"
@@ -179,7 +179,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Carp Flag",
       "category": [
         "Fish"
@@ -188,7 +188,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Catfish",
       "category": [
         "Fish"
@@ -197,7 +197,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Clione",
       "category": [
         "Fish"
@@ -206,7 +206,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Clownfish",
       "category": [
         "Fish"
@@ -215,7 +215,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Coelacanth",
       "category": [
         "Fish"
@@ -224,7 +224,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Conger Eel",
       "category": [
         "Fish"
@@ -233,7 +233,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "East-sea Mackerel",
       "category": [
         "Fish"
@@ -242,7 +242,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Eel",
       "category": [
         "Fish"
@@ -251,7 +251,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Firefish",
       "category": [
         "Fish"
@@ -260,7 +260,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Giant Oarfish",
       "category": [
         "Fish"
@@ -269,7 +269,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Hammerhead",
       "category": [
         "Fish"
@@ -278,7 +278,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Koi",
       "category": [
         "Fish"
@@ -287,7 +287,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Little Blackfish",
       "category": [
         "Fish"
@@ -296,7 +296,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Little Redfish",
       "category": [
         "Fish"
@@ -305,7 +305,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Lobster",
       "category": [
         "Fish"
@@ -314,7 +314,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mackerel",
       "category": [
         "Fish"
@@ -323,7 +323,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Manta",
       "category": [
         "Fish"
@@ -332,7 +332,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mantis Shrimp",
       "category": [
         "Fish"
@@ -341,7 +341,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Mecha-Coelacanth",
       "category": [
         "Fish"
@@ -350,7 +350,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Ocean Sunfish",
       "category": [
         "Fish"
@@ -359,7 +359,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Octopus",
       "category": [
         "Fish"
@@ -368,7 +368,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Penguin",
       "category": [
         "Fish"
@@ -377,7 +377,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Piranha",
       "category": [
         "Fish"
@@ -386,7 +386,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Pufferfish",
       "category": [
         "Fish"
@@ -395,7 +395,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Rainbow Trout",
       "category": [
         "Fish"
@@ -404,7 +404,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Red Sea Bream",
       "category": [
         "Fish"
@@ -413,7 +413,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Red Sea Cucumber",
       "category": [
         "Fish"
@@ -422,7 +422,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Salmon",
       "category": [
         "Fish"
@@ -431,7 +431,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sea Cucucmber",
       "category": [
         "Fish"
@@ -440,7 +440,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Seabass",
       "category": [
         "Fish"
@@ -449,7 +449,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Snakehead",
       "category": [
         "Fish"
@@ -458,7 +458,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sperm Whale",
       "category": [
         "Fish"
@@ -467,7 +467,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Squid",
       "category": [
         "Fish"
@@ -476,7 +476,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Star Snapper",
       "category": [
         "Fish"
@@ -485,7 +485,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Sweetfish",
       "category": [
         "Fish"
@@ -494,7 +494,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Taiyaki",
       "category": [
         "Fish"
@@ -503,7 +503,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Trilobyte",
       "category": [
         "Fish"
@@ -512,7 +512,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Tube-snout",
       "category": [
         "Fish"
@@ -521,7 +521,7 @@
       "filler": true
     },
     {
-      "count": 0,
+      "count": 1,
       "name": "Yellowfin Tuna",
       "category": [
         "Fish"
