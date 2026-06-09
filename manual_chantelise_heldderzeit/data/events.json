@@ -326,6 +326,6 @@
     },
     {
         "name": "Can Heal",
-        "requires": "|Progressive Spell Upgrade:1|"
+        "requires": "(|Progressive Spell Upgrade:1| AND YamlCompare{spellsanity == 'none'}) OR (((|Progressive Spell Upgrade:1| AND YamlCompare{spellsanity != 'include_tier2'}) OR (|Progressive Spell Upgrade:2| AND YamlCompare{spellsanity == 'include_tier2'})) AND |Heal|) "
     }
 ]
