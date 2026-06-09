@@ -86,12 +86,17 @@
             "values": {
                 "none": 0,
                 "aira_only": 1,
-                "include_merchant": 2
+                "include_merchant": 2,
+                "both_dungeon": 3
             },
             "aliases": {
                 "aira": 1,
                 "aira_&_merchant": 2,
-                "merchant": 2
+                "aira_merchant": 2,
+                "merchant": 2,
+                "dungeon": 3,
+                "include_dungeon": 3,
+                "aira_merchant_dungeon": 3
             },
             "visibility": [
                 "simple_ui",
