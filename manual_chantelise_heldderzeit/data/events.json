@@ -306,7 +306,7 @@
     },
     {
         "name": "Can Acquire Honey",
-        "requires": "|Ignan Ruins Access|"
+        "requires": "|Ignan Ruins Access| OR |Zephyran Ruins Access|"
     },
     {
         "name": "Can Acquire Wyvern Horn",
@@ -318,7 +318,7 @@
     },
     {
         "name": "Can Acquire Broken Seal",
-        "requires": "|Sealed Palace Access| OR |Survival Dungeon Access|"
+        "requires": "|Aquan Ruins Access| OR |Sealed Palace Access|"
     },
     {
         "name": "Can Acquire Water Shroom",
