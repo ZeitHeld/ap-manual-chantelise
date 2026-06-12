@@ -733,6 +733,9 @@
         "Aira Item",
         "Merchant Item"
       ],
+		  "values": {
+				"attack_mod": 20
+		  }
       "useful": true,
       "filler": true
     },
@@ -744,6 +747,9 @@
         "Glove",
         "Aira Item"
       ],
+			"values": {
+				"attack_mod": 30
+		  }
       "useful": true,
       "filler": true
     },
@@ -754,6 +760,9 @@
         "Equipment",
         "Glove"
       ],
+			"values": {
+				"attack_mod": 40
+		  }
       "useful": true,
       "filler": true
     },
@@ -766,6 +775,9 @@
         "Aira Item",
         "Trading Reward"
       ],
+			"values": {
+				"attack_mod": 50
+		  }
       "useful": true
     },
     {
@@ -775,6 +787,9 @@
         "Equipment",
         "Glove"
       ],
+			"values": {
+				"attack_mod": 60
+		  }
       "useful": true
     },
     {
@@ -785,6 +800,9 @@
         "Glove",
         "Sellng Unlockable"
       ],
+			"values": {
+				"attack_mod": 70
+		  }
       "useful": true
     },
     {
@@ -795,6 +813,9 @@
         "Glove",
         "Survival Dungeon Item"
       ],
+			"values": {
+				"attack_mod": 70
+		  }
       "useful": true
     },
     {
@@ -806,6 +827,9 @@
         "Aira Item",
         "Merchant Item"
       ],
+			"values": {
+				"defense_mod": 15
+		  }
       "useful": true,
       "filler": true
     },
@@ -816,6 +840,9 @@
         "Equipment",
         "Shield"
       ],
+			"values": {
+				"defense_mod": 25
+		  }
       "useful": true,
       "filler": true
     },
@@ -827,6 +854,9 @@
         "Shield",
         "Aira Item"
       ],
+			"values": {
+				"defense_mod": 35
+		  }
       "useful": true
     },
     {
@@ -836,6 +866,9 @@
         "Equipment",
         "Shield"
       ],
+			"values": {
+				"defense_mod": 45
+		  }
       "useful": true
     },
     {
@@ -845,6 +878,9 @@
         "Equipment",
         "Shield"
       ],
+			"values": {
+				"defense_mod": 55
+		  }
       "useful": true
     },
     {
@@ -855,6 +891,9 @@
         "Shield",
         "Survival Dungeon Item"
       ],
+			"values": {
+				"defense_mod": 65
+		  }
       "useful": true
     },
     {
@@ -865,6 +904,9 @@
         "Shield",
         "Selling Unlockable"
       ],
+			"values": {
+				"defense_mod": 15
+		  }
       "useful": true
     },
     {
@@ -875,6 +917,9 @@
         "Shield",
         "Trading Reward"
       ],
+			"values": {
+				"defense_mod": 15
+		  }
       "useful": true
     },
     {
@@ -885,6 +930,9 @@
         "Shield",
         "Trading Reward"
       ],
+			"values": {
+				"defense_mod": 15
+		  }
       "useful": true
     },
     {
@@ -895,6 +943,9 @@
         "Shield",
         "Aira Item"
       ],
+			"values": {
+				"defense_mod": 15
+		  }
       "useful": true
     },
     {
@@ -906,6 +957,9 @@
         "Aira Item",
         "Merchant Item"
       ],
+			"values": {
+				"magic_mod": 20
+		  }
       "useful": true,
       "filler": true
     },
@@ -917,6 +971,9 @@
         "Glove",
         "Aira Item"
       ],
+			"values": {
+				"magic_mod": 30
+		  }
       "useful": true,
       "filler": true
     },
@@ -927,6 +984,9 @@
         "Equipment",
         "Staff"
       ],
+			"values": {
+				"magic_mod": 40
+		  }
       "useful": true
     },
     {
@@ -936,6 +996,9 @@
         "Equipment",
         "Staff"
       ],
+			"values": {
+				"magic_mod": 50
+		  }
       "useful": true
     },
     {
@@ -945,6 +1008,9 @@
         "Equipment",
         "Staff"
       ],
+			"values": {
+				"magic_mod": 60
+		  }
       "useful": true
     },
     {
@@ -955,6 +1021,9 @@
         "Staff",
         "Survival Dungeon Item"
       ],
+			"values": {
+				"magic_mod": 70
+		  }
       "useful": true
     },
     {
@@ -964,6 +1033,9 @@
         "Equipment",
         "Charm"
       ],
+			"values": {
+				"magic_defense_mod": 20
+		  }
       "useful": true,
       "filler": true
     },
@@ -974,6 +1046,9 @@
         "Equipment",
         "Charm"
       ],
+			"values": {
+				"magic_defense_mod": 27
+		  }
       "useful": true,
       "filler": true
     },
@@ -985,6 +1060,9 @@
         "Charm",
         "Aira Item"
       ],
+			"values": {
+				"magic_defense_mod": 35
+		  }
       "useful": true
     },
     {
@@ -996,6 +1074,9 @@
         "Aira Item",
         "Trading Reward"
       ],
+			"values": {
+				"magic_defense_mod": 45
+		  }
       "useful": true
     },
     {
@@ -1005,6 +1086,9 @@
         "Equipment",
         "Charm"
       ],
+			"values": {
+				"magic_defense_mod": 55
+		  }
       "useful": true
     },
     {
@@ -1015,6 +1099,9 @@
         "Charm",
         "Trading Reward"
       ],
+			"values": {
+				"magic_defense_mod": 65
+		  }
       "useful": true
     },
     {
@@ -1025,6 +1112,9 @@
         "Charm",
         "Aira Item"
       ],
+			"values": {
+				"magic_defense_mod": 15
+		  }
       "useful": true
     },
 	{
@@ -1035,6 +1125,9 @@
 			"Charm",
 			"Selling Unlockable"
 		],
+		"values": {
+			"magic_defense_mod": 15
+		}
 		"useful": true
 	},
     {
@@ -1045,6 +1138,9 @@
 			"Charm",
 			"Trading Reward"
 		],
+		"values": {
+			"magic_defense_mod": 15
+		}
 		"useful": true
     },
     {
@@ -1055,6 +1151,9 @@
         "Charm",
 		    "Trading Reward"
       ],
+			"values": {
+				"magic_defense_mod": 15
+		  }
       "useful": true
     },
     {
