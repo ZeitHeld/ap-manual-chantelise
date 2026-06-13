@@ -725,6 +725,50 @@
       "progression": true
     },
     {
+      "count": 5,
+      "name": "Progressive Glove",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Shield",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
       "count": 3,
       "name": "Leather Gloves",
       "category": [
