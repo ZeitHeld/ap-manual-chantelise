@@ -280,17 +280,27 @@
     {
         "name": "Blazing Charm Unlockable",
         "requires": "(|Honey| OR |Can Acquire Honey|) AND (|Water Shroom| OR |Can Acquire Water Shroom|) AND (|Gunpowder| OR |Can Acquire Gunpowder|)",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Poison Crystal Unlockable",
         "requires": "(|Toothpick| OR |Can Acquire Toothpick|) AND (|Honey| OR |Can Acquire Honey|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Dragon Buster Unlockable",
         "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
-        "visible": true
+        "visible": false
+    },
+    {
+        "name": "Amber SHield Unlockable",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
+        "visible": false
+    },
+    {
+        "name": "Antique Gramophone Unlockable",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
+        "visible": false
     },
     {
         "name": "Can Acquire Gunpowder",
