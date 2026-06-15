@@ -293,7 +293,7 @@
         "visible": false
     },
     {
-        "name": "Amber SHield Unlockable",
+        "name": "Amber Shield Unlockable",
         "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
         "visible": false
     },

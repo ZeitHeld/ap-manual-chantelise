@@ -987,7 +987,7 @@
       "category": [
         "Shop Sell Unlock Shuffle"
       ],
-      "requires": "|Can Unlock Dragon Buster|",
+      "requires": "|Dragon Buster Unlockable|",
       "dont_place_item_category": [],
       "prehint": false,
       "id": 410
@@ -998,10 +998,10 @@
       "category": [
         "Shop Sell Unlock Shuffle"
       ],
-      "requires": "|Can Unlock Blazing Charm|",
+      "requires": "|Blazing Charm Unlockable|",
       "dont_place_item_category": [],
       "prehint": false,
-      "id": 410
+      "id": 411
     },
     {
       "name": "Sell Unlock - Poison Crystal Unlock",
@@ -1009,10 +1009,10 @@
       "category": [
         "Shop Sell Unlock Shuffle"
       ],
-      "requires": "|Can Unlock Poison Crystal|",
+      "requires": "|Poison Crystal Unlockable|",
       "dont_place_item_category": [],
       "prehint": false,
-      "id": 410
+      "id": 412
     },
     {
       "name": "Sell Unlock - Amber Shield Unlock",
@@ -1020,10 +1020,10 @@
       "category": [
         "Shop Sell Unlock Shuffle"
       ],
-      "requires": "|Can Unlock Amber Shield|",
+      "requires": "|Amber Shield Unlockable|",
       "dont_place_item_category": [],
       "prehint": false,
-      "id": 410
+      "id": 413
     },
     {
       "name": "Sell Unlock - Antique Gramophone Unlock",
@@ -1031,10 +1031,10 @@
       "category": [
         "Shop Sell Unlock Shuffle"
       ],
-      "requires": "|Can Unlock Antique Gramophone|",
+      "requires": "|Antique Gramophone Unlockable|",
       "dont_place_item_category": [],
       "prehint": false,
-      "id": 410
+      "id": 414
     },
     {
       "name": "Fish Trade - Golden Scales",
