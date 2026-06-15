@@ -109,5 +109,12 @@
     ],
     "starting": true,
     "requires": "|Can Fish| AND {YamlEnabled(fishsanity)}"
+  },
+  "Sell Unlock": {
+    "connects_to": [
+      "Town", "Familiar Forest"
+    ],
+    "starting": true,
+    "requires": "{YamlEnabled(shop_sell_unlock)}"
   }
 }
