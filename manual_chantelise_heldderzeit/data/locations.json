@@ -1635,8 +1635,8 @@
         "Regular Treasure"
       ],
       "requires": "",
-      "id": 800,
-      "sort-key": "row-8-1-0"
+      "id": 811,
+      "sort-key": "row-8-1-1"
     },
     {
       "name": "Deepest Cavern - Treasure Chest",
@@ -1645,8 +1645,8 @@
         "Regular Treasure"
       ],
       "requires": "",
-      "id": 801,
-      "sort-key": "row-8-1-1"
+      "id": 815,
+      "sort-key": "row-8-1-5"
     },
     {
       "name": "Volcano Path - Treasure Chest",
@@ -1655,8 +1655,8 @@
         "Regular Treasure"
       ],
       "requires": "",
-      "id": 810,
-      "sort-key": "row-8-2-0"
+      "id": 821,
+      "sort-key": "row-8-2-1"
     },
     {
       "name": "Spiral Corridor - Treasure Chest",
@@ -1665,8 +1665,8 @@
         "Regular Treasure"
       ],
       "requires": "",
-      "id": 820,
-      "sort-key": "row-8-3-0"
+      "id": 832,
+      "sort-key": "row-8-3-2"
     },
     {
       "name": "Emperor Bug's Tomb - Treasure Chest",
@@ -1675,11 +1675,11 @@
         "Regular Treasure"
       ],
       "requires": "",
-      "id": 830,
-      "sort-key": "row-8-4-0"
+      "id": 841,
+      "sort-key": "row-8-4-1"
     },
     {
-      "name": "All Hidden Treasures Found",
+      "name": "All Main Hidden Treasures Found",
       "region": "Map",
       "category": [""],
       "requires": "|Progressive Dungeon:5| AND |Winged Boots| AND |Speedboots|",
