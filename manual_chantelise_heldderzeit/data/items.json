@@ -680,7 +680,7 @@
       "category": [
         "Material",
         "Selling Unlock",
-        "Old Grammophone Unlock Material"
+        "Antique Gramophone Unlock Material"
       ],
       "progression": true
     },
@@ -690,7 +690,7 @@
       "category": [
         "Material",
         "Selling Unlock",
-        "Old Grammophone Unlock Material"
+        "Antique Gramophone Unlock Material"
       ],
       "progression": true
     },
@@ -1007,76 +1007,76 @@
       ],
       "useful": true
     },
-    {
-      "count": 1,
-      "name": "Omnicharm",
-      "category": [
-        "Equipment",
-        "Charm",
-        "Trading Reward"
-      ],
-      "useful": true
-    },
-    {
-      "count": 2,
-      "name": "Sand Charm",
-      "category": [
-        "Equipment",
-        "Charm",
-        "Aira Item"
-      ],
-      "useful": true
-    },
-	{
-		"count": 1,
-		"name": "Blazing Charm",
-		"category": [
-			"Equipment",
-			"Charm",
-			"Selling Unlockable"
-		],
-		"useful": true
-	},
-    {
-		"count": 1,
-		"name": "Wing Charm",
-		"category": [
-			"Equipment",
-			"Charm",
-			"Trading Reward"
-		],
-		"useful": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Charm",
-      "category": [
-        "Equipment",
-        "Charm",
-		    "Trading Reward"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Fire Crystal",
-      "category": [
-        "Equipment",
-        "Crystal"
-      ],
-      "useful": true
-    },
-    {
-		"count": 2,
-		"name": "Water Crystal",
-		"category": [
-			"Equipment",
-			"Crystal",
-			"Aira Item",
-			"Merchant Item"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Omnicharm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 2,
+			"name": "Sand Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Aira Item"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Blazing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Selling Unlockable"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Wing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Shell Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Fire Crystal",
+			"category": [
+				"Equipment",
+				"Crystal"
+			],
+			"useful": true
+		},
+	  {
+			"count": 2,
+			"name": "Water Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Aira Item",
+				"Merchant Item"
+			],
+			"useful": true
+		},
     {
       "count": 1,
       "name": "Earth Crystal",
@@ -1116,16 +1116,16 @@
       ],
       "useful": true
     },
-	{
-		"count": 1,
-		"name": "Paralysis Crystal",
-		"category": [
-			"Equipment",
-			"Crystal",
-			"Trading Reward"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Paralysis Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Trading Reward"
+			],
+			"useful": true
+		},
     {
 		"count": 1,
 		"name": "Poison Crystal",
@@ -1182,27 +1182,27 @@
       "progresion": true,
       "useful": true
     },
-	{
-		"count": 1,
-		"name": "Food Emblem",
-		"category": [
-			"Equipment",
-			"Emblem",
-			"Survival Dungeon Item"
-		],
-		"progresion": true,
-		"useful": true
-	},
-	{
-		"count": 1,
-		"name": "Air Emblem",
-		"category": [
-			"Equipment",
-			"Emblem",
-			"Survival Dungeon Item"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Food Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"progresion": true,
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Air Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"useful": true
+		},
     {
       "count": 1,
       "name": "Water Emblem",
@@ -1270,17 +1270,17 @@
       "progression": true,
       "useful": true
     },
-	{
-		"count": 2,
-		"name": "Antivenom",
-		"category": [
-			"Equipment",
-			"Other",
-			"Aira Item",
-			"Merchant Item"
-		],
-		"useful": true
-	},
+		{
+			"count": 2,
+			"name": "Antivenom",
+			"category": [
+				"Equipment",
+				"Other",
+				"Aira Item",
+				"Merchant Item"
+			],
+			"useful": true
+		},
     {
       "count": 1,
       "name": "Backscratcher",
@@ -1312,7 +1312,7 @@
     },
     {
       "count": 1,
-      "name": "Old Grammophone",
+      "name": "Old Gramophone",
       "category": [
         "Misc"
       ],
@@ -1320,12 +1320,57 @@
     },
     {
       "count": 1,
-      "name": "Ancient Grammophone",
+      "name": "Antique Gramophone",
       "category": [
         "Misc",
         "Selling Unlockable"
       ],
       "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Antique Gramophone Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Buster Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blazing Charm Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Poison Crystal Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Amber Shield Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
     },
     {
       "count": 1,
