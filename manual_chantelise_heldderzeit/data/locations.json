@@ -920,7 +920,7 @@
       "name": "Sell Unlock - Buy Dragon Buster",
       "region": "Merchant",
       "category": [
-        "Shop Shuffle", "Selling Unlock"
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Dragon Buster Unlock|",
       "dont_place_item_category": [
@@ -933,7 +933,7 @@
       "name": "Sell Unlock - Buy Blazing Charm",
       "region": "Merchant",
       "category": [
-        "Shop Shuffle", "Selling Unlock"
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Blazing Charm Unlock|",
       "dont_place_item_category": [
@@ -946,7 +946,7 @@
       "name": "Sell Unlock - Buy Poison Crystal",
       "region": "Merchant",
       "category": [
-        "Shop Shuffle", "Selling Unlock"
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Poison Crystal Unlock|",
       "dont_place_item_category": [
@@ -959,7 +959,7 @@
       "name": "Sell Unlock - Buy Amber Shield",
       "region": "Merchant",
       "category": [
-        "Shop Shuffle", "Selling Unlock"
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Amber Shield Unlock|",
       "dont_place_item_category": [
@@ -972,7 +972,7 @@
       "name": "Sell Unlock - Buy Antique Gramophone",
       "region": "Merchant",
       "category": [
-        "Shop Shuffle", "Selling Unlock"
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Antique Gramophone Unlock|",
       "dont_place_item_category": [
@@ -985,7 +985,7 @@
       "name": "Sell Unlock - Dragon Buster Unlock",
       "region": "Sell Unlock",
       "category": [
-        "Selling Unlock"
+        "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Can Unlock Dragon Buster|",
       "dont_place_item_category": [],
@@ -996,7 +996,7 @@
       "name": "Sell Unlock - Blazing Charm Unlock",
       "region": "Sell Unlock",
       "category": [
-        "Selling Unlock"
+        "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Can Unlock Blazing Charm|",
       "dont_place_item_category": [],
@@ -1007,7 +1007,7 @@
       "name": "Sell Unlock - Poison Crystal Unlock",
       "region": "Sell Unlock",
       "category": [
-        "Selling Unlock"
+        "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Can Unlock Poison Crystal|",
       "dont_place_item_category": [],
@@ -1018,7 +1018,7 @@
       "name": "Sell Unlock - Amber Shield Unlock",
       "region": "Sell Unlock",
       "category": [
-        "Selling Unlock"
+        "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Can Unlock Amber Shield|",
       "dont_place_item_category": [],
@@ -1029,7 +1029,7 @@
       "name": "Sell Unlock - Antique Gramophone Unlock",
       "region": "Sell Unlock",
       "category": [
-        "Selling Unlock"
+        "Shop Sell Unlock Shuffle"
       ],
       "requires": "|Can Unlock Antique Gramophone|",
       "dont_place_item_category": [],
