@@ -667,7 +667,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 308
+      "id": 321
     },
     {
       "name": "Aira's Shop - Buy Item 10 (Water Crystal)",
@@ -680,7 +680,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 309
+      "id": 322
     },
     {
       "name": "Aira's Shop - Buy Item 11 (Ferromin FX)",
@@ -692,7 +692,8 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 323
     },
     {
       "name": "Aira's Shop - Buy Item 12 (White Glove)",
@@ -704,7 +705,8 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 330
     },
     {
       "name": "Aira's Shop - Buy Item 13 (Hallowed Charm)",
@@ -716,7 +718,8 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 331
     },
     {
       "name": "Aira's Shop - Buy Item 14 (Ferromin R)",
@@ -728,7 +731,8 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 332
     },
     {
       "name": "Aira's Shop - Buy Item 15 (Cat Statue)",
@@ -740,7 +744,86 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 333
+    },
+    {
+      "name": "Aira's Shop - Buy Item 16 (Void Crystal)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 340
+    },
+    {
+      "name": "Aira's Shop - Buy Item 17 (Antivenom)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 350
+    },
+    {
+      "name": "Aira's Shop - Buy Item 18 (Air Crystal)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 351
+    },
+    {
+      "name": "Aira's Shop - Buy Item 19 (Ferromin S)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 352
+    },
+    {
+      "name": "Aira's Shop - Buy Item 20 (Jade Shield)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 353
+    },
+    {
+      "name": "Aira's Shop - Buy Item 21 (Sand Charm)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 354
     },
     {
       "name": "Merchant - Buy Item 1 (Leather Glove)",
@@ -753,7 +836,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 350
+      "id": 355
     },
     {
       "name": "Merchant - Buy Item 2 (Focus Staff)",
@@ -766,7 +849,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 351
+      "id": 361
     },
     {
       "name": "Merchant - Buy Item 3 (Wooden Shield)",
@@ -779,7 +862,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 352
+      "id": 362
     },
     {
       "name": "Merchant - Buy Item 4 (Antivenom)",
@@ -792,7 +875,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 353
+      "id": 363
     },
     {
       "name": "Merchant - Buy Item 5 (Water Crystal)",
@@ -805,7 +888,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 354
+      "id": 364
     },
     {
       "name": "Merchant - Buy Item 6 (Air Crystal)",
@@ -818,7 +901,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 355
+      "id": 365
     },
     {
       "name": "Merchant - Buy Item 7 (Ferromin)",
@@ -831,7 +914,127 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 356
+      "id": 366
+    },
+    {
+      "name": "Sell Unlock - Buy Dragon Buster",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Selling Unlock"
+      ],
+      "requires": "|Dragon Buster Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 400
+    },
+    {
+      "name": "Sell Unlock - Buy Blazing Charm",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Selling Unlock"
+      ],
+      "requires": "|Blazing Charm Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 401
+    },
+    {
+      "name": "Sell Unlock - Buy Poison Crystal",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Selling Unlock"
+      ],
+      "requires": "|Poison Crystal Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 402
+    },
+    {
+      "name": "Sell Unlock - Buy Amber Shield",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Selling Unlock"
+      ],
+      "requires": "|Amber Shield Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 403
+    },
+    {
+      "name": "Sell Unlock - Buy Antique Gramophone",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Selling Unlock"
+      ],
+      "requires": "|Antique Gramophone Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 404
+    },
+    {
+      "name": "Sell Unlock - Dragon Buster Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Selling Unlock"
+      ],
+      "requires": "|Can Unlock Dragon Buster|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
+    },
+    {
+      "name": "Sell Unlock - Blazing Charm Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Selling Unlock"
+      ],
+      "requires": "|Can Unlock Blazing Charm|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
+    },
+    {
+      "name": "Sell Unlock - Poison Crystal Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Selling Unlock"
+      ],
+      "requires": "|Can Unlock Poison Crystal|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
+    },
+    {
+      "name": "Sell Unlock - Amber Shield Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Selling Unlock"
+      ],
+      "requires": "|Can Unlock Amber Shield|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
+    },
+    {
+      "name": "Sell Unlock - Antique Gramophone Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Selling Unlock"
+      ],
+      "requires": "|Can Unlock Antique Gramophone|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
     },
     {
       "name": "Fish Trade - Golden Scales",
