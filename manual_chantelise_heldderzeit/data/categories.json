@@ -28,6 +28,11 @@
             "shop_sell_unlock"
         ]
     },
+    "Selling Unlock": {
+        "yaml_option": [
+            "shop_sell_unlock"
+        ]
+    },
     "Tier 2 Spell": {
         "hidden": true
     },
