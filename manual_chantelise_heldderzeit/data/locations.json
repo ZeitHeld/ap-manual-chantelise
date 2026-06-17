@@ -521,7 +521,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|Can Heal|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -535,7 +535,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Can Heal|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
