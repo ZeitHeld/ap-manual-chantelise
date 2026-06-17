@@ -63,7 +63,7 @@
                 "template",
                 "spoiler"
             ],
-            "default": true,
+            "default": false,
             "group": "Gameplay Options"
         },
         "_progressive_stages":{
@@ -94,6 +94,7 @@
                 "aira_&_merchant": 2,
                 "aira_merchant": 2,
                 "merchant": 2,
+                "both": 2,
                 "dungeon": 3,
                 "include_dungeon": 3,
                 "aira_merchant_dungeon": 3
