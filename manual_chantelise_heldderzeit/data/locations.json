@@ -107,7 +107,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Speedboots| OR |Winged Boots|",
+      "requires": "",
       "id": 113,
       "sort-key": "row-1-1-3"
     },
