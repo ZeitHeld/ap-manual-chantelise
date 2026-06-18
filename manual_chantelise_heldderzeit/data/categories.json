@@ -63,5 +63,13 @@
         "yaml_option": [
             "stagesanity"
         ]
+    },
+    "Barrel Sanity": {
+        "yaml_option": [
+            "barrelsanity"
+        ]
+    },
+    "Barrel Loot": {
+        "hidden": true
     }
 }
