@@ -1407,6 +1407,258 @@
         "Survival Dungeon Item"
       ],
       "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Ruins",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruined Main Gate",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Staircase",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hall",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Terran Ruins)",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deepest Caverns",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Insect King's Lair",
+      "category": [
+        "Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Mountain Path",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "TVolcano Path",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lava Pools",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Entrance to the Ruins",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halls of Flame",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mural Room",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colliseum",
+      "category": [
+        "Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wetland",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bridge to the Ruins",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Corridor",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Underwater City",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Silent Church",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guardian of the Ruins",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waterways",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest of Miasma",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Emperor-Bug's Tomb",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Windmill Bridge",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Engine Room",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Tempest",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Summit",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Floating Gardens",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
     }
   ]
 }
