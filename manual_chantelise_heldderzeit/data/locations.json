@@ -1375,6 +1375,356 @@
       "sort-key": "row-5-0-16"
     },
     {
+      "name": "Tutorial 3 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "",
+      "id": 703,
+      "sort-key": "row-7-0-3"
+    },
+    {
+      "name": "TR 1 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR 1 Stage|",
+      "id": 711,
+      "sort-key": "row-7-1-1"
+    },
+    {
+      "name": "TR 2 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 712,
+      "sort-key": "row-7-1-2"
+    },
+    {
+      "name": "TR 3 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 713,
+      "sort-key": "row-7-1-3"
+    },
+    {
+      "name": "TR 4 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 714,
+      "sort-key": "row-7-1-4"
+    },
+    {
+      "name": "TR 5 Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 715,
+      "sort-key": "row-7-1-5"
+    },
+    {
+      "name": "TR Bonus Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 717,
+      "sort-key": "row-7-1-7"
+    },
+    {
+      "name": "IR 1 Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 721,
+      "sort-key": "row-7-2-1"
+    },
+    {
+      "name": "IR 2 Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 722,
+      "sort-key": "row-7-2-2"
+    },
+    {
+      "name": "IR 3 Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 723,
+      "sort-key": "row-7-2-3"
+    },
+    {
+      "name": "IR 4 Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR 4 Stage|",
+      "id": 724,
+      "sort-key": "row-7-2-4"
+    },
+    {
+      "name": "IR 5 Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR 5 Stage|",
+      "id": 725,
+      "sort-key": "row-7-2-5"
+    },
+    {
+      "name": "IR Bonus Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|IR Bonus Stage|",
+      "id": 727,
+      "sort-key": "row-7-2-7"
+    },
+    {
+      "name": "AR 1 Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR 1 Stage|",
+      "id": 731,
+      "sort-key": "row-7-3-1"
+    },
+    {
+      "name": "AR 2 Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR 2 Stage|",
+      "id": 732,
+      "sort-key": "row-7-3-2"
+    },
+    {
+      "name": "AR 3 Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR 3 Stage|",
+      "id": 733,
+      "sort-key": "row-7-3-3"
+    },
+    {
+      "name": "AR 4 Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR 4 Stage|",
+      "id": 734,
+      "sort-key": "row-7-3-4"
+    },
+    {
+      "name": "AR 5 Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 735,
+      "sort-key": "row-7-3-5"
+    },
+    {
+      "name": "AR Bonus Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|AR Bonus Stage|",
+      "id": 737,
+      "sort-key": "row-7-3-7"
+    },
+    {
+      "name": "ZR 1 Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR 1 Stage|",
+      "id": 741,
+      "sort-key": "row-7-4-1"
+    },
+    {
+      "name": "ZR 2 Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR 2 Stage|",
+      "id": 742,
+      "sort-key": "row-7-4-2"
+    },
+    {
+      "name": "ZR 3 Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 743,
+      "sort-key": "row-7-4-3"
+    },
+    {
+      "name": "ZR 4 Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR 4 Stage|",
+      "id": 744,
+      "sort-key": "row-7-4-4"
+    },
+    {
+      "name": "ZR 5 Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR 5 Stage|",
+      "id": 745,
+      "sort-key": "row-7-4-5"
+    },
+    {
+      "name": "ZR Bonus Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|ZR Bonus Stage|",
+      "id": 747,
+      "sort-key": "row-7-4-7"
+    },
+    {
+      "name": "SP 1 Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP 1 Stage|",
+      "id": 751,
+      "sort-key": "row-7-5-1"
+    },
+    {
+      "name": "SP 2 Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 752,
+      "sort-key": "row-7-5-2"
+    },
+    {
+      "name": "SP 3 Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP 3 Stage|",
+      "id": 753,
+      "sort-key": "row-7-5-3"
+    },
+    {
+      "name": "SP 4 Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP 4 Stage|",
+      "id": 754,
+      "sort-key": "row-7-5-4"
+    },
+    {
+      "name": "SP 5 Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP 5 Stage|",
+      "id": 755,
+      "sort-key": "row-7-5-5"
+    },
+    {
+      "name": "SP Bonus Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SP Bonus Stage|",
+      "id": 757,
+      "sort-key": "row-7-5-7"
+    },
+    {
+      "name": "FF 1 Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|FF 1 Stage|",
+      "id": 761,
+      "sort-key": "row-7-6-1"
+    },
+    {
+      "name": "FF 2 Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|FF 2 Stage|",
+      "id": 762,
+      "sort-key": "row-7-6-2"
+    },
+    {
+      "name": "FF 3 Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|FF 3 Stage|",
+      "id": 763,
+      "sort-key": "row-7-6-3"
+    },
+    {
+      "name": "SD 1 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity"
+      ],
+      "requires": "|SD 1 Stage|",
+      "id": 771,
+      "sort-key": "row-7-7-1"
+    },
+    {
       "name": "Catch First Axolotl",
       "region": "Fishsanity",
       "category": [
