@@ -62,6 +62,36 @@
       "sort-key": "row-0-3-1"
     },
     {
+      "name": "Observe the Blood Moon",
+      "region": "Map",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 40,
+      "sort-key": "row-0-4-0"
+    },
+    {
+      "name": "Report to Aira - Reward 1",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 41,
+      "sort-key": "row-0-4-1"
+    },
+    {
+      "name": "Report to Aira - Reward 2",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 42,
+      "sort-key": "row-0-4-2"
+    },
+    {
       "name": "Tutorial 3 - Hidden Treasure",
       "region": "The Plains",
       "category": [
