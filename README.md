@@ -3,8 +3,9 @@ Chantelise is a 2.5D Anime-Style Dungeon Crawler.
 It's old and tough but still Charming and fun.
 
 ## Requirements
-- Chantelise (Available on [Steam](https://store.steampowered.com/app/70420/Chantelise__A_Tale_of_Two_Sisters/) or [GamersGate](https://www.gamersgate.com/de/product/chantelise-a-tale-of-two-sisters/?srsltid=AfmBOoohRZ7UbwFaSpQmetKfYUg5A4yPf8rng5ki1Ptk4L3tjmgqFspX) - Steam Reccommended)
+- Chantelise (Available on [Steam](https://store.steampowered.com/app/70420/Chantelise__A_Tale_of_Two_Sisters/) (Reccommended) or [GamersGate](https://www.gamersgate.com/de/product/chantelise-a-tale-of-two-sisters/?srsltid=AfmBOoohRZ7UbwFaSpQmetKfYUg5A4yPf8rng5ki1Ptk4L3tjmgqFspX))
 - [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) and [Manual Client](https://github.com/ManualForArchipelago/Manual)
+- (Optional) Universal Tracker
 - [Latest Release of the Chantelise AP-Manual apWorld](https://github.com/ZeitHeld/ap-manual-chantelise/releases)
 - A strong will
 - Patience
