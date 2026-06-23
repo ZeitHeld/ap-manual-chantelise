@@ -551,7 +551,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|AR Boss Stage| AND |Can Heal|",
+      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -565,7 +565,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Aquan Stage| AND |Can Heal|",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
@@ -578,7 +578,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|ZR Boss Stage| AND |Can Heal|",
+      "requires": "|ZR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -592,7 +592,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Zephyran Stage| AND |Can Heal|",
+      "requires": "|Every Main Zephyran Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Aeolian Wyvern Flag"
       ],
@@ -605,7 +605,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|SP Boss Stage| AND |Can Heal|",
+      "requires": "|SP Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "dont_place_item": [
         "Progressive Dungeon"
       ],
@@ -622,7 +622,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Palace Stage| AND |Can Heal|",
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "place_item": [
         "Beat The Forgotten Archdevil Flag"
       ],
@@ -634,7 +634,7 @@
       "region": "Sealed Palace",
       "victory": true,
       "category": [],
-      "requires": "|Every Main Palace Stage| AND |Can Heal|"
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|"
     },
     
     {

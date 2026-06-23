@@ -83,7 +83,7 @@
     },
     {
       "count": 3,
-      "name": "Progressive Equipment Slot Expansion",
+      "name": "Progressive Equipment Slot",
       "category": [
         "Ability"
       ],
@@ -772,16 +772,17 @@
       "progression": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
       "name": "Leather Gloves",
       "category": [
         "Equipment",
         "Glove",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 2,
@@ -801,8 +802,7 @@
         "Equipment",
         "Glove"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 2,
@@ -822,7 +822,8 @@
         "Equipment",
         "Glove"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -832,7 +833,8 @@
         "Glove",
         "Selling Unlockable"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -842,19 +844,21 @@
         "Glove",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
       "name": "Wooden Shield",
       "category": [
         "Equipment",
         "Shield",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 1,
@@ -883,7 +887,8 @@
         "Equipment",
         "Shield"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -892,7 +897,8 @@
         "Equipment",
         "Shield"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -902,7 +908,8 @@
         "Shield",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -945,23 +952,24 @@
       "useful": true
     },
     {
-      "count": 4,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 2
+      },
       "name": "Focus Staff",
       "category": [
         "Equipment",
         "Staff",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 1,
       "name": "Magician's Staff",
       "category": [
         "Equipment",
-        "Glove",
+        "Staff",
         "Aira Item"
       ],
       "useful": true,
@@ -983,7 +991,8 @@
         "Equipment",
         "Staff"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -992,7 +1001,8 @@
         "Equipment",
         "Staff"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -1002,7 +1012,8 @@
         "Staff",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -1043,7 +1054,8 @@
         "Aira Item",
         "Trading Reward"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -1052,7 +1064,8 @@
         "Equipment",
         "Charm"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
 		{
 			"count": 1,
@@ -1062,17 +1075,20 @@
 				"Charm",
 				"Trading Reward"
 			],
-			"useful": true
+			"useful": true,
+      "progression_skip_balancing": true
 		},
 		{
-			"count": 2,
+			"classification_count": {
+        "useful": 1,
+        "useful + filler": 1
+      },
 			"name": "Sand Charm",
 			"category": [
 				"Equipment",
 				"Charm",
 				"Aira Item"
-			],
-			"useful": true
+			]
 		},
 		{
 			"count": 1,
@@ -1226,7 +1242,7 @@
         "Equipment",
         "Emblem"
       ],
-      "progresion": true,
+      "progresion_skip_balancing": true,
       "useful": true
     },
 		{
@@ -1308,8 +1324,8 @@
     },
     {
       "classification_count": {
-        "progression  + useful": 1,
-        "useful": 2
+        "progression + useful": 1,
+        "useful + filler": 2
       },
       "name": "Soul Pendant",
       "category": [
