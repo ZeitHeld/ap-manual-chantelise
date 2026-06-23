@@ -2135,6 +2135,16 @@
       "sort-key": "row-10-3-5"
     },
     {
+      "name": "Crystal Hall Hidden Treasure Barrel",
+      "region": "Sealed Palace",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1046,
+      "sort-key": "row-10-51"
+    },
+    {
       "name": "All Main Hidden Treasures Found",
       "region": "Map",
       "category": [""],
