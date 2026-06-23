@@ -29,10 +29,10 @@ It's old and tough but still Charming and fun.
 - (Some) Story Events and other Flags
 - Fishasnity
   - Catch a fish for the first time for a randomized reward!
-
-## Upcoming/Planned Features
 - Stagesanity
   - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check.
+
+## Upcoming/Planned Features
 - Survival Dungeon Shop Shuffle Inclusion
 - Survival Dungeon Floor Rewards
 - Spellsanity
@@ -45,6 +45,8 @@ It's old and tough but still Charming and fun.
   - If you're willing, you can also restrict your HP to rely on Fermins to increase them. If so, you start out with 30 HP.
 - "The Plains" and "Town" are always available, and the Tutorial should be (seen as) completed.
 - After defeating a Boss, check it's Location as well as the Flag Location.
+  - Flags can only be obtained, if you have reached and defeated the Boss in Story Mode. Regular Boss Rewards can be done via Map Selection.
 - Since Aira's Shop (and the Merchants?) change their sortiment as the game progresses (making some unavialable in-game) It suffices to visit the shop to be able to check them off.
   - Similarly, since the prices keep increasing with every purchase, you don't have to actually purchase them
 - Death Link activates once you die (or lost all your technically available HP)
+- Goals that require to defeat a Boss have same condition as their respective Flags, needing to get there in Story Mode.
