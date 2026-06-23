@@ -431,7 +431,7 @@
         "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:7| OR |Waterways|)))"
     },
     {
-        "name": "Every Main Forest Stage",
+        "name": "Every Main Aquan Stage",
         "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|AR 1 Stage| AND |AR 2 Stage| AND |AR 3 Stage| AND |AR 4 Stage| AND |AR 5 Stage| AND |AR Boss Stage|)))"
     },
     {
