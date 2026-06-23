@@ -190,7 +190,7 @@
         },
         "barrelsanity":{
             "display_name": "Barrelsanity",
-            "description": "Includes First Time Catching a Fish as a Check.",
+            "description": "Breaking a Barrel sends an item.",
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
