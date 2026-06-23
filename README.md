@@ -7,6 +7,7 @@ It's old and tough but still Charming and fun.
 - [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) and [Manual Client](https://github.com/ManualForArchipelago/Manual)
 - (Optional) Universal Tracker
 - [Latest Release of the Chantelise AP-Manual apWorld](https://github.com/ZeitHeld/ap-manual-chantelise/releases)
+- (Optional but Reccomended) A (near) 100% Save File of Chantelise
 - A strong will
 - Patience
 
@@ -32,3 +33,7 @@ It's old and tough but still Charming and fun.
   - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check.
 - Survival Dungeon Shop Shuffle Inclusion
 - Survival Dungeon Floor Rewards
+
+# Rules & Restrictions
+- You start out with 2 Equipment Slots and
+- Death Link activates once you die
