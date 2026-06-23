@@ -26,12 +26,12 @@
     },
     {
         "name": "Can Catch Boiled Octopus",
-        "requires": "|Can Fish| AND (|IR 5 Stage| OR |IR 6 Stage| OR |IR 7 Stage|)",
+        "requires": "|Can Fish| AND (|IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Carp",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |IR 1 Stage| OR |AR 1 Stage| OR |AR 3 Stage| OR |AR 7 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |IR 1 Stage| OR |AR 1 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
@@ -96,12 +96,12 @@
     },
     {
         "name": "Can Catch Little Blackfish",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |Town Access| OR |TR 1 Stage| OR |TR 2 Stage| OR |TR 6 Stage| OR |TR 7 Stage| OR |IR 1 Stage| OR |AR 2 Stage| OR |AR 3 Stage| OR |AR 7 Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |ZR 3 Stage| OR |ZR 7 Stage| OR |SP 3 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage| OR |FF 3 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |Town Access| OR |TR 1 Stage| OR |TR 2 Stage| OR |TR Boss Stage| OR |TR Bonus Stage| OR |IR 1 Stage| OR |AR 2 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |ZR 3 Stage| OR |ZR Bonus Stage| OR |SP 3 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Little Redfish",
-        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |IR 3 Stage| OR |IR 4 Stage|) OR |IR 5 Stage|) OR |IR 6 Stage|) OR |IR 7 Stage|))",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |IR 3 Stage| OR |IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
@@ -141,7 +141,7 @@
     },
     {
         "name": "Can Catch Penguin",
-        "requires": "|Can Fish| AND (|Town Access| OR |TR 2 Stge| OR |TR Boss Stage|)",
+        "requires": "|Can Fish| AND (|Town Access| OR |TR 2 Stage| OR |TR Boss Stage|)",
         "visible": true
     },
     {
@@ -181,7 +181,7 @@
     },
     {
         "name": "Can Catch Seabass",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |AR 7 Stage| OR |ZR 7 Stage| OR |Familiar Forest Access| OR |FF 1 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |AR Bonus Stage| OR |ZR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage|)",
         "visible": true
     },
     {
@@ -206,7 +206,7 @@
     },
     {
         "name": "Can Catch Sweetfish",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |Familiar Forest Access| OR |FF1 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage|)",
         "visible": true
     },
     {
@@ -226,7 +226,7 @@
     },
     {
         "name": "Can Catch Yellowfin Tuna",
-        "requires": "|Can Fish| AND (|ZR Stage| OR |SP Bonus Stage|)",
+        "requires": "|Can Fish| AND (|ZR 3 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
@@ -548,10 +548,10 @@
     },
     {
         "name": "All Hidden Treasures Main Access",
-        "requires": "{CanReachLocation(Tutorial 3 - Hidden Treasure)} AND {CanReachLocation(Path to the Ruins - Hidden Treasure)} AND {CanReachLocation(Ruined Main Gate - Hidden Treasure)} AND {CanReachLocation(Grand Staircase - Hidden Treasure)} AND {CanReachLocation(Cave (Terran Ruins) - Hidden Treasure)} AND {CanReachLocation(Deepest Caverns - Hidden Treasure)} AND {CanReachLocation(Insect King's Lair - Hidden Treasure)} AND {CanReachLocation(The Mountain Path - Hidden Treasure)} AND {CanReachLocation(Volcano Path - Hidden Treasure)} AND {CanReachLocation(Lava Pools - Hidden Treasure)} AND {CanReachLocation(Entrance to the Ruins - Hidden Treasure)} AND {CanReachLocation(Halls of Flame - Hidden Treasure)} AND {CanReachLocation(Mural Room - Hidden Treasure)} AND {CanReachLocation(Colliseum - Hidden Treasure)} AND {CanReachLocation(Wetland - Hidden Treasure)} AND {CanReachLocation(Bridge to the Ruins - Hidden Treasure)} AND {CanReachLocation(Spiral Corridor - Hidden Treasure)} AND {CanReachLocation(Underwater City - Hidden Treasure)} AND {CanReachLocation(Silent Church - Hidden Treasure)} AND {CanReachLocation(Guardian of the Ruins - Hidden Treasure)} AND {CanReachLocation(Waterways - Hidden Treasure)} AND {CanReachLocation(Forest of Miasma - Hidden Treasure)} AND {CanReachLocation(Emperor-Bug's Tomb - Hidden Treasure)} AND {CanReachLocation(The Windmill Bridge - Hidden Treasure)} AND {CanReachLocation(Engine Room - Hidden Treasure)} AND {CanReachLocation(The Tempest - Hidden Treasure)} AND {CanReachLocation(Mountain Summit - Hidden Treasure)} AND {CanReachLocation(Floating Garden - Hidden Treasure)} AND {CanReachLocation(Path to the Palace - Hidden Treasure)} AND {CanReachLocation(Crystal Hall - Hidden Treasure)} AND {CanReachLocation(Sealed Door - Hidden Treasure)} AND {CanReachLocation(The Silhouette - Hidden Treasure)} AND {CanReachLocation(The Showdown - Hidden Treasure)} AND {CanReachLocation(The Last Battle - Hidden Treasure)} AND {CanReachLocation(The Lonely Ship - Hidden Treasure)}"
+        "requires": "{CanReachLocation(Tutorial 3 - Hidden Treasure)} AND |TR 1 Stage| AND |TR 2 Stage| AND |TR 3 Stage| AND |TR 4 Stage| AND |TR Boss Stage| AND |TR Bonus Stage| AND |IR 1 Stage| AND |IR 2 Stage| AND |IR 3 Stage| AND |IR 4 Stage| AND |IR Boss Stage| AND |IR Bonus Stage| AND |AR 1 Stage| AND |AR 2 Stage| AND |AR 3 Stage| AND |AR 4 Stage| AND |AR Boss Stage| AND |AR Bonus Stage| AND |ZR 1 Stage| AND |ZR 2 Stage| AND |ZR 3 Stage| AND |ZR 4 Stage| AND |ZR Boss Stage| AND |ZR Bonus Stage| AND |SP 1 Stage| AND |SP 2 Stage| AND |SP 3 Stage| AND |SP 4 Stage| AND |SP Boss Stage| AND |SP Bonus Stage|"
     },
     {
         "name": "All Hidden Treasures Full Access",
-        "requires": "|All Hidden Treasures Main Access| AND {CanReachLocation(Forest, the First - Hidden Treasure)} AND {CanReachLocation(Forest, the Second - Hidden Treasure)} AND {CanReachLocation(Cave (Familiar Forest) - Hidden Treasure)} AND {CanReachLocation(Rat Hole - Hidden Treasure)}"
+        "requires": "|All Hidden Treasures Main Access| AND |FF 1 Stage| AND |FF 2 Stage| AND |FF 3 Stage| AND |FF Boss Stage|"
     }
 ]

@@ -64,15 +64,17 @@
         ]
     },
     "Stage": {
-        "yaml_option": [
-            "stagesanity",
-            "!progressive_stages"
-        ]
     },
     "Progressive Stage": {
         "yaml_option": [
             "stagesanity",
             "progressive_stages"
+        ]
+    },
+    "Separate Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "!progressive_stages"
         ]
     },
     "Progressive Dungeon": {

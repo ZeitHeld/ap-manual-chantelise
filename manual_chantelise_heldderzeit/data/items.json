@@ -1307,26 +1307,28 @@
       "useful": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "progression  + useful": 1,
+        "useful": 2
+      },
       "name": "Soul Pendant",
       "category": [
         "Equipment",
         "Accessory",
         "Trading Reward"
-      ],
-      "progression": true,
-      "useful": true
+      ]
     },
-		{
-			"count": 2,
+		{"classification_count": {
+        "useful": 1,
+        "filler": 1
+      },
 			"name": "Antivenom",
 			"category": [
 				"Equipment",
 				"Other",
 				"Aira Item",
 				"Merchant Item"
-			],
-			"useful": true
+			]
 		},
     {
       "count": 1,
@@ -1338,15 +1340,16 @@
       "useful": true
     },
     {
-      "count": 2,
+      "classification_count": {
+        "progression  + useful": 1,
+        "useful": 1
+      },
       "name": "Cat Statue",
       "category": [
         "Equipment",
         "Other",
         "Aira Item"
-      ],
-      "progression": true,
-      "useful": true
+      ]
     },
     {
       "count": 1,
@@ -1611,7 +1614,7 @@
     },
     {
       "count": 1,
-      "name": "TVolcano Path",
+      "name": "Volcano Path",
       "category": [
         "Stage",
         "Stagesanity",
@@ -1724,6 +1727,8 @@
       "name": "Silent Church",
       "category": [
         "Stage",
+        "Stagesanity",
+        "Separate Stage",
         "Aquan Stage"
       ],
       "progression": true
@@ -1733,6 +1738,8 @@
       "name": "Guardian of the Ruins",
       "category": [
         "Stage",
+        "Stagesanity",
+        "Separate Stage",
         "Aquan Stage"
       ],
       "progression": true
@@ -1941,6 +1948,72 @@
         "Stagesanity",
         "Separate Stage",
         "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Survival Dungeon Boss Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 10",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 20",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 30",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 40",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 50",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
       ],
       "progression": true
     }

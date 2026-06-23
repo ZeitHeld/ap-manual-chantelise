@@ -1784,7 +1784,7 @@
         "Stagesanity",
         "Dungeon Clear"
       ],
-      "requires": "|FF Bonus Stage|",
+      "requires": "|FF Boss Stage|",
       "id": 664,
       "sort-key": "row-6-6-4"
     },
