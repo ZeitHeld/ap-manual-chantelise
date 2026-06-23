@@ -1405,7 +1405,7 @@
     },
     {
       "name": "Tutorial 3 Clear",
-      "region": "Terran Ruins",
+      "region": "The Plains",
       "category": [
         "Stagesanity",
         "Dungeon Clear"
@@ -2265,7 +2265,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 2 Stage|",
       "id": 811,
       "sort-key": "row-8-1-1"
     },
@@ -2275,7 +2275,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "id": 815,
       "sort-key": "row-8-1-5"
     },
@@ -2285,7 +2285,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 2 Stage|",
       "id": 821,
       "sort-key": "row-8-2-1"
     },
@@ -2295,7 +2295,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 3 Stage|",
       "id": 832,
       "sort-key": "row-8-3-2"
     },
@@ -2305,7 +2305,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|ZR 2 Stage|",
       "id": 841,
       "sort-key": "row-8-4-1"
     },

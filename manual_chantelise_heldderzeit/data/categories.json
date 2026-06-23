@@ -63,28 +63,57 @@
             "spellsanity"
         ]
     },
-    "Stage": {
-    },
     "Progressive Stage": {
         "yaml_option": [
             "stagesanity",
             "progressive_stages"
-        ]
+        ],
+        "hidden": true
     },
     "Separate Stage": {
         "yaml_option": [
             "stagesanity",
             "!progressive_stages"
-        ]
+        ],
+        "hidden": true
     },
     "Progressive Dungeon": {
         "yaml_option": [
             "progressive_dungoens"
-        ]
+        ],
+        "hidden": true
     },
     "Separate Dungeon": {
         "yaml_option": [
             "!progressive_dungoens"
-        ]
+        ],
+        "hidden": true
+    },
+    "Stagesanity": {
+        "yaml_option": [
+            "stagesanity"
+        ],
+        "hidden": true
+    },
+    "Terran Stage": {
+        "hidden": true
+    },
+    "Ignan Stage": {
+        "hidden": true
+    },
+    "Aquan Stage": {
+        "hidden": true
+    },
+    "Zephyran Stage": {
+        "hidden": true
+    },
+    "Palace Stage": {
+        "hidden": true
+    },
+    "Forest Stage": {
+        "hidden": true
+    },
+    "Survival Dungeon Stage": {
+        "hidden": true
     }
 }
