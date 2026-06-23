@@ -5,10 +5,57 @@
       "count": 5,
       "name": "Progressive Dungeon",
       "category": [
-        "Dungeon Unlock"
+        "Dungeon Unlock",
+        "Progressive Dungeon"
       ],
       "progression": true,
       "early": true
+    },
+    {
+      "count": 1,
+      "name": "Terran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Ignan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aquan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zephyran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Palace",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
     },
     {
       "count": 2,
@@ -1407,6 +1454,495 @@
         "Survival Dungeon Item"
       ],
       "filler": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Terran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Ignan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Aquan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Zephyran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Sealed Palace Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 4,
+      "name": "Progressive Familiar Forest Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruined Main Gate",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Staircase",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Terran Ruins)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deepest Caverns",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Insect King's Lair",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Mountain Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "TVolcano Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lava Pools",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Entrance to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halls of Flame",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mural Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colliseum",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wetland",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bridge to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Corridor",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Underwater City",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Silent Church",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guardian of the Ruins",
+      "category": [
+        "Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waterways",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest of Miasma",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Emperor-Bug's Tomb",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Windmill Bridge",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Engine Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Tempest",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Summit",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Floating Gardens",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Palace",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crystal Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Door",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Silhouette",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Showdown",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Last Battle",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Lonely Ship",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the First",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the Second",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Familiar Forest)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rat Hole",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
     }
   ]
 }

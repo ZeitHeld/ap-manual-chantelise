@@ -34,6 +34,10 @@
         ]
     },
     "Tier 2 Spell": {
+        "yaml_option": [
+            "spellsanity",
+            "include_tier2_spells"
+        ],
         "hidden": true
     },
     "Aira Item": {
@@ -61,7 +65,24 @@
     },
     "Stage": {
         "yaml_option": [
-            "stagesanity"
+            "stagesanity",
+            "!progressive_stages"
+        ]
+    },
+    "Progressive Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "progressive_stages"
+        ]
+    },
+    "Progressive Dungeon": {
+        "yaml_option": [
+            "progressive_dungoens"
+        ]
+    },
+    "Separate Dungeon": {
+        "yaml_option": [
+            "!progressive_dungoens"
         ]
     }
 }
