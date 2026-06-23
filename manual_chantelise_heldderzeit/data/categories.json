@@ -92,8 +92,7 @@
     "Stagesanity": {
         "yaml_option": [
             "stagesanity"
-        ],
-        "hidden": true
+        ]
     },
     "Terran Stage": {
         "hidden": true
@@ -114,6 +113,14 @@
         "hidden": true
     },
     "Survival Dungeon Stage": {
+        "hidden": true
+    },
+    "Barrel Sanity": {
+        "yaml_option": [
+            "barrelsanity"
+        ]
+    },
+    "Barrel Loot": {
         "hidden": true
     }
 }

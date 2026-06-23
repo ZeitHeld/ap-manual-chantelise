@@ -187,6 +187,19 @@
             ],
             "default": 0,
             "group": "Randomization Options"
+        },
+        "barrelsanity":{
+            "display_name": "Barrelsanity",
+            "description": "Includes First Time Catching a Fish as a Check.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Randomization Options"
         }
     }
 

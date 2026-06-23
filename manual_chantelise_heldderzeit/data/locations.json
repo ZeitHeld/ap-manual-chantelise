@@ -2310,6 +2310,266 @@
       "sort-key": "row-8-4-1"
     },
     {
+      "name": "Town Dead End Front Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1001,
+      "sort-key": "row-10-0-1"
+    },
+    {
+      "name": "Town Dead End Back Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1002,
+      "sort-key": "row-10-0-2"
+    },
+    {
+      "name": "Town Shop Near Sign Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1003,
+      "sort-key": "row-10-0-3"
+    },
+    {
+      "name": "Town Front House Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1004,
+      "sort-key": "row-10-0-4"
+    },
+    {
+      "name": "Town Back House Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1005,
+      "sort-key": "row-10-0-5"
+    },
+    {
+      "name": "Town Back Sign Barrel",
+      "region": "Town",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1006,
+      "sort-key": "row-10-0-6"
+    },
+    {
+      "name": "Grand Staircase Top West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1021,
+      "sort-key": "row-10-2-1"
+    },
+    {
+      "name": "Grand Staircase Top East Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1022,
+      "sort-key": "row-10-2-2"
+    },
+    {
+      "name": "Grand Staircase Center Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1023,
+      "sort-key": "row-10-2-3"
+    },
+    {
+      "name": "Grand Staircase Middle East Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1024,
+      "sort-key": "row-10-2-4"
+    },
+    {
+      "name": "Hall Hidden Treasure Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1025,
+      "sort-key": "row-10-2-5"
+    },
+    {
+      "name": "Terran Cave Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1026,
+      "sort-key": "row-10-2-6"
+    },
+    {
+      "name": "Terran Cave Roast Chicken Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1027,
+      "sort-key": "row-10-2-7"
+    },
+    {
+      "name": "Terran Cave South-West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1028,
+      "sort-key": "row-10-2-8"
+    },
+    {
+      "name": "Terran Cave North-West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1029,
+      "sort-key": "row-10-2-9"
+    },
+    {
+      "name": "Deepest Caverns North Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1030,
+      "sort-key": "row-10-2-10"
+    },
+    {
+      "name": "Deepest Caverns West Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1031,
+      "sort-key": "row-10-2-11"
+    },
+    {
+      "name": "Deepest Caverns South Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1032,
+      "sort-key": "row-10-2-12"
+    },
+    {
+      "name": "Deepest Caverns East Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1033,
+      "sort-key": "row-10-2-13"
+    },
+    {
+      "name": "Deepest Caverns Lonely Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1035,
+      "sort-key": "row-10-2-14"
+    },
+    {
+      "name": "Volcano Path Hidden Treasure Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1041,
+      "sort-key": "row-10-3-1"
+    },
+    {
+      "name": "Lava Pools Entrance Front Left Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1042,
+      "sort-key": "row-10-3-2"
+    },
+    {
+      "name": "Lava Pools Entrance Front Right Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1043,
+      "sort-key": "row-10-3-3"
+    },
+    {
+      "name": "Lava Pools Entrance Center Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1044,
+      "sort-key": "row-10-3-4"
+    },
+    {
+      "name": "Lava Pools Entrance Back Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1045,
+      "sort-key": "row-10-3-5"
+    },
+    {
+      "name": "Crystal Hall Hidden Treasure Barrel",
+      "region": "Sealed Palace",
+      "category": [
+        "Barrel Sanity"
+      ],
+      "requires": "",
+      "id": 1046,
+      "sort-key": "row-10-51"
+    },
+    {
       "name": "All Main Hidden Treasures Found",
       "region": "Map",
       "category": [""],
