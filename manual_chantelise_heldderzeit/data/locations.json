@@ -107,7 +107,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 1 Stage|",
       "id": 110,
       "sort-key": "row-1-1-0"
     },
@@ -117,7 +117,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 2 Stage|",
       "id": 111,
       "sort-key": "row-1-1-1"
     },
@@ -127,7 +127,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 112,
       "sort-key": "row-1-1-2"
     },
@@ -137,7 +137,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 4 Stage|",
       "id": 113,
       "sort-key": "row-1-1-3"
     },
@@ -147,7 +147,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 5 Stage|",
       "id": 114,
       "sort-key": "row-1-1-4"
     },
@@ -157,7 +157,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "id": 115,
       "sort-key": "row-1-1-5"
     },
@@ -167,7 +167,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Bonus Stage|",
       "id": 116,
       "sort-key": "row-1-1-6"
     },
@@ -237,7 +237,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR Bonus Stage|",
       "id": 126,
       "sort-key": "row-1-2-6"
     },
@@ -247,7 +247,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|AR 1 Stage| AND |Winged Boots|",
       "id": 130,
       "sort-key": "row-1-3-0"
     },
@@ -257,7 +257,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 2 Stage|",
       "id": 131,
       "sort-key": "row-1-3-1"
     },
@@ -267,7 +267,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 3 Stage|",
       "id": 132,
       "sort-key": "row-1-3-2"
     },
@@ -277,7 +277,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 4 Stage|",
       "id": 133,
       "sort-key": "row-1-3-3"
     },
@@ -287,7 +287,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 5 Stage|",
       "id": 134,
       "sort-key": "row-1-3-4"
     },
@@ -297,7 +297,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR Boss Stage|",
       "id": 135,
       "sort-key": "row-1-3-5"
     },
@@ -307,7 +307,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR Bonus Stage|",
       "id": 136,
       "sort-key": "row-1-3-6"
     },
@@ -317,7 +317,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
+      "requires": "|ZR 1 Stage| AND |Can Fish|",
       "id": 140,
       "sort-key": "row-1-4-0"
     },
@@ -327,9 +327,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR 2 Stage| AND |Winged Boots|",
       "id": 141,
-      "sort-key": "row-1-4-0"
+      "sort-key": "row-1-4-1"
     },
     {
       "name": "The Windmill Bridge - Hidden Treasure",
@@ -337,7 +337,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR 3 Stage| AND |Winged Boots|",
       "id": 142,
       "sort-key": "row-1-4-2"
     },
@@ -347,7 +347,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|ZR 4 Stage|",
       "id": 143,
       "sort-key": "row-1-4-3"
     },
@@ -357,7 +357,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Speedboots|",
+      "requires": "|ZR 5 Stage| AND |Speedboots|",
       "id": 144,
       "sort-key": "row-1-4-4"
     },
@@ -377,7 +377,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR Bonus Stage| AND |Winged Boots|",
       "id": 146,
       "sort-key": "row-1-4-6"
     },
@@ -387,7 +387,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|SP 1 Stage| AND |Winged Boots|",
       "id": 150,
       "sort-key": "row-1-5-0"
     },
@@ -397,7 +397,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 2 Stage|",
       "id": 151,
       "sort-key": "row-1-5-1"
     },
@@ -407,7 +407,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 3 Stage|",
       "id": 152,
       "sort-key": "row-1-5-2"
     },
@@ -417,7 +417,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 4 Stage|",
       "id": 153,
       "sort-key": "row-1-5-3"
     },
@@ -524,7 +524,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|IR Boss Stage|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -538,7 +538,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Ignan Stage|",
       "place_item": [
         "Beat Volcanicrab Flag"
       ],
@@ -551,7 +551,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|AR Boss Stage| AND |Can Heal|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -565,7 +565,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
@@ -578,7 +578,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|ZR Boss Stage| AND |Can Heal|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -592,7 +592,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|Every Main Zephyran Stage| AND |Can Heal|",
       "place_item": [
         "Beat Aeolian Wyvern Flag"
       ],
@@ -605,7 +605,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|SP Boss Stage| AND |Can Heal|",
       "dont_place_item": [
         "Progressive Dungeon"
       ],
