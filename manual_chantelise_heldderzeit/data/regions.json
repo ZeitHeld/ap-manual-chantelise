@@ -87,9 +87,6 @@
     "requires": ""
   },
   "Merchant": {
-    "connects_to": [
-      "Sell Unlock"
-    ],
     "requires": ""
   },
   "Fishsanity": {
@@ -100,9 +97,6 @@
     "requires": "|Can Fish| AND {YamlEnabled(fishsanity)}"
   },
   "Sell Unlock": {
-    "connects_to": [
-      "Merchant"
-    ],
     "starting": true,
     "requires": "{YamlEnabled(shop_sell_unlock)}"
   }

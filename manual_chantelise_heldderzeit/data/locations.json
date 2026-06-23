@@ -62,6 +62,36 @@
       "sort-key": "row-0-3-1"
     },
     {
+      "name": "Observe the Blood Moon",
+      "region": "Map",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 40,
+      "sort-key": "row-0-4-0"
+    },
+    {
+      "name": "Report to Aira - Reward 1",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 41,
+      "sort-key": "row-0-4-1"
+    },
+    {
+      "name": "Report to Aira - Reward 2",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 42,
+      "sort-key": "row-0-4-2"
+    },
+    {
       "name": "Tutorial 3 - Hidden Treasure",
       "region": "The Plains",
       "category": [
@@ -77,7 +107,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 1 Stage|",
       "id": 110,
       "sort-key": "row-1-1-0"
     },
@@ -87,7 +117,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 2 Stage|",
       "id": 111,
       "sort-key": "row-1-1-1"
     },
@@ -97,7 +127,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 112,
       "sort-key": "row-1-1-2"
     },
@@ -107,7 +137,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 4 Stage|",
       "id": 113,
       "sort-key": "row-1-1-3"
     },
@@ -117,7 +147,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 5 Stage|",
       "id": 114,
       "sort-key": "row-1-1-4"
     },
@@ -127,7 +157,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "id": 115,
       "sort-key": "row-1-1-5"
     },
@@ -137,7 +167,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Bonus Stage|",
       "id": 116,
       "sort-key": "row-1-1-6"
     },
@@ -147,7 +177,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 1 Stage|",
       "id": 120,
       "sort-key": "row-1-2-0"
     },
@@ -157,7 +187,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 2 Stage|",
       "id": 121,
       "sort-key": "row-1-2-1"
     },
@@ -167,7 +197,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 3 Stage|",
       "id": 122,
       "sort-key": "row-1-2-2"
     },
@@ -177,7 +207,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 4 Stage|",
       "id": 123,
       "sort-key": "row-1-2-3"
     },
@@ -187,7 +217,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 5 Stage|",
       "id": 124,
       "sort-key": "row-1-2-4"
     },
@@ -197,7 +227,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR Boss Stage|",
       "id": 125,
       "sort-key": "row-1-2-5"
     },
@@ -207,7 +237,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|IR Bonus Stage|",
       "id": 126,
       "sort-key": "row-1-2-6"
     },
@@ -217,7 +247,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|AR 1 Stage| AND |Winged Boots|",
       "id": 130,
       "sort-key": "row-1-3-0"
     },
@@ -227,7 +257,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 2 Stage|",
       "id": 131,
       "sort-key": "row-1-3-1"
     },
@@ -237,7 +267,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 3 Stage|",
       "id": 132,
       "sort-key": "row-1-3-2"
     },
@@ -247,7 +277,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 4 Stage|",
       "id": 133,
       "sort-key": "row-1-3-3"
     },
@@ -257,7 +287,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 5 Stage|",
       "id": 134,
       "sort-key": "row-1-3-4"
     },
@@ -267,7 +297,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR Boss Stage|",
       "id": 135,
       "sort-key": "row-1-3-5"
     },
@@ -277,7 +307,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|AR Bonus Stage|",
       "id": 136,
       "sort-key": "row-1-3-6"
     },
@@ -287,7 +317,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
+      "requires": "|ZR 1 Stage| AND |Can Fish|",
       "id": 140,
       "sort-key": "row-1-4-0"
     },
@@ -297,9 +327,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR 2 Stage| AND |Winged Boots|",
       "id": 141,
-      "sort-key": "row-1-4-0"
+      "sort-key": "row-1-4-1"
     },
     {
       "name": "The Windmill Bridge - Hidden Treasure",
@@ -307,7 +337,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR 3 Stage| AND |Winged Boots|",
       "id": 142,
       "sort-key": "row-1-4-2"
     },
@@ -317,7 +347,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|ZR 4 Stage|",
       "id": 143,
       "sort-key": "row-1-4-3"
     },
@@ -327,7 +357,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Speedboots|",
+      "requires": "|ZR 5 Stage| AND |Speedboots|",
       "id": 144,
       "sort-key": "row-1-4-4"
     },
@@ -337,7 +367,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|ZR Boss Stage|",
       "id": 145,
       "sort-key": "row-1-4-5"
     },
@@ -347,7 +377,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
+      "requires": "|ZR Bonus Stage| AND |Winged Boots|",
       "id": 146,
       "sort-key": "row-1-4-6"
     },
@@ -357,7 +387,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 1 Stage| AND |Winged Boots|",
       "id": 150,
       "sort-key": "row-1-5-0"
     },
@@ -367,7 +397,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 2 Stage|",
       "id": 151,
       "sort-key": "row-1-5-1"
     },
@@ -377,7 +407,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 3 Stage|",
       "id": 152,
       "sort-key": "row-1-5-2"
     },
@@ -387,7 +417,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP 4 Stage|",
       "id": 153,
       "sort-key": "row-1-5-3"
     },
@@ -397,7 +427,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
+      "requires": "|SP 5 Stage| AND |Can Fish|",
       "id": 154,
       "sort-key": "row-1-5-4"
     },
@@ -407,7 +437,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|SP Boss Stage|",
       "id": 155,
       "sort-key": "row-1-5-5"
     },
@@ -417,7 +447,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
+      "requires": "|SP Bonus Stage| AND |Can Fish|",
       "id": 156,
       "sort-key": "row-1-5-6"
     },
@@ -427,7 +457,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
+      "requires": "|FF 1 Stage|",
       "id": 160,
       "sort-key": "row-1-6-0"
     },
@@ -437,7 +467,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
+      "requires": "|FF 2 Stage|",
       "id": 161,
       "sort-key": "row-1-6-1"
     },
@@ -447,7 +477,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access| AND |Can Fish|",
+      "requires": "|FF 3 Stage| AND |Can Fish|",
       "id": 162,
       "sort-key": "row-1-6-2"
     },
@@ -457,7 +487,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
+      "requires": "|FF Boss Stage|",
       "id": 163,
       "sort-key": "row-1-6-3"
     },
@@ -467,7 +497,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -481,7 +511,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Terran Stage|",
       "place_item": [
         "Beat Terran Golem Flag"
       ],
@@ -494,7 +524,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|IR Boss Stage|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -508,7 +538,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Ignan Stage|",
       "place_item": [
         "Beat Volcanicrab Flag"
       ],
@@ -521,7 +551,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -535,7 +565,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
@@ -548,7 +578,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|ZR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -562,7 +592,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|Every Main Zephyran Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Aeolian Wyvern Flag"
       ],
@@ -575,7 +605,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|SP Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "dont_place_item": [
         "Progressive Dungeon"
       ],
@@ -589,11 +619,10 @@
     {
       "name": "Defeat The Forgotten Archdevil - Flag",
       "region": "Sealed Palace",
-      "victory": false,
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Can Heal|",
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "place_item": [
         "Beat The Forgotten Archdevil Flag"
       ],
@@ -601,11 +630,11 @@
       "sort-key": "row-2-4-1"
     },
     {
-      "name": "Defeat The Forgotten Archdevil - Victory",
+      "name": "Defeat The Forgotten Archdevil",
       "region": "Sealed Palace",
       "victory": true,
       "category": [],
-      "requires": "|Can Heal|"
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|"
     },
     
     {
@@ -1375,6 +1404,402 @@
       "sort-key": "row-5-0-16"
     },
     {
+      "name": "Tutorial 3 Clear",
+      "region": "The Plains",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "",
+      "id": 603,
+      "sort-key": "row-6-0-3"
+    },
+    {
+      "name": "Path to the Ruins Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 1 Stage|",
+      "id": 611,
+      "sort-key": "row-6-1-1"
+    },
+    {
+      "name": "Ruined Main Gate Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 612,
+      "sort-key": "row-6-1-2"
+    },
+    {
+      "name": "Grand Staircase Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 613,
+      "sort-key": "row-6-1-3"
+    },
+    {
+      "name": "Hall Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 614,
+      "sort-key": "row-6-1-4"
+    },
+    {
+      "name": "Cave (Terran Ruins) Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 615,
+      "sort-key": "row-6-1-5"
+    },
+    {
+      "name": "Insect King's Lair Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 617,
+      "sort-key": "row-6-1-7"
+    },
+    {
+      "name": "The Mountain Path Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 621,
+      "sort-key": "row-6-2-1"
+    },
+    {
+      "name": "Volcano Path Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 622,
+      "sort-key": "row-6-2-2"
+    },
+    {
+      "name": "Lava Pools Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 623,
+      "sort-key": "row-6-2-3"
+    },
+    {
+      "name": "Entrance to the Ruins Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 4 Stage|",
+      "id": 624,
+      "sort-key": "row-6-2-4"
+    },
+    {
+      "name": "Halls of Flame Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 5 Stage|",
+      "id": 625,
+      "sort-key": "row-6-2-5"
+    },
+    {
+      "name": "Colliseum Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR Bonus Stage|",
+      "id": 627,
+      "sort-key": "row-6-2-7"
+    },
+    {
+      "name": "Wetland Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 1 Stage|",
+      "id": 631,
+      "sort-key": "row-6-3-1"
+    },
+    {
+      "name": "Bridge to the Ruins Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 2 Stage|",
+      "id": 632,
+      "sort-key": "row-6-3-2"
+    },
+    {
+      "name": "Spiral Corridor Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 3 Stage|",
+      "id": 633,
+      "sort-key": "row-6-3-3"
+    },
+    {
+      "name": "Underwater City Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 4 Stage|",
+      "id": 634,
+      "sort-key": "row-6-3-4"
+    },
+    {
+      "name": "Silent Church Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 635,
+      "sort-key": "row-6-3-5"
+    },
+    {
+      "name": "Waterways Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR Bonus Stage|",
+      "id": 637,
+      "sort-key": "row-6-3-7"
+    },
+    {
+      "name": "Forest of Miasma Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 1 Stage|",
+      "id": 641,
+      "sort-key": "row-6-4-1"
+    },
+    {
+      "name": "Emperor-Bug's Tomb Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 2 Stage|",
+      "id": 642,
+      "sort-key": "row-6-4-2"
+    },
+    {
+      "name": "The Windmill Bridge Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 643,
+      "sort-key": "row-7-4-3"
+    },
+    {
+      "name": "Engine Room Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 4 Stage|",
+      "id": 644,
+      "sort-key": "row-6-4-4"
+    },
+    {
+      "name": "The Tempest Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 5 Stage|",
+      "id": 645,
+      "sort-key": "row-6-4-5"
+    },
+    {
+      "name": "Floating Gardens Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR Bonus Stage|",
+      "id": 647,
+      "sort-key": "row-6-4-7"
+    },
+    {
+      "name": "Path to the Palace Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 1 Stage|",
+      "id": 651,
+      "sort-key": "row-6-5-1"
+    },
+    {
+      "name": "Crystal Hall Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 652,
+      "sort-key": "row-6-5-2"
+    },
+    {
+      "name": "Sealed Door Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 3 Stage|",
+      "id": 653,
+      "sort-key": "row-6-5-3"
+    },
+    {
+      "name": "The Silhouette Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 4 Stage|",
+      "id": 654,
+      "sort-key": "row-6-5-4"
+    },
+    {
+      "name": "The Showdown Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 5 Stage|",
+      "id": 655,
+      "sort-key": "row-6-5-5"
+    },
+    {
+      "name": "The Lonely Ship Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP Bonus Stage|",
+      "id": 657,
+      "sort-key": "row-6-5-7"
+    },
+    {
+      "name": "Forest, the First Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 1 Stage|",
+      "id": 661,
+      "sort-key": "row-6-6-1"
+    },
+    {
+      "name": "Forest, the Second Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 2 Stage|",
+      "id": 662,
+      "sort-key": "row-6-6-2"
+    },
+    {
+      "name": "Cave (Familiar Forest) Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 3 Stage|",
+      "id": 663,
+      "sort-key": "row-6-6-3"
+    },
+    {
+      "name": "Rat Hole Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF Boss Stage|",
+      "id": 664,
+      "sort-key": "row-6-6-4"
+    },
+    {
+      "name": "Survival Dungeon Floor 10 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 10 Stage|",
+      "id": 671,
+      "sort-key": "row-6-7-1"
+    },
+    {
       "name": "Catch First Axolotl",
       "region": "Fishsanity",
       "category": [
@@ -1840,7 +2265,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|TR 2 Stage|",
       "id": 811,
       "sort-key": "row-8-1-1"
     },
@@ -1850,7 +2275,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "id": 815,
       "sort-key": "row-8-1-5"
     },
@@ -1860,7 +2285,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|IR 2 Stage|",
       "id": 821,
       "sort-key": "row-8-2-1"
     },
@@ -1870,7 +2295,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|AR 3 Stage|",
       "id": 832,
       "sort-key": "row-8-3-2"
     },
@@ -1880,7 +2305,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
+      "requires": "|ZR 2 Stage|",
       "id": 841,
       "sort-key": "row-8-4-1"
     },
@@ -2148,9 +2573,27 @@
       "name": "All Main Hidden Treasures Found",
       "region": "Map",
       "category": [""],
-      "requires": "|Progressive Dungeon:5| AND |Winged Boots| AND |Speedboots|",
+      "requires": "|All Hidden Treasures Main Access|",
       "id": 9000,
-      "sort-key": "row-99-99-99"
+      "sort-key": "row-90-0-0"
+    },
+    {
+      "name": "Open Every Hidden Treasures",
+      "region": "Map",
+      "category": [""],
+      "requires": "|All Hidden Treasures Full Access|",
+      "victory": true,
+      "id": 9001,
+      "sort-key": "row-90-0-1"
+    },
+    {
+      "name": "Defeat Every Boss",
+      "region": "Map",
+      "category": [""],
+      "requires": "{CanReachLocation(Defeat Terran Golem - Flag)} AND CanReachLocation(Defeat Volcanicrab - Flag)} AND CanReachLocation(Defeat Electrojelly - Flag)} AND CanReachLocation(Defeat Aeolian Wyvern - Flag)} AND CanReachLocation(Defeat The Forgotten Archdevil - Flag)}",
+      "victory": true,
+      "id": 9010,
+      "sort-key": "row-90-1-0"
     }
   ]
 }
