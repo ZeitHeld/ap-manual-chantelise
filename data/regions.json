@@ -1,0 +1,103 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "Map": {
+    "starting": true,
+    "connects_to": [
+      "The Plains",
+      "Town",
+      "Terran Ruins",
+      "Ignan Ruins",
+      "Aquan Ruins",
+      "Zephyran Ruins",
+      "Sealed Palace",
+      "Familiar Forest",
+      "Survival Dungeon"
+    ],
+    "requires": ""
+  },
+  "The Plains": {
+    "starting": true,
+    "connects_to": [
+      "Map",
+      "Fish Trading"
+    ],
+    "requires": ""
+  },
+  "Town": {
+    "starting": true,
+    "connects_to": [
+      "Map",
+      "Aira's Shop"
+    ],
+    "requires": ""
+  },
+  "Terran Ruins": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Progressive Dungeon:1|"
+  },
+  "Ignan Ruins": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Progressive Dungeon:2|"
+  },
+  "Aquan Ruins": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Progressive Dungeon:3|"
+  },
+  "Zephyran Ruins": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Progressive Dungeon:4|"
+  },
+  "Sealed Palace": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Progressive Dungeon:5|"
+  },
+  "Familiar Forest": {
+    "connects_to": [
+      "Merchant"
+    ],
+    "requires": "|Progressive Familiar Forest:1|"
+  },
+  "Survival Dungeon": {
+    "connects_to": [
+      "Map"
+    ],
+    "requires": "|Survival Dungeon|"
+  },
+  "Fish Trading": {
+    "connects_to": [
+      "The Plains"
+    ],
+    "requires": "|Can Fish| AND |Beat Electrojelly Flag|"
+  },
+  "Aira's Shop": {
+    "connects_to": [
+      "Town"
+    ],
+    "starting": true,
+    "requires": ""
+  },
+  "Merchant": {
+    "requires": ""
+  },
+  "Fishsanity": {
+    "connects_to": [
+      "Map"
+    ],
+    "starting": true,
+    "requires": "|Can Fish| AND {YamlEnabled(fishsanity)}"
+  },
+  "Sell Unlock": {
+    "starting": true,
+    "requires": "{YamlEnabled(shop_sell_unlock)}"
+  }
+}

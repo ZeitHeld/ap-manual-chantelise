@@ -1,0 +1,2106 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+  "data": [
+    {
+      "count": 5,
+      "name": "Progressive Dungeon",
+      "category": [
+        "Dungeon Unlock",
+        "Progressive Dungeon"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Terran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Ignan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aquan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zephyran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Palace",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Progressive Familiar Forest",
+      "category": [
+        "Dungeon Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon",
+      "category": [
+        "Dungeon Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 2,
+      "name": "Progressive Spell Upgrade",
+      "category": [
+        "Ability"
+      ],
+      "progression": true
+    },
+    {
+      "count": 3,
+      "name": "Progressive Equipment Slot",
+      "category": [
+        "Ability"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Teacher's Pole",
+      "category": [
+        "Fishing Rod"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "BlamFisher RX",
+      "category": [
+        "Fishing Rod"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Old Man Pole",
+      "category": [
+        "Fishing Rod",
+        "Trading Reward"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bassmaster Pole",
+      "category": [
+        "Fishing Rod"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beat Terran Golem Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beat Volcanicrab Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beat Electrojelly Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beat Aeolian Wyvern Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Beat The Forgotten Archdevil Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Anglerfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Aramaki Slamon",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Arowana",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Axolotl",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Blue Shark",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Boiled Octopus",
+      "category": [
+        "Fish"
+      ],
+
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Carp",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Carp Flag",
+      "category": [
+        "Fish"
+      ],
+  
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Catfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Clione",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Clownfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Coelacanth",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Conger Eel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "East-sea Mackerel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Eel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Firefish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Giant Oarfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Hammerhead",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Koi",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Little Blackfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Little Redfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Lobster",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Mackerel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Manta",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Mantis Shrimp",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Mecha-Coelacanth",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Ocean Sunfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Octopus",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Penguin",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Piranha",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Pufferfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Rainbow Trout",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Red Sea Bream",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Red Sea Cucumber",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Salmon",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Sea Cucucmber",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Seabass",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Snakehead",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Sperm Whale",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Squid",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Star Snapper",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Sweetfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Taiyaki",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Trilobyte",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Tube-snout",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Yellowfin Tuna",
+      "category": [
+        "Fish"
+      ],
+      "filler": true
+    },
+    {
+      "count": 0,
+      "name": "Thankful Statue",
+      "category": [
+        "Treasure"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Scales",
+      "category": [
+        "Treasure",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 2,
+      "name": "Golden Pedestal",
+      "category": [
+        "Treasure",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Unthankful Statue",
+      "category": [
+        "Treasure",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Golden Candy",
+      "category": [
+        "Treasure",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 0,
+      "name": "Hawk Statue",
+      "category": [
+        "Treasure"
+      ],
+      "filler": true
+    },
+    {
+      "count": 5,
+      "name": "Ferromin",
+      "category": [
+        "Fermin",
+        "Aira Item",
+        "Merchant Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 10
+      }
+    },
+    {
+      "count": 2,
+      "name": "Ferromin G",
+      "category": [
+        "Fermin",
+        "Aira Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 12
+      }
+    },
+    {
+      "count": 2,
+      "name": "Ferromin FX",
+      "category": [
+        "Fermin",
+        "Aira Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 14
+      }
+    },
+    {
+      "count": 2,
+      "name": "Ferromin R",
+      "category": [
+        "Fermin",
+        "Aira Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 16
+      }
+    },
+    {
+      "count": 1,
+      "name": "Ferromin S",
+      "category": [
+        "Fermin",
+        "Aira Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 18
+      }
+    },
+    {
+      "count": 1,
+      "name": "Ferromin L",
+      "category": [
+        "Fermin"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 20
+      }
+    },
+    {
+      "count": 1,
+      "name": "Omega Ferromin",
+      "category": [
+        "Fermin",
+        "Survival Dungeon Item"
+      ],
+      "useful": true,
+      "value": {
+        "extra_health": 22
+      }
+    },
+    {
+      "count": 0,
+      "name": "Gunpowder",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Blazing Charm Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Honey",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Blazing Charm Unlock Material",
+        "Poison Crystal Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Water Shroom",
+      "category": [
+        "Material",
+        "Selling Unlock Material",
+        "Blazing Charm Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Toothpick",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Poison Crystal Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Insect King Shell",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Poison Crystal Unlock Material",
+        "Dragon Buster Unlock Material",
+        "Amber Shield Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Gold Horn",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Antique Gramophone Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Black Horn",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Antique Gramophone Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Wyvern Horn",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Dragon Buster Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Broken Seal",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Dragon Buster Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Slime Liver",
+      "category": [
+        "Material",
+        "Selling Unlock",
+        "Amber Shield Unlock Material"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Glove",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Shield",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Progressive Equipment"
+      ],
+      "progression": true,
+      "useful": true
+    },
+    {
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
+      "name": "Leather Gloves",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Aira Item",
+        "Merchant Item",
+        "Standalone Equipment"
+      ]
+    },
+    {
+      "count": 2,
+      "name": "Tough Gloves",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Aira Item",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Silver Gauntlet",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Standalone Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "White Gauntlet",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Aira Item",
+        "Trading Reward",
+        "Standalone Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Rocket Glove",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Buster",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Selling Unlockable",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Star Glove",
+      "category": [
+        "Equipment",
+        "Glove",
+        "Survival Dungeon Item",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
+      "name": "Wooden Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Aira Item",
+        "Merchant Item",
+        "Standalone Equipment"
+      ]
+    },
+    {
+      "count": 1,
+      "name": "Common Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Big Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Aira Item",
+        "Standalone Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Knight's Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Legendary Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "TH Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Survival Dungeon Item",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Amber Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Selling Unlockable"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Salamander Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Trading Reward"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Pearl Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Trading Reward"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Jade Shield",
+      "category": [
+        "Equipment",
+        "Shield",
+        "Aira Item"
+      ],
+      "useful": true
+    },
+    {
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 2
+      },
+      "name": "Focus Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Aira Item",
+        "Merchant Item",
+        "Standalone Equipment"
+      ]
+    },
+    {
+      "count": 1,
+      "name": "Magician's Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Aira Item",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Pretty Wand",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Standalone Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Cane Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spirit Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Divine Staff",
+      "category": [
+        "Equipment",
+        "Staff",
+        "Survival Dungeon Item",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+    {
+      "count": 1,
+      "name": "Souvenir Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Standard Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "filler": true
+    },
+    {
+      "count": 2,
+      "name": "Popular Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Aira Item",
+        "Standalone Equipment"
+      ],
+      "useful": true
+    },
+    {
+      "count": 3,
+      "name": "Hallowed Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Aira Item",
+        "Trading Reward",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Miracle Charm",
+      "category": [
+        "Equipment",
+        "Charm",
+        "Standalone Equipment"
+      ],
+      "useful": true,
+      "progression_skip_balancing": true
+    },
+		{
+			"count": 1,
+			"name": "Omnicharm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward",
+        "Standalone Equipment"
+			],
+			"useful": true,
+      "progression_skip_balancing": true
+		},
+		{
+			"classification_count": {
+        "useful": 1,
+        "useful + filler": 1
+      },
+			"name": "Sand Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Aira Item"
+			]
+		},
+		{
+			"count": 1,
+			"name": "Blazing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Selling Unlockable"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Wing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Shell Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Fire Crystal",
+			"category": [
+				"Equipment",
+				"Crystal"
+			],
+			"useful": true
+		},
+	  {
+			"count": 2,
+			"name": "Water Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Aira Item",
+				"Merchant Item"
+			],
+			"useful": true
+		},
+    {
+      "count": 1,
+      "name": "Earth Crystal",
+      "category": [
+        "Equipment",
+        "Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Darkness Crystal",
+      "category": [
+        "Equipment",
+        "Crystal"
+      ],
+      "useful": true
+    },
+    {
+      "count": 2,
+      "name": "Air Crystal",
+      "category": [
+        "Equipment",
+        "Crystal",
+        "Aira Item",
+        "Merchant Item"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Void Crystal",
+      "category": [
+        "Equipment",
+        "Crystal",
+			  "Aira Item"
+      ],
+      "useful": true
+    },
+		{
+			"count": 1,
+			"name": "Paralysis Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+    {
+		"count": 1,
+		"name": "Poison Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Selling Unlockable"
+		],
+		"useful": true
+    },
+    {
+      "count": 1,
+      "name": "Speedboots",
+      "category": [
+        "Equipment",
+        "Boots"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Winged Boots",
+      "category": [
+        "Equipment",
+        "Boots"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mermaid Boots",
+      "category": [
+        "Equipment",
+        "Boots"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Eskimo Shoes",
+      "category": [
+        "Equipment",
+        "Boots"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Coin Emblem",
+      "category": [
+        "Equipment",
+        "Emblem"
+      ],
+      "progresion_skip_balancing": true,
+      "useful": true
+    },
+		{
+			"count": 1,
+			"name": "Food Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"progresion": true,
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Air Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"useful": true
+		},
+    {
+      "count": 1,
+      "name": "Water Emblem",
+      "category": [
+        "Equipment",
+        "Emblem"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Fire Emblem",
+      "category": [
+        "Equipment",
+        "Emblem",
+        "Trading Reward"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Earth Emblem",
+      "category": [
+        "Equipment",
+        "Emblem",
+        "Trading Reward"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Strongarm Band",
+      "category": [
+        "Equipment",
+        "Accessory"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Superarm Band",
+      "category": [
+        "Equipment",
+        "Accessory"
+      ],
+      "useful": true
+    },
+    {
+      "count": 1,
+      "name": "Magic Necklace",
+      "category": [
+        "Equipment",
+        "Accessory"
+      ],
+      "useful": true
+    },
+    {
+      "classification_count": {
+        "progression + useful": 1,
+        "useful + filler": 2
+      },
+      "name": "Soul Pendant",
+      "category": [
+        "Equipment",
+        "Accessory",
+        "Trading Reward"
+      ]
+    },
+		{"classification_count": {
+        "useful": 1,
+        "filler": 1
+      },
+			"name": "Antivenom",
+			"category": [
+				"Equipment",
+				"Other",
+				"Aira Item",
+				"Merchant Item"
+			]
+		},
+    {
+      "count": 1,
+      "name": "Backscratcher",
+      "category": [
+        "Equipment",
+        "Other"
+      ],
+      "useful": true
+    },
+    {
+      "classification_count": {
+        "progression  + useful": 1,
+        "useful": 1
+      },
+      "name": "Cat Statue",
+      "category": [
+        "Equipment",
+        "Other",
+        "Aira Item"
+      ]
+    },
+    {
+      "count": 1,
+      "name": "Music Box",
+      "category": [
+        "Misc",
+        "Trading Reward"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Old Gramophone",
+      "category": [
+        "Misc"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Antique Gramophone",
+      "category": [
+        "Misc",
+        "Selling Unlockable"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Antique Gramophone Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Buster Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blazing Charm Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Poison Crystal Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Amber Shield Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Walnut Bread",
+      "category": [
+        "Food",
+        "Survival Dungeon Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Egg Toast",
+      "category": [
+        "Food",
+        "Survival Dungeon Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Roast Chicken",
+      "category": [
+        "Food",
+        "Survival Dungeon Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": 2,
+      "name": "Ham Sandwich",
+      "category": [
+        "Food",
+        "Survival Dungeon Item"
+      ],
+      "filler": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Terran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Ignan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Aquan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Zephyran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Sealed Palace Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 4,
+      "name": "Progressive Familiar Forest Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruined Main Gate",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Staircase",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Terran Ruins)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deepest Caverns",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Insect King's Lair",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Mountain Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Volcano Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lava Pools",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Entrance to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halls of Flame",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mural Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colliseum",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wetland",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bridge to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Corridor",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Underwater City",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Silent Church",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guardian of the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waterways",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest of Miasma",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Emperor-Bug's Tomb",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Windmill Bridge",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Engine Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Tempest",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Summit",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Floating Gardens",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Palace",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crystal Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Door",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Silhouette",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Showdown",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Last Battle",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Lonely Ship",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the First",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the Second",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Familiar Forest)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rat Hole",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Survival Dungeon Boss Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 10",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 20",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 30",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 40",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 50",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    }
+  ]
+}

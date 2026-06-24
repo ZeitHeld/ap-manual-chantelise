@@ -1,0 +1,131 @@
+{
+    "Aira Shop Shuffle": {
+        "hidden": true
+    },
+    "Merchant Shop Shuffle": {
+        "hidden": true
+    },
+    "Dungeon Shop Shuffle": {
+        "hidden": true
+    },
+    "Fish Trading": {
+        "yaml_option": [
+            "fish_trade"
+        ]
+    },
+    "Fishsanity": {
+        "yaml_option": [
+            "fishsanity"
+        ]
+    },
+    "Fish": {
+        "yaml_option": [
+            "fishsanity"
+        ]
+    },
+    "Shop Sell Unlock Shuffle": {
+        "yaml_option": [
+            "shop_sell_unlock"
+        ]
+    },
+    "Selling Unlock": {
+        "yaml_option": [
+            "shop_sell_unlock"
+        ]
+    },
+    "Tier 2 Spell": {
+        "hidden": true
+    },
+    "Aira Item": {
+        "hidden": true
+    },
+    "Merchant Item": {
+        "hidden": true
+    },
+    "Trading Reward": {
+        "hidden": true
+    },
+    "Selling Unlockable": {
+        "hidden": true
+    },
+    "Equipment": {
+        "hidden": true
+    },
+    "Survival Dungeon Item": {
+        "hidden": true
+    },
+    "Spell": {
+        "yaml_option": [
+            "spellsanity"
+        ]
+    },
+    "Progressive Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "progressive_stages"
+        ],
+        "hidden": true
+    },
+    "Separate Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "!progressive_stages"
+        ],
+        "hidden": true
+    },
+    "Progressive Dungeon": {
+        "yaml_option": [
+            "progressive_dungoens"
+        ],
+        "hidden": true
+    },
+    "Separate Dungeon": {
+        "yaml_option": [
+            "!progressive_dungoens"
+        ],
+        "hidden": true
+    },
+    "Stagesanity": {
+        "yaml_option": [
+            "stagesanity"
+        ]
+    },
+    "Terran Stage": {
+        "hidden": true
+    },
+    "Ignan Stage": {
+        "hidden": true
+    },
+    "Aquan Stage": {
+        "hidden": true
+    },
+    "Zephyran Stage": {
+        "hidden": true
+    },
+    "Palace Stage": {
+        "hidden": true
+    },
+    "Forest Stage": {
+        "hidden": true
+    },
+    "Survival Dungeon Stage": {
+        "hidden": true
+    },
+    "Barrel Sanity": {
+        "yaml_option": [
+            "barrelsanity"
+        ]
+    },
+    "Barrel Loot": {
+        "hidden": true
+    },
+    "Progressive Equipment": {
+        "yaml_option": [
+            "progressive_equipment"
+        ],
+        "hidden": true
+    },
+    "Standalone Equipment": {
+        "hidden": true
+    }
+}
