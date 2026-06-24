@@ -1,232 +1,232 @@
 [
     {
         "name": "Can Catch Anglerfish",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Aramaki Salmon",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Arowana",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|AR 1 Stage| OR |SP 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Axolotl",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Full Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|AR Bonus Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Blue Shark",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Boiled Octopus",
-        "requires": "|Can Fish| AND |Ignan Ruins Access|",
+        "requires": "|Can Fish| AND (|IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Carp",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |Terran Ruins Access| OR |Ignan Ruins Access| OR |Aquan Ruins Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |IR 1 Stage| OR |AR 1 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Carp Flag",
-        "requires": "|Can Fish| AND |Terran Ruins Access|",
+        "requires": "|Can Fish| AND |TR 2 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Catfish",
-        "requires": "|Can Fish| AND |Aquan Ruins Access|",
+        "requires": "|Can Fish| AND |AR 1 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Clione",
-        "requires": "|Can Fish| AND (|Town Access| OR |Aquan Ruins Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|Town Access| OR |AR 2 Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Clownfish",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Aquan Ruins Access|)",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Coelacanth",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Conger Eel",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Ignan Ruins Access|)",
+        "requires": "|Can Fish| AND (|TR 2 Stage| OR |TR Boss Stage| OR |IR 1 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch East-sea Mackerel",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR 2 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Eel",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR 3 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Firefish",
-        "requires": "|Can Fish| AND |Ignan Ruins Access|",
+        "requires": "|Can Fish| AND (|IR 3 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Giant Oarfish",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR 1 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Hammerhead",
-        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|ZR 3 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Koi",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Little Blackfish",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |Town Access| OR |Terran Ruins Access| OR |Ignan Ruins Access| OR |Aquan Ruins Access| OR |Zephyran Ruins Access| OR |Sealed Palace Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |Town Access| OR |TR 1 Stage| OR |TR 2 Stage| OR |TR Boss Stage| OR |TR Bonus Stage| OR |IR 1 Stage| OR |AR 2 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |ZR 3 Stage| OR |ZR Bonus Stage| OR |SP 3 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Little Redfish",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Ignan Ruins Access|)",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |IR 3 Stage| OR |IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Lobster",
-        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|ZR 3 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Mackerel",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR 3 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Manta",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Mantis Shrimp",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Zephyran Ruins Access|)",
+        "requires": "|Can Fish| AND (|AR 1 Stage| OR |ZR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Mecha-Coelacanth",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |ZR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Ocean Sunfish",
-        "requires": "|Can Fish| AND |Aquan Ruins Access|",
+        "requires": "|Can Fish| AND |AR 1 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Octopus",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Penguin",
-        "requires": "|Can Fish| AND (|Town Access| OR |Terran Ruins Access|)",
+        "requires": "|Can Fish| AND (|Town Access| OR |TR 2 Stage| OR |TR Boss Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Piranha",
-        "requires": "|Can Fish| AND (|Ignan Ruins Access| OR |Aquan Ruins Access| OR |Zephyran Ruins Access| OR |Full Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|IR 1 Stage| OR |AR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Pufferfish",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR 2 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Rainbow Trout",
-        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Red Sea Bream",
-        "requires": "|Can Fish| AND |Aquan Ruins Access|",
+        "requires": "|Can Fish| AND |AR 2 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Red Sea Cucumber",
-        "requires": "|Can Fish| AND |Ignan Ruins Access|",
+        "requires": "|Can Fish| AND |IR 3 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Salmon",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Sea Cucumber",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Zephyran Ruins Access|)",
+        "requires": "|Can Fish| AND (|TR Boss Stage| OR |TR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Seabass",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |Terran Ruins Access| OR |Aquan Ruins Access| OR |Zephyran Ruins Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |AR Bonus Stage| OR |ZR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Snakehead",
-        "requires": "|Can Fish| AND (|Aquan Ruins Access| OR |Full Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|AR 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Sperm Whale",
-        "requires": "|Can Fish| AND |Zephyran Ruins Access|",
+        "requires": "|Can Fish| AND |ZR Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Squid",
-        "requires": "|Can Fish| AND |Terran Ruins Access|",
+        "requires": "|Can Fish| AND |TR Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Star Snapper",
-        "requires": "|Can Fish| AND |Sealed Palace Access|",
+        "requires": "|Can Fish| AND |SP Bonus Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Sweetfish",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |Terran Ruins Access| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Taiyaki",
-        "requires": "|Can Fish| AND |Ignan Ruins Access|",
+        "requires": "|Can Fish| AND |IR Boss Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Trilobyte",
-        "requires": "|Can Fish| AND (|Terran Ruins Access| OR |Aquan Ruins Access|)",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Tube-snout",
-        "requires": "|Can Fish| AND |Terran Ruins Access|",
+        "requires": "|Can Fish| AND |TR 1 Stage|",
         "visible": true
     },
     {
         "name": "Can Catch Yellowfin Tuna",
-        "requires": "|Can Fish| AND (|Zephyran Ruins Access| OR |Sealed Palace Access|)",
+        "requires": "|Can Fish| AND (|ZR 3 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
@@ -239,23 +239,23 @@
     },
     {
         "name": "Terran Ruins Access",
-        "requires": "|Progressive Dungeon:1|"
+        "requires": "|Terran Ruins| OR |Progressive Dungeon:1|"
     },
     {
         "name": "Ignan Ruins Access",
-        "requires": "|Progressive Dungeon:2|"
+        "requires": "|Ignan Ruins| OR |Progressive Dungeon:2|"
     },
     {
         "name": "Aquan Ruins Access",
-        "requires": "|Progressive Dungeon:3|"
+        "requires": "|Aquan Ruins| OR |Progressive Dungeon:3|"
     },
     {
         "name": "Zephyran Ruins Access",
-        "requires": "|Progressive Dungeon:4|"
+        "requires": "|Zephyran Ruins| OR |Progressive Dungeon:4|"
     },
     {
         "name": "Sealed Palace Access",
-        "requires": "|Progressive Dungeon:5|"
+        "requires": "|Sealed Palace| OR |Progressive Dungeon:5|"
     },
     {
         "name": "Familiar Forest Access",
@@ -280,17 +280,27 @@
     {
         "name": "Blazing Charm Unlockable",
         "requires": "(|Honey| OR |Can Acquire Honey|) AND (|Water Shroom| OR |Can Acquire Water Shroom|) AND (|Gunpowder| OR |Can Acquire Gunpowder|)",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Poison Crystal Unlockable",
         "requires": "(|Toothpick| OR |Can Acquire Toothpick|) AND (|Honey| OR |Can Acquire Honey|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
-        "visible": true
+        "visible": false
     },
     {
         "name": "Dragon Buster Unlockable",
         "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
-        "visible": true
+        "visible": false
+    },
+    {
+        "name": "Amber Shield Unlockable",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
+        "visible": false
+    },
+    {
+        "name": "Antique Gramophone Unlockable",
+        "requires": "(|Wyvern Horn| OR |Can Acquire Wyvern Horn|) AND (|Broken Seal| OR |Can Acquire Broken Seal|) AND (|Insect King Shell| OR |Can Acquire Insect King Shell|)",
+        "visible": false
     },
     {
         "name": "Can Acquire Gunpowder",
@@ -327,5 +337,221 @@
     {
         "name": "Can Heal",
         "requires": "|Progressive Spell Upgrade:1|"
+    },
+    {
+        "name": "TR 1 Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:1| OR |Path to the Ruins|)))"
+    },
+    {
+        "name": "TR 2 Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:2| OR |Ruined Main Gate|)))"
+    },
+    {
+        "name": "TR 3 Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:3| OR |Grand Staircase|)))"
+    },
+    {
+        "name": "TR 4 Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:4| OR |Hall|)))"
+    },
+    {
+        "name": "TR 5 Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:5| OR |Cave (Terran Ruins)|)))"
+    },
+    {
+        "name": "TR Boss Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:6| OR |Deepest Caverns|)))"
+    },
+    {
+        "name": "TR Bonus Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Terran Ruins Stage:7| OR |Insect King's Lair|)))"
+    },
+    {
+        "name": "Every Main Terran Stage",
+        "requires": "|Terran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|TR 1 Stage| AND |TR 2 Stage| AND |TR 3 Stage| AND |TR 4 Stage| AND |TR 5 Stage| AND |TR Boss Stage|)))"
+    },
+    {
+        "name": "IR 1 Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:1| OR |The Mountain Path|)))"
+    },
+    {
+        "name": "IR 2 Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:2| OR |Volcano Path|)))"
+    },
+    {
+        "name": "IR 3 Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:3| OR |Lava Pools|)))"
+    },
+    {
+        "name": "IR 4 Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:4| OR |Entrance to the Ruins|)))"
+    },
+    {
+        "name": "IR 5 Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:5| OR |Halls of Flame|)))"
+    },
+    {
+        "name": "IR Boss Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:6| OR |Mural Room|)))"
+    },
+    {
+        "name": "IR Bonus Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Ignan Ruins Stage:7| OR |The Mountain Path|)))"
+    },
+    {
+        "name": "Every Main Ignan Stage",
+        "requires": "|Ignan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|IR 1 Stage| AND |IR 2 Stage| AND |IR 3 Stage| AND |IR 4 Stage| AND |IR 5 Stage| AND |IR Boss Stage|)))"
+    },
+    {
+        "name": "AR 1 Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:1| OR |Wetland|)))"
+    },
+    {
+        "name": "AR 2 Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:2| OR |Bridge to the Ruins|)))"
+    },
+    {
+        "name": "AR 3 Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:3| OR |Spiral Corridor|)))"
+    },
+    {
+        "name": "AR 4 Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:4| OR |Underwater City|)))"
+    },
+    {
+        "name": "AR 5 Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:5| OR |Silent Church|)))"
+    },
+    {
+        "name": "AR Boss Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:6| OR |Guardian of the Ruins|)))"
+    },
+    {
+        "name": "AR Bonus Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Aquan Ruins Stage:7| OR |Waterways|)))"
+    },
+    {
+        "name": "Every Main Aquan Stage",
+        "requires": "|Aquan Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|AR 1 Stage| AND |AR 2 Stage| AND |AR 3 Stage| AND |AR 4 Stage| AND |AR 5 Stage| AND |AR Boss Stage|)))"
+    },
+    {
+        "name": "ZR 1 Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:1| OR |Forest of Miasma|)))"
+    },
+    {
+        "name": "ZR 2 Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:2| OR |Emperor-Bug's Tomb|)))"
+    },
+    {
+        "name": "ZR 3 Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:3| OR |The Windmill Bridge|)))"
+    },
+    {
+        "name": "ZR 4 Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:4| OR |Engine Room|)))"
+    },
+    {
+        "name": "ZR 5 Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:5| OR |The Tempest|)))"
+    },
+    {
+        "name": "ZR Boss Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:6| OR |Mountain Summit|)))"
+    },
+    {
+        "name": "ZR Bonus Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Zephyran Ruins Stage:7| OR |Floating Gardens|)))"
+    },
+    {
+        "name": "Every Main Zephyran Stage",
+        "requires": "|Zephyran Ruins Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|ZR 1 Stage| AND |ZR 2 Stage| AND |ZR 3 Stage| AND |ZR 4 Stage| AND |ZR 5 Stage| AND |ZR Boss Stage|)))"
+    },
+    {
+        "name": "SP 1 Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |Path to the Palace|)))"
+    },
+    {
+        "name": "SP 2 Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |Crystal Hall|)))"
+    },
+    {
+        "name": "SP 3 Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |Sealed Door|)))"
+    },
+    {
+        "name": "SP 4 Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |The Silhouette|)))"
+    },
+    {
+        "name": "SP 5 Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |The Showdown|)))"
+    },
+    {
+        "name": "SP Boss Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |The Last Battle|)))"
+    },
+    {
+        "name": "SP Bonus Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Sealed Palace Stage:1| OR |The Lonely Ship|)))"
+    },
+    {
+        "name": "Every Main Palace Stage",
+        "requires": "|Sealed Palace Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|SP 1 Stage| AND |SP 2 Stage| AND |SP 3 Stage| AND |SP 4 Stage| AND |SP 5 Stage| AND |SP Boss Stage|)))"
+    },
+    {
+        "name": "FF 1 Stage",
+        "requires": "|Full Familiar Forest Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Familiar Forest Stage:1| OR |Forest, the First|)))"
+    },
+    {
+        "name": "FF 2 Stage",
+        "requires": "|Full Familiar Forest Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Familiar Forest Stage:1| OR |Forest, the Second|)))"
+    },
+    {
+        "name": "FF 3 Stage",
+        "requires": "|Full Familiar Forest Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Familiar Forest Stage:1| OR |Cave (Familiar Forest)|)))"
+    },
+    {
+        "name": "FF Boss Stage",
+        "requires": "|Full Familiar Forest Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Familiar Forest Stage:1| OR |Rat Hole|)))"
+    },
+    {
+        "name": "Every Main Forest Stage",
+        "requires": "|Full Familiar Forest Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|FF 1 Stage| AND |FF 2 Stage| AND |FF 3 Stage| AND |FF Boss Stage|)))"
+    },
+    {
+        "name": "SD 10 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:1| OR |Survival Dungeon Floor 10|)))"
+    },
+    {
+        "name": "SD 20 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:2| OR |Survival Dungeon Floor 20|)))"
+    },
+    {
+        "name": "SD 30 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:3| OR |Survival Dungeon Floor 30|)))"
+    },
+    {
+        "name": "SD 40 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:4| OR |Survival Dungeon Floor 40|)))"
+    },
+    {
+        "name": "SD 50 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:5| OR |Survival Dungeon Floor 50|)))"
+    },
+    {
+        "name": "Every Main Dungeon Full Access",
+        "requires": "(|Every Main Terran Stage| AND |TR Bonus Stage|) AND (|Every Main Ignan Stage| AND |IR Bonus Stage|) AND (|Every Main Aquan Stage| AND |AR Bonus Stage|) AND (|Every Main Zephyran Stage| AND |ZR Bonus Stage|) AND (|Every Main Palace Stage| AND |SP Bonus Stage|)"
+    },
+    {
+        "name": "Full Dungeon + Forest Access",
+        "requires": "|Every Main Dungeon Full Access| AND |Every Main Forest Stage|"
+    },
+    {
+        "name": "All Hidden Treasures Main Access",
+        "requires": "{CanReachLocation(Tutorial 3 - Hidden Treasure)} AND |TR 1 Stage| AND |TR 2 Stage| AND |TR 3 Stage| AND |TR 4 Stage| AND |TR Boss Stage| AND |TR Bonus Stage| AND |IR 1 Stage| AND |IR 2 Stage| AND |IR 3 Stage| AND |IR 4 Stage| AND |IR Boss Stage| AND |IR Bonus Stage| AND |AR 1 Stage| AND |AR 2 Stage| AND |AR 3 Stage| AND |AR 4 Stage| AND |AR Boss Stage| AND |AR Bonus Stage| AND |ZR 1 Stage| AND |ZR 2 Stage| AND |ZR 3 Stage| AND |ZR 4 Stage| AND |ZR Boss Stage| AND |ZR Bonus Stage| AND |SP 1 Stage| AND |SP 2 Stage| AND |SP 3 Stage| AND |SP 4 Stage| AND |SP Boss Stage| AND |SP Bonus Stage|"
+    },
+    {
+        "name": "All Hidden Treasures Full Access",
+        "requires": "|All Hidden Treasures Main Access| AND |FF 1 Stage| AND |FF 2 Stage| AND |FF 3 Stage| AND |FF Boss Stage|"
     }
 ]

@@ -5,10 +5,57 @@
       "count": 5,
       "name": "Progressive Dungeon",
       "category": [
-        "Dungeon Unlock"
+        "Dungeon Unlock",
+        "Progressive Dungeon"
       ],
       "progression": true,
       "early": true
+    },
+    {
+      "count": 1,
+      "name": "Terran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true,
+      "early": true
+    },
+    {
+      "count": 1,
+      "name": "Ignan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Aquan Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Zephyran Ruins",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Palace",
+      "category": [
+        "Dungeon Unlock",
+        "Separate Dungeon"
+      ],
+      "progression": true
     },
     {
       "count": 2,
@@ -36,7 +83,7 @@
     },
     {
       "count": 3,
-      "name": "Progressive Equipment Slot Expansion",
+      "name": "Progressive Equipment Slot",
       "category": [
         "Ability"
       ],
@@ -680,7 +727,7 @@
       "category": [
         "Material",
         "Selling Unlock",
-        "Old Grammophone Unlock Material"
+        "Antique Gramophone Unlock Material"
       ],
       "progression": true
     },
@@ -690,7 +737,7 @@
       "category": [
         "Material",
         "Selling Unlock",
-        "Old Grammophone Unlock Material"
+        "Antique Gramophone Unlock Material"
       ],
       "progression": true
     },
@@ -769,16 +816,17 @@
       "useful": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
       "name": "Leather Gloves",
       "category": [
         "Equipment",
         "Glove",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 2,
@@ -798,8 +846,7 @@
         "Equipment",
         "Glove"
       ],
-      "useful": true,
-      "filler": true
+      "useful": true
     },
     {
       "count": 2,
@@ -819,7 +866,8 @@
         "Equipment",
         "Glove"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -827,9 +875,10 @@
       "category": [
         "Equipment",
         "Glove",
-        "Sellng Unlockable"
+        "Selling Unlockable"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -839,19 +888,21 @@
         "Glove",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 1
+      },
       "name": "Wooden Shield",
       "category": [
         "Equipment",
         "Shield",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 1,
@@ -880,7 +931,8 @@
         "Equipment",
         "Shield"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -889,7 +941,8 @@
         "Equipment",
         "Shield"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -899,7 +952,8 @@
         "Shield",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -942,23 +996,24 @@
       "useful": true
     },
     {
-      "count": 4,
+      "classification_count": {
+        "useful + filler": 2,
+        "filler": 2
+      },
       "name": "Focus Staff",
       "category": [
         "Equipment",
         "Staff",
         "Aira Item",
         "Merchant Item"
-      ],
-      "useful": true,
-      "filler": true
+      ]
     },
     {
       "count": 1,
       "name": "Magician's Staff",
       "category": [
         "Equipment",
-        "Glove",
+        "Staff",
         "Aira Item"
       ],
       "useful": true,
@@ -980,7 +1035,8 @@
         "Equipment",
         "Staff"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -989,7 +1045,8 @@
         "Equipment",
         "Staff"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -999,7 +1056,8 @@
         "Staff",
         "Survival Dungeon Item"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -1040,7 +1098,8 @@
         "Aira Item",
         "Trading Reward"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -1049,78 +1108,82 @@
         "Equipment",
         "Charm"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
-    {
-      "count": 1,
-      "name": "Omnicharm",
-      "category": [
-        "Equipment",
-        "Charm",
-        "Trading Reward"
-      ],
-      "useful": true
-    },
-    {
-      "count": 2,
-      "name": "Sand Charm",
-      "category": [
-        "Equipment",
-        "Charm",
-        "Aira Item"
-      ],
-      "useful": true
-    },
-	{
-		"count": 1,
-		"name": "Blazing Charm",
-		"category": [
-			"Equipment",
-			"Charm",
-			"Selling Unlockable"
-		],
-		"useful": true
-	},
-    {
-		"count": 1,
-		"name": "Wing Charm",
-		"category": [
-			"Equipment",
-			"Charm",
-			"Trading Reward"
-		],
-		"useful": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Charm",
-      "category": [
-        "Equipment",
-        "Charm",
-		    "Trading Reward"
-      ],
-      "useful": true
-    },
-    {
-      "count": 1,
-      "name": "Fire Crystal",
-      "category": [
-        "Equipment",
-        "Crystal"
-      ],
-      "useful": true
-    },
-    {
-		"count": 2,
-		"name": "Water Crystal",
-		"category": [
-			"Equipment",
-			"Crystal",
-			"Aira Item",
-			"Merchant Item"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Omnicharm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true,
+      "progression_skip_balancing": true
+		},
+		{
+			"classification_count": {
+        "useful": 1,
+        "useful + filler": 1
+      },
+			"name": "Sand Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Aira Item"
+			]
+		},
+		{
+			"count": 1,
+			"name": "Blazing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Selling Unlockable"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Wing Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Shell Charm",
+			"category": [
+				"Equipment",
+				"Charm",
+				"Trading Reward"
+			],
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Fire Crystal",
+			"category": [
+				"Equipment",
+				"Crystal"
+			],
+			"useful": true
+		},
+	  {
+			"count": 2,
+			"name": "Water Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Aira Item",
+				"Merchant Item"
+			],
+			"useful": true
+		},
     {
       "count": 1,
       "name": "Earth Crystal",
@@ -1160,16 +1223,16 @@
       ],
       "useful": true
     },
-	{
-		"count": 1,
-		"name": "Paralysis Crystal",
-		"category": [
-			"Equipment",
-			"Crystal",
-			"Trading Reward"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Paralysis Crystal",
+			"category": [
+				"Equipment",
+				"Crystal",
+				"Trading Reward"
+			],
+			"useful": true
+		},
     {
 		"count": 1,
 		"name": "Poison Crystal",
@@ -1223,30 +1286,30 @@
         "Equipment",
         "Emblem"
       ],
-      "progresion": true,
+      "progresion_skip_balancing": true,
       "useful": true
     },
-	{
-		"count": 1,
-		"name": "Food Emblem",
-		"category": [
-			"Equipment",
-			"Emblem",
-			"Survival Dungeon Item"
-		],
-		"progresion": true,
-		"useful": true
-	},
-	{
-		"count": 1,
-		"name": "Air Emblem",
-		"category": [
-			"Equipment",
-			"Emblem",
-			"Survival Dungeon Item"
-		],
-		"useful": true
-	},
+		{
+			"count": 1,
+			"name": "Food Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"progresion": true,
+			"useful": true
+		},
+		{
+			"count": 1,
+			"name": "Air Emblem",
+			"category": [
+				"Equipment",
+				"Emblem",
+				"Survival Dungeon Item"
+			],
+			"useful": true
+		},
     {
       "count": 1,
       "name": "Water Emblem",
@@ -1304,27 +1367,29 @@
       "useful": true
     },
     {
-      "count": 3,
+      "classification_count": {
+        "progression + useful": 1,
+        "useful + filler": 2
+      },
       "name": "Soul Pendant",
       "category": [
         "Equipment",
         "Accessory",
         "Trading Reward"
-      ],
-      "progression": true,
-      "useful": true
+      ]
     },
-	{
-		"count": 2,
-		"name": "Antivenom",
-		"category": [
-			"Equipment",
-			"Other",
-			"Aira Item",
-			"Merchant Item"
-		],
-		"useful": true
-	},
+		{"classification_count": {
+        "useful": 1,
+        "filler": 1
+      },
+			"name": "Antivenom",
+			"category": [
+				"Equipment",
+				"Other",
+				"Aira Item",
+				"Merchant Item"
+			]
+		},
     {
       "count": 1,
       "name": "Backscratcher",
@@ -1335,15 +1400,16 @@
       "useful": true
     },
     {
-      "count": 2,
+      "classification_count": {
+        "progression  + useful": 1,
+        "useful": 1
+      },
       "name": "Cat Statue",
       "category": [
         "Equipment",
         "Other",
         "Aira Item"
-      ],
-      "progression": true,
-      "useful": true
+      ]
     },
     {
       "count": 1,
@@ -1356,7 +1422,7 @@
     },
     {
       "count": 1,
-      "name": "Old Grammophone",
+      "name": "Old Gramophone",
       "category": [
         "Misc"
       ],
@@ -1364,12 +1430,57 @@
     },
     {
       "count": 1,
-      "name": "Ancient Grammophone",
+      "name": "Antique Gramophone",
       "category": [
         "Misc",
         "Selling Unlockable"
       ],
       "filler": true
+    },
+    {
+      "count": 1,
+      "name": "Antique Gramophone Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Dragon Buster Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Blazing Charm Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Poison Crystal Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Amber Shield Unlock",
+      "category": [
+        "Misc",
+        "Selling Unlock"
+      ],
+      "progression": true
     },
     {
       "count": 1,
@@ -1406,6 +1517,565 @@
         "Survival Dungeon Item"
       ],
       "filler": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Terran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Ignan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Aquan Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Zephyran Ruins Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 7,
+      "name": "Progressive Sealed Palace Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 4,
+      "name": "Progressive Familiar Forest Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Ruined Main Gate",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Grand Staircase",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Terran Ruins)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Deepest Caverns",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Insect King's Lair",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Terran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Mountain Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Volcano Path",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Lava Pools",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Entrance to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Halls of Flame",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mural Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Colliseum",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Ignan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Wetland",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Bridge to the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Spiral Corridor",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Underwater City",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Silent Church",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Guardian of the Ruins",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Waterways",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Aquan Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest of Miasma",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Emperor-Bug's Tomb",
+      "category": [
+        "Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Windmill Bridge",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Engine Room",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Tempest",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Mountain Summit",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Floating Gardens",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Zephyran Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Path to the Palace",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Crystal Hall",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Sealed Door",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Silhouette",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Showdown",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Last Battle",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "The Lonely Ship",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Palace Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the First",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Forest, the Second",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Cave (Familiar Forest)",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Rat Hole",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Forest Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 5,
+      "name": "Progressive Survival Dungeon Boss Stage",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Progressive Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 10",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 20",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 30",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 40",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 50",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
     }
   ]
 }

@@ -53,9 +53,11 @@
             "group": "Example Options"
         },
 
-        "stagesanity":{
-            "display_name": "Stagesanity",
-            "description": "Requires the individual stages to be unlocked. Completing a stage gives a reward and Stage unlocks need to be found.",
+        "progressive_dungeons":{
+            "display_name": "Progressive Dungeons",
+            "description": [
+                "Dungeons are progressive, meaning you get the Dungeons in order. Survival Dungeon and Familair Forest Exluded.",
+                "Order: Terran -> Ignan -> Aquan -> Zephyran -> Sealed Palace"],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -66,9 +68,25 @@
             "default": true,
             "group": "Gameplay Options"
         },
+        "stagesanity":{
+            "display_name": "Stagesanity",
+            "description": "Requires the individual stages to be unlocked. Completing a stage gives a reward and Stage unlocks need to be found.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Gameplay Options"
+        },
         "progressive_stages":{
             "display_name": "Progressive Stages",
-            "description": "Does nothing if Stagesanity is disabled. Stages are progressive, meaning you need to complete earlier stages to unlock later ones. Stages are progressive per dungeon.",
+            "description": [
+                "Does nothing if Stagesanity is disabled.",
+                "Stages are progressive, meaning you need to complete earlier stages to unlock later ones. Stages are progressive per dungeon."
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -107,6 +125,7 @@
                 "aira_&_merchant": 2,
                 "aira_merchant": 2,
                 "merchant": 2,
+                "both": 2,
                 "dungeon": 3,
                 "include_dungeon": 3,
                 "aira_merchant_dungeon": 3
@@ -183,6 +202,19 @@
                 "spoiler"
             ],
             "default": 0,
+            "group": "Randomization Options"
+        },
+        "barrelsanity":{
+            "display_name": "Barrelsanity",
+            "description": "Breaking a Barrel sends an item.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
             "group": "Randomization Options"
         }
     }

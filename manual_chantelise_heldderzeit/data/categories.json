@@ -28,7 +28,16 @@
             "shop_sell_unlock"
         ]
     },
+    "Selling Unlock": {
+        "yaml_option": [
+            "shop_sell_unlock"
+        ]
+    },
     "Tier 2 Spell": {
+        "yaml_option": [
+            "spellsanity",
+            "include_tier2_spells"
+        ],
         "hidden": true
     },
     "Aira Item": {
@@ -54,9 +63,64 @@
             "spellsanity"
         ]
     },
-    "Stage": {
+    "Progressive Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "progressive_stages"
+        ],
+        "hidden": true
+    },
+    "Separate Stage": {
+        "yaml_option": [
+            "stagesanity",
+            "!progressive_stages"
+        ],
+        "hidden": true
+    },
+    "Progressive Dungeon": {
+        "yaml_option": [
+            "progressive_dungoens"
+        ],
+        "hidden": true
+    },
+    "Separate Dungeon": {
+        "yaml_option": [
+            "!progressive_dungoens"
+        ],
+        "hidden": true
+    },
+    "Stagesanity": {
         "yaml_option": [
             "stagesanity"
         ]
+    },
+    "Terran Stage": {
+        "hidden": true
+    },
+    "Ignan Stage": {
+        "hidden": true
+    },
+    "Aquan Stage": {
+        "hidden": true
+    },
+    "Zephyran Stage": {
+        "hidden": true
+    },
+    "Palace Stage": {
+        "hidden": true
+    },
+    "Forest Stage": {
+        "hidden": true
+    },
+    "Survival Dungeon Stage": {
+        "hidden": true
+    },
+    "Barrel Sanity": {
+        "yaml_option": [
+            "barrelsanity"
+        ]
+    },
+    "Barrel Loot": {
+        "hidden": true
     }
 }
