@@ -133,15 +133,12 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
     progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
 
     for item in item_pool:
-        if not (fishsanity or trade_shuffle):
-            if "Fishing Rod" in world.item_name_to_item[item.name].get("category", []):
-                item.classification = ItemClassification.filler
         if shop_shuffle_none:
             if item.name == ("Cat Statue" or "Coin Emblem"):
-                item.classification = ItemClassification.filler
+                item.classification = "filler"
         if progressive_equipment:
             if "Separate Equipment" in world.item_name_to_item[item.name].get("category", []):
-                item.classification = ItemClassification.filler
+                item.classification = "filler"
 
     return item_pool
 
