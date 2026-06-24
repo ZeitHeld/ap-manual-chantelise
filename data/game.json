@@ -1,8 +1,0 @@
-{
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "Chantelise",
-  "creator": "Held_der_Zeit",
-  "filler_item_name": "Copper Coin",
-  "death_link": true,
-  "starting_items": []
-}
