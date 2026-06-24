@@ -87,11 +87,13 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     trade_shuffle = get_option_value(multiworld, player, "fish_trade")
     
     for item in item_pool:
-        if (shop_shuffle_aira == False && "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
+        if (shop_shuffle_aira == False and "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
             itemNamesToRemove.append(item.name)
-        if (shop_shuffle_merchant == False && "Merchant Item" in world.item_name_to_item[item.name].get("category", [])):
+        if shop_shuffle_merchant == False and "Merchant Item" in world.item_name_to_item[item.name].get("category", []):
             itemNamesToRemove.append(item.name)
-        if (trade_shuffle == False) && ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
+        if shop_shuffle_survival == False and "Survival Dungeon Item" in world.item_name_to_item[item.name].get("category", []):
+            itemNamesToRemove.append(item.name)
+        if (trade_shuffle == False) and ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
             itemNamesToRemove.append(item.name)
 
     # Add your code here to calculate which items to remove.
@@ -115,6 +117,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

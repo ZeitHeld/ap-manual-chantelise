@@ -34,10 +34,6 @@
         ]
     },
     "Tier 2 Spell": {
-        "yaml_option": [
-            "spellsanity",
-            "include_tier2_spells"
-        ],
         "hidden": true
     },
     "Aira Item": {
@@ -121,6 +117,18 @@
         ]
     },
     "Barrel Loot": {
+        "hidden": true
+    },
+    "Progressive Equipment": {
+        "yaml_option": [
+            "progressive_equipment"
+        ],
+        "hidden": true
+    },
+    "Standalone Equipment": {
+        "yaml_option": [
+            "!progressive_equipment"
+        ],
         "hidden": true
     }
 }
