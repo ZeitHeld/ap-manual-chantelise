@@ -126,9 +126,6 @@
         "hidden": true
     },
     "Standalone Equipment": {
-        "yaml_option": [
-            "!progressive_equipment"
-        ],
         "hidden": true
     }
 }

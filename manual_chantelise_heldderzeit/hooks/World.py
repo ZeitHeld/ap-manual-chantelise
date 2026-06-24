@@ -70,6 +70,12 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+    
+    # for item in item_config:
+    #     if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
+    #         {item.name: {"filler": 1}}
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -85,6 +91,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     shop_shuffle_merchant = get_option_value(multiworld, player, "shop_shuffle") >= 2
     shop_shuffle_survival = get_option_value(multiworld, player, "shop_shuffle") >= 3
     trade_shuffle = get_option_value(multiworld, player, "fish_trade")
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
     
     for item in item_pool:
         if (shop_shuffle_aira == False and "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
@@ -95,6 +102,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
             itemNamesToRemove.append(item.name)
         if (trade_shuffle == False) and ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
             itemNamesToRemove.append(item.name)
+
+        if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
+            item.count = 1
 
     # Add your code here to calculate which items to remove.
     #
@@ -117,7 +127,22 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
-    
+    trade_shuffle = get_option_value(multiworld, player, "fish_trade")
+    fishsanity = get_option_value(multiworld, player, "fishsanity")
+    shop_shuffle_none = get_option_value(multiworld, player, "shop_shuffle") == 0
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+
+    for item in item_pool:
+        if not (fishsanity or trade_shuffle):
+            if "Fishing Rod" in world.item_name_to_item[item.name].get("category", []):
+                item.classification = ItemClassification.filler
+        if shop_shuffle_none:
+            if item.name == ("Cat Statue" or "Coin Emblem"):
+                item.classification = ItemClassification.filler
+        if progressive_equipment:
+            if "Separate Equipment" in world.item_name_to_item[item.name].get("category", []):
+                item.classification = ItemClassification.filler
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.
