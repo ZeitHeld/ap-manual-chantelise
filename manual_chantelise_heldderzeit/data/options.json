@@ -97,6 +97,19 @@
             "default": true,
             "group": "Gameplay Options"
         },
+        "progressive_equipment":{
+            "display_name": "Progressive Equipment",
+            "description": "Option to make the four main Equipment types progressive. It will simplify logic but will shrink the item pool.\nLeather Gloves -> Tough Gloves -> Silver Gauntlet | Souvenier Charm -> Standard Charm -> Popular Charm\nElemental Shields and Charms are still separate and not included in progression.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Gameplay Options"
+        },
         "shop_shuffle":{
             "display_name": "Shop Shuffle",
             "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
