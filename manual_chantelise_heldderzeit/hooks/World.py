@@ -76,6 +76,8 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
     #     if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
     #         {item.name: {"filler": 1}}
 
+    #item_config["itemNameA"] = 5 # name & amount
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -95,15 +97,20 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     
     for item in item_pool:
         if (shop_shuffle_aira == False and "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND AN AIRA ITEM TO REMOVE: "+item.name)
             itemNamesToRemove.append(item.name)
         if shop_shuffle_merchant == False and "Merchant Item" in world.item_name_to_item[item.name].get("category", []):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND A MERCHANT ITEM TO REMOVE: "+item.name)
             itemNamesToRemove.append(item.name)
         if shop_shuffle_survival == False and "Survival Dungeon Item" in world.item_name_to_item[item.name].get("category", []):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND AN SD ITEM TO REMOVE: "+item.name)
             itemNamesToRemove.append(item.name)
         if (trade_shuffle == False) and ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND A TRADE REWARD TO REMOVE: "+item.name)
             itemNamesToRemove.append(item.name)
 
         if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND A SOLO EQUIP TO REMOVE: "+item.name)
             item.count = 1
 
     # Add your code here to calculate which items to remove.
@@ -112,6 +119,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
 
     for itemName in itemNamesToRemove:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Gonna Remove: "+itemName)
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
 
@@ -134,11 +142,17 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 
     for item in item_pool:
         if shop_shuffle_none:
+            logging.info("<Chantelise-Manual> (after_create_items) NO SHOP SHUFFLE")
             if item.name == ("Cat Statue" or "Coin Emblem"):
+                logging.info("<Chantelise-Manual> (after_create_items) MARKING COIN ITEMS AS FILLER")
                 item.classification = "filler"
+                logging.info("<Chantelise-Manual> (after_create_items) MARKED COIN ITEMS AS FILLER")
         if progressive_equipment:
+            logging.info("<Chantelise-Manual> (after_create_items) EQUIPS ARE PROGRESSIVE")
             if "Separate Equipment" in world.item_name_to_item[item.name].get("category", []):
+                logging.info("<Chantelise-Manual> (after_create_items) MARKING SOLO EQUIPS AS FILLER")
                 item.classification = "filler"
+                logging.info("<Chantelise-Manual> (after_create_items) MARKED SOLO EQUIPS AS FILLER")
 
     return item_pool
 
