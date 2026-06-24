@@ -83,7 +83,10 @@
         },
         "progressive_stages":{
             "display_name": "Progressive Stages",
-            "description": "Does nothing if Stagesanity is disabled.Stages are progressive, meaning you need to complete earlier stages to unlock later ones. Stages are progressive per dungeon.",
+            "description": [
+                "Does nothing if Stagesanity is disabled.",
+                "Stages are progressive, meaning you need to complete earlier stages to unlock later ones. Stages are progressive per dungeon."
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
