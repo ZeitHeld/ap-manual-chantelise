@@ -5,7 +5,7 @@
     "Merchant Shop Shuffle": {
         "hidden": true
     },
-    "Dungeon Shop Shuffle": {
+    "Survival Dungeon Shop Shuffle": {
         "hidden": true
     },
     "Fish Trading": {
@@ -92,7 +92,8 @@
     "Stagesanity": {
         "yaml_option": [
             "stagesanity"
-        ]
+        ],
+        "hidden": true
     },
     "Terran Stage": {
         "hidden": true
@@ -115,12 +116,28 @@
     "Survival Dungeon Stage": {
         "hidden": true
     },
-    "Barrel Sanity": {
+    "Barrelsanity": {
         "yaml_option": [
             "barrelsanity"
         ]
     },
     "Barrel Loot": {
         "hidden": true
+    },
+    "Other Breakables": {
+        "yaml_option": [
+            "barrelsanity",
+            "other_breakables"
+        ]
+    },
+    "Treesanity": {
+        "yaml_option": [
+            "treesanity"
+        ]
+    },
+    "Grasssanity": {
+        "yaml_option": [
+            "grasssanity"
+        ]
     }
 }
