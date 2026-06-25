@@ -91,7 +91,7 @@
     },
     {
         "name": "Can Catch Koi",
-        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP 3 Stage|)",
+        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP 3 Stage| OR |Familiar Forest Access|)",
         "visible": true
     },
     {
