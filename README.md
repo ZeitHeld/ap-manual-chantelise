@@ -4,13 +4,13 @@ It's old and tough but still Charming and fun.
 
 ## Requirements
 - Chantelise (Available on [Steam](https://store.steampowered.com/app/70420/Chantelise__A_Tale_of_Two_Sisters/) (Reccommended) or [GamersGate](https://www.gamersgate.com/de/product/chantelise-a-tale-of-two-sisters/?srsltid=AfmBOoohRZ7UbwFaSpQmetKfYUg5A4yPf8rng5ki1Ptk4L3tjmgqFspX))
-- [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases) and [Manual Client](https://github.com/ManualForArchipelago/Manual)
-- (Optional) Universal Tracker
+- [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases)
+- (Optional but Highly Reccomended) Universal Tracker
 - [Latest Release of the Chantelise AP-Manual apWorld](https://github.com/ZeitHeld/ap-manual-chantelise/releases)
 - (Optional but Reccomended) A (near) 100% Save File of Chantelise
   - Have at least every item once
 - A strong will
-- Patience
+- [Patience](https://static.wikia.nocookie.net/judgement-day-roblox/images/b/bf/Patience.png/revision/latest?cb=20230109153235)
 
 ## Implemented Features
 - Regular Treasures
@@ -21,7 +21,7 @@ It's old and tough but still Charming and fun.
   - Dungeons need to be unlocked. All but Familiar Forest and Survival Dungeon are in "Progressive Dungeon"
   - Familiar Forest has it's own Progression - First the Merchant only area, then the Full Unlock
 - Shop Shuffle
-  - Bought Items are Shuffled
+  - Bought Items are Shuffled (Aira's Shop, Familiar Forest Merchant, Survival Dungeon as a Choice)
 - Shop Sell Unlocks
   - Sell Certain Items to unlock something that then can appear in the shop! (Currently needs a better implementation)
 - Fish Trading
@@ -30,15 +30,16 @@ It's old and tough but still Charming and fun.
 - Fishasnity
   - Catch a fish for the first time for a randomized reward!
 - Stagesanity
-  - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check.
+  - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check. Also includes Survival Dungeon Boss Floor Rewards
+- Barrelsanity
+  - Break a barrel to unravel it's contents!
+  - (Soon: Option to include other breakables such as torches or lamp posts)
 
 ## Upcoming/Planned Features
-- Survival Dungeon Shop Shuffle Inclusion
-- Survival Dungeon Floor Rewards
 - Spellsanity
-- Barrelsanity + Other Breakables
-- Grasssanity?
-- Treesanity?
+- Barrelsanity: Other Breakables
+- Grasssanity
+- Treesanity
 
 # Rules & Restrictions
 - You start out in Town with 2 Equipment Slots and Tier I and Tier II Spells (Unless Tier II Spells are shuffled as well)
