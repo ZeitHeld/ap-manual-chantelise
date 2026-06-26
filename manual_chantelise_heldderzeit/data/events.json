@@ -6,7 +6,7 @@
     },
     {
         "name": "Can Catch Aramaki Salmon",
-        "requires": "|Can Fish| AND |SP Bonus Stage|",
+        "requires": "|Can Fish| AND (|ZR 2 Stage| |SP Bonus Stage|)",
         "visible": true
     },
     {
@@ -126,7 +126,7 @@
     },
     {
         "name": "Can Catch Mecha-Coelacanth",
-        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |ZR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|ZR 3 Stage| OR |ZR Bonus Stage|)",
         "visible": true
     },
     {
