@@ -53,6 +53,21 @@
         "hidden": true
     },
     "Equipment": {
+        "hidden": false
+    },
+    "Glove": {
+        "hidden": true
+    },
+    "Staff": {
+        "hidden": true
+    },
+    "Shield": {
+        "hidden": true
+    },
+    "Charm": {
+        "hidden": true
+    },
+    "Accessory": {
         "hidden": true
     },
     "Survival Dungeon Item": {
