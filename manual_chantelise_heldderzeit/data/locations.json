@@ -8,7 +8,8 @@
         "Story Event"
       ],
       "requires": "",
-      "id": 1
+      "id": 1,
+      "sort-key": "row-0-0-0"
     },
     {
       "name": "Confront the Fortune Teller - Reward 1",
@@ -17,7 +18,8 @@
         "Story Event"
       ],
       "requires": "|Beat Terran Golem Flag|",
-      "id": 10
+      "id": 10,
+      "sort-key": "row-0-1-0"
     },
     {
       "name": "Confront the Fortune Teller - Reward 2",
@@ -26,7 +28,8 @@
         "Story Event"
       ],
       "requires": "|Beat Terran Golem Flag|",
-      "id": 11
+      "id": 11,
+      "sort-key": "row-0-1-1"
     },
     {
       "name": "Confront the Fortune Teller - Reward 3",
@@ -35,7 +38,28 @@
         "Story Event"
       ],
       "requires": "|Beat Terran Golem Flag|",
-      "id": 12
+      "id": 12,
+      "sort-key": "row-0-1-2"
+    },
+    {
+      "name": "Hospitalize Elise at Aira's - Reward 1",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Volcanicrab Flag|",
+      "id": 22,
+      "sort-key": "row-0-2-1"
+    },
+    {
+      "name": "Hospitalize Elise at Aira's - Reward 2",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Volcanicrab Flag|",
+      "id": 22,
+      "sort-key": "row-0-2-2"
     },
     {
       "name": "Visit Elma",
@@ -44,7 +68,18 @@
         "Story Event"
       ],
       "requires": "|Beat Electrojelly Flag|",
-      "id": 30
+      "id": 30,
+      "sort-key": "row-0-3-0"
+    },
+    {
+      "name": "Deliver the Blue Rose",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Electrojelly Flag|",
+      "id": 31,
+      "sort-key": "row-0-3-1"
     },
     {
       "name": "Talk to the Fisherman",
@@ -53,7 +88,38 @@
         "Story Event"
       ],
       "requires": "|Beat Electrojelly Flag|",
-      "id": 31
+      "id": 32,
+      "sort-key": "row-0-3-2"
+    },
+    {
+      "name": "Observe the Blood Moon",
+      "region": "Map",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 40,
+      "sort-key": "row-0-4-0"
+    },
+    {
+      "name": "Report to Aira - Reward 1",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 41,
+      "sort-key": "row-0-4-1"
+    },
+    {
+      "name": "Report to Aira - Reward 2",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "id": 42,
+      "sort-key": "row-0-4-2"
     },
     {
       "name": "Tutorial 3 - Hidden Treasure",
@@ -62,7 +128,8 @@
         "Hidden Treasure"
       ],
       "requires": "",
-      "id": 100
+      "id": 100,
+      "sort-key": "row-1-0-0"
     },
     {
       "name": "Path to the Ruins - Hidden Treasure",
@@ -70,8 +137,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 110
+      "requires": "|TR 1 Stage|",
+      "id": 110,
+      "sort-key": "row-1-1-0"
     },
     {
       "name": "Ruined Main Gate - Hidden Treasure",
@@ -79,8 +147,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 111
+      "requires": "|TR 2 Stage|",
+      "id": 111,
+      "sort-key": "row-1-1-1"
     },
     {
       "name": "Grand Staircase - Hidden Treasure",
@@ -88,8 +157,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 112
+      "requires": "|TR 3 Stage|",
+      "id": 112,
+      "sort-key": "row-1-1-2"
     },
     {
       "name": "Hall - Hidden Treasure",
@@ -97,8 +167,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Speedboots| OR |Winged Boots|",
-      "id": 113
+      "requires": "|TR 4 Stage|",
+      "id": 113,
+      "sort-key": "row-1-1-3"
     },
     {
       "name": "Cave (Terran Ruins) - Hidden Treasure",
@@ -106,8 +177,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 114
+      "requires": "|TR 5 Stage|",
+      "id": 114,
+      "sort-key": "row-1-1-4"
     },
     {
       "name": "Deepest Caverns - Hidden Treasure",
@@ -115,8 +187,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 115
+      "requires": "|TR Boss Stage|",
+      "id": 115,
+      "sort-key": "row-1-1-5"
     },
     {
       "name": "Insect King's Lair - Hidden Treasure",
@@ -124,8 +197,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 116
+      "requires": "|TR Bonus Stage|",
+      "id": 116,
+      "sort-key": "row-1-1-6"
     },
     {
       "name": "The Mountain Path - Hidden Treasure",
@@ -133,8 +207,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 120
+      "requires": "|IR 1 Stage|",
+      "id": 120,
+      "sort-key": "row-1-2-0"
     },
     {
       "name": "Volcano Path - Hidden Treasure",
@@ -142,8 +217,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 121
+      "requires": "|IR 2 Stage|",
+      "id": 121,
+      "sort-key": "row-1-2-1"
     },
     {
       "name": "Lava Pools - Hidden Treasure",
@@ -151,8 +227,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 122
+      "requires": "|IR 3 Stage|",
+      "id": 122,
+      "sort-key": "row-1-2-2"
     },
     {
       "name": "Entrance to the Ruins - Hidden Treasure",
@@ -160,8 +237,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 123
+      "requires": "|IR 4 Stage|",
+      "id": 123,
+      "sort-key": "row-1-2-3"
     },
     {
       "name": "Halls of Flame - Hidden Treasure",
@@ -169,8 +247,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 124
+      "requires": "|IR 5 Stage|",
+      "id": 124,
+      "sort-key": "row-1-2-4"
     },
     {
       "name": "Mural Room - Hidden Treasure",
@@ -178,8 +257,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 125
+      "requires": "|IR Boss Stage|",
+      "id": 125,
+      "sort-key": "row-1-2-5"
     },
     {
       "name": "Colliseum - Hidden Treasure",
@@ -187,8 +267,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 126
+      "requires": "|IR Bonus Stage|",
+      "id": 126,
+      "sort-key": "row-1-2-6"
     },
     {
       "name": "Wetland - Hidden Treasure",
@@ -196,8 +277,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
-      "id": 130
+      "requires": "|AR 1 Stage| AND |Winged Boots|",
+      "id": 130,
+      "sort-key": "row-1-3-0"
     },
     {
       "name": "Bridge to the Ruins - Hidden Treasure",
@@ -205,17 +287,19 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 131
+      "requires": "|AR 2 Stage|",
+      "id": 131,
+      "sort-key": "row-1-3-1"
     },
     {
       "name": "Spiral Corridor - Hidden Treasure",
-      "region": "Ignan Ruins",
+      "region": "Aquan Ruins",
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 132
+      "requires": "|AR 3 Stage|",
+      "id": 132,
+      "sort-key": "row-1-3-2"
     },
     {
       "name": "Underwater City - Hidden Treasure",
@@ -223,8 +307,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 133
+      "requires": "|AR 4 Stage|",
+      "id": 133,
+      "sort-key": "row-1-3-3"
     },
     {
       "name": "Silent Church - Hidden Treasure",
@@ -232,8 +317,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 134
+      "requires": "|AR 5 Stage|",
+      "id": 134,
+      "sort-key": "row-1-3-4"
     },
     {
       "name": "Guardian of the Ruins - Hidden Treasure",
@@ -241,8 +327,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 135
+      "requires": "|AR Boss Stage|",
+      "id": 135,
+      "sort-key": "row-1-3-5"
     },
     {
       "name": "Waterways - Hidden Treasure",
@@ -250,8 +337,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 136
+      "requires": "|AR Bonus Stage|",
+      "id": 136,
+      "sort-key": "row-1-3-6"
     },
     {
       "name": "Forest of Miasma - Hidden Treasure",
@@ -259,8 +347,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
-      "id": 140
+      "requires": "|ZR 1 Stage| AND |Can Fish|",
+      "id": 140,
+      "sort-key": "row-1-4-0"
     },
     {
       "name": "Emperor-Bug's Tomb - Hidden Treasure",
@@ -268,8 +357,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
-      "id": 141
+      "requires": "|ZR 2 Stage| AND |Winged Boots|",
+      "id": 141,
+      "sort-key": "row-1-4-1"
     },
     {
       "name": "The Windmill Bridge - Hidden Treasure",
@@ -277,8 +367,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
-      "id": 142
+      "requires": "|ZR 3 Stage| AND |Winged Boots|",
+      "id": 142,
+      "sort-key": "row-1-4-2"
     },
     {
       "name": "Engine Room - Hidden Treasure",
@@ -286,8 +377,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 143
+      "requires": "|ZR 4 Stage|",
+      "id": 143,
+      "sort-key": "row-1-4-3"
     },
     {
       "name": "The Tempest - Hidden Treasure",
@@ -295,8 +387,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Speedboots|",
-      "id": 144
+      "requires": "|ZR 5 Stage| AND |Speedboots|",
+      "id": 144,
+      "sort-key": "row-1-4-4"
     },
     {
       "name": "Mountain Summit - Hidden Treasure",
@@ -304,8 +397,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 145
+      "requires": "|ZR Boss Stage|",
+      "id": 145,
+      "sort-key": "row-1-4-5"
     },
     {
       "name": "Floating Gardens - Hidden Treasure",
@@ -313,8 +407,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Winged Boots|",
-      "id": 146
+      "requires": "|ZR Bonus Stage| AND |Winged Boots|",
+      "id": 146,
+      "sort-key": "row-1-4-6"
     },
     {
       "name": "Path to the Palace - Hidden Treasure",
@@ -322,8 +417,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 150
+      "requires": "|SP 1 Stage| AND |Winged Boots|",
+      "id": 150,
+      "sort-key": "row-1-5-0"
     },
     {
       "name": "Crystal Hall - Hidden Treasure",
@@ -331,8 +427,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 151
+      "requires": "|SP 2 Stage|",
+      "id": 151,
+      "sort-key": "row-1-5-1"
     },
     {
       "name": "Sealed Door - Hidden Treasure",
@@ -340,8 +437,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 152
+      "requires": "|SP 3 Stage|",
+      "id": 152,
+      "sort-key": "row-1-5-2"
     },
     {
       "name": "The Silhouette - Hidden Treasure",
@@ -349,8 +447,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 153
+      "requires": "|SP 4 Stage|",
+      "id": 153,
+      "sort-key": "row-1-5-3"
     },
     {
       "name": "The Showdown - Hidden Treasure",
@@ -358,8 +457,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
-      "id": 154
+      "requires": "|SP 5 Stage| AND |Can Fish|",
+      "id": 154,
+      "sort-key": "row-1-5-4"
     },
     {
       "name": "The Last Battle - Hidden Treasure",
@@ -367,8 +467,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
-      "id": 155
+      "requires": "|SP Boss Stage|",
+      "id": 155,
+      "sort-key": "row-1-5-5"
     },
     {
       "name": "The Lonely Ship - Hidden Treasure",
@@ -376,8 +477,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Fish|",
-      "id": 156
+      "requires": "|SP Bonus Stage| AND |Can Fish|",
+      "id": 156,
+      "sort-key": "row-1-5-6"
     },
     {
       "name": "Forest, the First - Hidden Treasure",
@@ -385,8 +487,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
-      "id": 160
+      "requires": "|FF 1 Stage|",
+      "id": 160,
+      "sort-key": "row-1-6-0"
     },
     {
       "name": "Forest, the Second - Hidden Treasure",
@@ -394,8 +497,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
-      "id": 161
+      "requires": "|FF 2 Stage|",
+      "id": 161,
+      "sort-key": "row-1-6-1"
     },
     {
       "name": "Cave (Familiar Forest) - Hidden Treasure",
@@ -403,8 +507,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access| AND |Can Fish|",
-      "id": 162
+      "requires": "|FF 3 Stage| AND |Can Fish|",
+      "id": 162,
+      "sort-key": "row-1-6-2"
     },
     {
       "name": "Rat Hole - Hidden Treasure",
@@ -412,8 +517,9 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Full Familiar Forest Access|",
-      "id": 163
+      "requires": "|FF Boss Stage|",
+      "id": 163,
+      "sort-key": "row-1-6-3"
     },
     {
       "name": "Defeat Terran Golem - Reward",
@@ -421,12 +527,13 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
       ],
-      "id": 200
+      "id": 200,
+      "sort-key": "row-2-0-0"
     },
     {
       "name": "Defeat Terran Golem - Flag",
@@ -434,11 +541,12 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Terran Stage|",
       "place_item": [
         "Beat Terran Golem Flag"
       ],
-      "id": 201
+      "id": 201,
+      "sort-key": "row-2-0-1"
     },
     {
       "name": "Defeat Volcanicrab - Reward",
@@ -446,12 +554,13 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|IR Boss Stage|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
       ],
-      "id": 210
+      "id": 210,
+      "sort-key": "row-2-1-0"
     },
     {
       "name": "Defeat Volcanicrab - Flag",
@@ -459,11 +568,12 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Ignan Stage|",
       "place_item": [
         "Beat Volcanicrab Flag"
       ],
-      "id": 211
+      "id": 211,
+      "sort-key": "row-2-1-1"
     },
     {
       "name": "Defeat Electrojelly - Reward",
@@ -471,12 +581,13 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
       ],
-      "id": 220
+      "id": 220,
+      "sort-key": "row-2-2-0"
     },
     {
       "name": "Defeat Electrojelly - Flag",
@@ -484,11 +595,12 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
-      "id": 221
+      "id": 221,
+      "sort-key": "row-2-2-1"
     },
     {
       "name": "Defeat Aeolian Wyvern - Reward",
@@ -496,12 +608,13 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|ZR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
       ],
-      "id": 230
+      "id": 230,
+      "sort-key": "row-2-3-0"
     },
     {
       "name": "Defeat Aeolian Wyvern - Flag",
@@ -509,11 +622,12 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Zephyran Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
       "place_item": [
         "Beat Aeolian Wyvern Flag"
       ],
-      "id": 231
+      "id": 231,
+      "sort-key": "row-2-3-1"
     },
     {
       "name": "Defeat The Forgotten Archdevil - Reward",
@@ -521,7 +635,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "",
+      "requires": "|SP Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "dont_place_item": [
         "Progressive Dungeon"
       ],
@@ -529,27 +643,28 @@
         "Fish",
         "Treasure"
       ],
-      "id": 240
+      "id": 240,
+      "sort-key": "row-2-4-0"
     },
     {
       "name": "Defeat The Forgotten Archdevil - Flag",
       "region": "Sealed Palace",
-      "victory": false,
       "category": [
         "Boss Flag"
       ],
-      "requires": "",
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
       "place_item": [
         "Beat The Forgotten Archdevil Flag"
       ],
-      "id": 241
+      "id": 241,
+      "sort-key": "row-2-4-1"
     },
     {
-      "name": "Defeat The Forgotten Archdevil - Victory",
+      "name": "Defeat The Forgotten Archdevil",
       "region": "Sealed Palace",
       "victory": true,
       "category": [],
-      "requires": ""
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|"
     },
     
     {
@@ -563,7 +678,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 300
+      "id": 300,
+      "sort-key": "row-3-0-0"
     },
     {
       "name": "Aira's Shop - Buy Item 2 (Focus Staff)",
@@ -576,7 +692,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 301
+      "id": 301,
+      "sort-key": "row-3-0-1"
     },
     {
       "name": "Aira's Shop - Buy Item 3 (Wooden Shield)",
@@ -589,7 +706,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 302
+      "id": 302,
+      "sort-key": "row-3-0-2"
     },
     {
       "name": "Aira's Shop - Buy Item 4 (Ferromin)",
@@ -602,7 +720,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 303
+      "id": 303,
+      "sort-key": "row-3-0-3"
     },
     {
       "name": "Aira's Shop - Buy Item 5 (Tough Gloves)",
@@ -615,7 +734,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 304
+      "id": 310,
+      "sort-key": "row-3-1-0"
     },
     {
       "name": "Aira's Shop - Buy Item 6 (Magician's Staff)",
@@ -628,7 +748,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 305
+      "id": 311,
+      "sort-key": "row-3-1-1"
     },
     {
       "name": "Aira's Shop - Buy Item 7 (Ferromin G)",
@@ -641,7 +762,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 306
+      "id": 312,
+      "sort-key": "row-3-1-2"
     },
     {
       "name": "Aira's Shop - Buy Item 8 (Big Shield)",
@@ -654,7 +776,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 307
+      "id": 320,
+      "sort-key": "row-3-2-0"
     },
     {
       "name": "Aira's Shop - Buy Item 9 (Popular Charm)",
@@ -667,7 +790,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 308
+      "id": 321,
+      "sort-key": "row-3-2-1"
     },
     {
       "name": "Aira's Shop - Buy Item 10 (Water Crystal)",
@@ -680,7 +804,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 309
+      "id": 322,
+      "sort-key": "row-3-2-2"
     },
     {
       "name": "Aira's Shop - Buy Item 11 (Ferromin FX)",
@@ -692,7 +817,9 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 323,
+      "sort-key": "row-3-2-3"
     },
     {
       "name": "Aira's Shop - Buy Item 12 (White Glove)",
@@ -704,7 +831,9 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 330,
+      "sort-key": "row-3-3-0"
     },
     {
       "name": "Aira's Shop - Buy Item 13 (Hallowed Charm)",
@@ -716,7 +845,9 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 331,
+      "sort-key": "row-3-3-1"
     },
     {
       "name": "Aira's Shop - Buy Item 14 (Ferromin R)",
@@ -728,7 +859,9 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 332,
+      "sort-key": "row-3-3-2"
     },
     {
       "name": "Aira's Shop - Buy Item 15 (Cat Statue)",
@@ -740,7 +873,93 @@
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
-      "prehint": true
+      "prehint": true,
+      "id": 333,
+      "sort-key": "row-3-3-3"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 16 (Void Crystal)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat Aeolian Wyvern Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 340,
+      "sort-key": "row-3-4-0"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 17 (Antivenom)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 350,
+      "sort-key": "row-3-5-0"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 18 (Air Crystal)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 351,
+      "sort-key": "row-3-5-1"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 19 (Ferromin S)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 352,
+      "sort-key": "row-3-5-2"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 20 (Jade Shield)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 353,
+      "sort-key": "row-3-5-3"
+    },
+    {
+      "name": "Aira's Shop - Buy Item 21 (Sand Charm)",
+      "region": "Aira's Shop",
+      "category": [
+        "Shop Shuffle", "Aira Shop Shuffle"
+      ],
+      "requires": "|Beat The Forgotten Archdevil Flag|",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 354,
+      "sort-key": "row-3-5-4"
     },
     {
       "name": "Merchant - Buy Item 1 (Leather Glove)",
@@ -753,7 +972,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 350
+      "id": 360,
+      "sort-key": "row-3-6-0"
     },
     {
       "name": "Merchant - Buy Item 2 (Focus Staff)",
@@ -766,7 +986,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 351
+      "id": 361,
+      "sort-key": "row-3-6-1"
     },
     {
       "name": "Merchant - Buy Item 3 (Wooden Shield)",
@@ -779,7 +1000,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 352
+      "id": 362,
+      "sort-key": "row-3-6-2"
     },
     {
       "name": "Merchant - Buy Item 4 (Antivenom)",
@@ -792,7 +1014,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 353
+      "id": 363,
+      "sort-key": "row-3-6-3"
     },
     {
       "name": "Merchant - Buy Item 5 (Water Crystal)",
@@ -805,7 +1028,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 354
+      "id": 364,
+      "sort-key": "row-3-6-4"
     },
     {
       "name": "Merchant - Buy Item 6 (Air Crystal)",
@@ -818,7 +1042,8 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 355
+      "id": 365,
+      "sort-key": "row-3-6-5"
     },
     {
       "name": "Merchant - Buy Item 7 (Ferromin)",
@@ -831,7 +1056,198 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 356
+      "id": 366,
+      "sort-key": "row-3-6-6"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 1 (Walnut Bread)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 371,
+      "sort-key": "row-3-7-1"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 2 (Egg Toast)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 372,
+      "sort-key": "row-3-7-2"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 3 (Roast Chicken)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 373,
+      "sort-key": "row-3-7-3"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 4 (Ham Sandwich)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 374,
+      "sort-key": "row-3-7-4"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 5 (Divine Staff)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 375,
+      "sort-key": "row-3-7-5"
+    },
+    {
+      "name": "Sell Unlock - Buy Dragon Buster",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Dragon Buster Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 400
+    },
+    {
+      "name": "Sell Unlock - Buy Blazing Charm",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Blazing Charm Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 401
+    },
+    {
+      "name": "Sell Unlock - Buy Poison Crystal",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Poison Crystal Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 402
+    },
+    {
+      "name": "Sell Unlock - Buy Amber Shield",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Amber Shield Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 403
+    },
+    {
+      "name": "Sell Unlock - Buy Antique Gramophone",
+      "region": "Merchant",
+      "category": [
+        "Shop Shuffle", "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Antique Gramophone Unlock|",
+      "dont_place_item_category": [
+        "Fish"
+      ],
+      "prehint": false,
+      "id": 404
+    },
+    {
+      "name": "Sell Unlock - Dragon Buster Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Dragon Buster Unlockable|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 410
+    },
+    {
+      "name": "Sell Unlock - Blazing Charm Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Blazing Charm Unlockable|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 411
+    },
+    {
+      "name": "Sell Unlock - Poison Crystal Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Poison Crystal Unlockable|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 412
+    },
+    {
+      "name": "Sell Unlock - Amber Shield Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Amber Shield Unlockable|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 413
+    },
+    {
+      "name": "Sell Unlock - Antique Gramophone Unlock",
+      "region": "Sell Unlock",
+      "category": [
+        "Shop Sell Unlock Shuffle"
+      ],
+      "requires": "|Antique Gramophone Unlockable|",
+      "dont_place_item_category": [],
+      "prehint": false,
+      "id": 414
     },
     {
       "name": "Fish Trade - Golden Scales",
@@ -845,7 +1261,8 @@
       ],
       "prehint": true,
       "hint_entrance": "12x Little Blackfish, 15x Seabass",
-      "id": 500
+      "id": 500,
+      "sort-key": "row-5-0-0"
     },
     {
       "name": "Fish Trade - Golden Pedestal",
@@ -859,7 +1276,8 @@
       ],
       "prehint": true,
       "hint_entrance": "20x Piranhas, 8x Carps",
-      "id": 501
+      "id": 501,
+      "sort-key": "row-5-0-1"
     },
     {
       "region": "Fish Trading",
@@ -873,7 +1291,8 @@
       ],
       "prehint": true,
       "hint_entrance": "8x Carp, 12x Boiled Octopus, 12x Rainbow Trout",
-      "id": 502
+      "id": 502,
+      "sort-key": "row-5-0-2"
     },
     {
       "region": "Fish Trading",
@@ -887,7 +1306,8 @@
       ],
       "prehint": true,
       "hint_entrance": "15x Sea Cucumber, 15x Koi, 10x Lobster, 20x Seabass",
-      "id": 503
+      "id": 503,
+      "sort-key": "row-5-0-3"
     },
     {
       "region": "Fish Trading",
@@ -901,7 +1321,8 @@
       ],
       "prehint": true,
       "hint_entrance": "15x Squid, 2x Mackerel, 2x Giant Oarfish, 3x Conger Eel",
-      "id": 504
+      "id": 504,
+      "sort-key": "row-5-0-4"
     },
     {
       "region": "Fish Trading",
@@ -915,7 +1336,8 @@
       ],
       "prehint": true,
       "hint_entrance": "2x Penguin, 3x Catfish, 4x East-sea Mackerel",
-      "id": 505
+      "id": 505,
+      "sort-key": "row-5-0-5"
     },
     {
       "region": "Fish Trading",
@@ -929,7 +1351,8 @@
       ],
       "prehint": true,
       "hint_entrance": "3x Trilobyte, 5x Red Sea Cucumber, 3x Seabass, 3x Little Blackfish",
-      "id": 506
+      "id": 506,
+      "sort-key": "row-5-0-6"
     },
     {
       "region": "Fish Trading",
@@ -943,7 +1366,8 @@
       ],
       "prehint": true,
       "hint_entrance": "15x Firefish, 18x Little Redfish, 13x Red Sea Cucumber, 6x Boiled Octopus",
-      "id": 507
+      "id": 507,
+      "sort-key": "row-5-0-7"
     },
     {
       "region": "Fish Trading",
@@ -957,7 +1381,8 @@
       ],
       "prehint": true,
       "hint_entrance": "8x Rainbow Trout, 8x Sweetfish, 12x Octopus, 15x Red Sea Bream",
-      "id": 508
+      "id": 508,
+      "sort-key": "row-5-0-8"
     },
     {
       "region": "Fish Trading",
@@ -971,7 +1396,8 @@
       ],
       "prehint": true,
       "hint_entrance": "3x Rainbow Trout, 2x Carp, 5x Eel, 3x Catfish",
-      "id": 509
+      "id": 509,
+      "sort-key": "row-5-0-9"
     },
     {
       "region": "Fish Trading",
@@ -985,7 +1411,8 @@
       ],
       "prehint": true,
       "hint_entrance": "4x Mecha-Coelacanth, 3x Coelacanth, 8x Hammerhead, 10x Clownfish",
-      "id": 510
+      "id": 510,
+      "sort-key": "row-5-0-10"
     },
     {
       "region": "Fish Trading",
@@ -999,7 +1426,8 @@
       ],
       "prehint": true,
       "hint_entrance": "3x Blue Shark, 3x Sperm Whale, 3x Carp Flag, 6x Aramaki Salmon, 5x Taiyaki",
-      "id": 511
+      "id": 511,
+      "sort-key": "row-5-0-11"
     },
     {
       "region": "Fish Trading",
@@ -1013,7 +1441,8 @@
       ],
       "prehint": true,
       "hint_entrance": "5x Pufferfish, 5x Tube-snout, 3x Anglerfish, 3x Salmon",
-      "id": 512
+      "id": 512,
+      "sort-key": "row-5-0-12"
     },
     {
       "name": "Fish Trade - Shell Charm",
@@ -1026,7 +1455,8 @@
       ],
       "prehint": true,
       "hint_entrance": "5x Aramaki Salmon, 3x Mecha-Coelacanth, 3x Ocean Sunfish, 3x Trilobyte, 1x Mantis Shrimp, 1x Lobster",
-      "id": 513
+      "id": 513,
+      "sort-key": "row-5-0-13"
     },
     {
       "name": "Fish Trade - Salamander Shield",
@@ -1040,7 +1470,8 @@
       ],
       "prehint": true,
       "hint_entrance": "7x Star Snapper, 5x Axolotl, 6x Clione",
-      "id": 514
+      "id": 514,
+      "sort-key": "row-5-0-14"
     },
     {
       "name": "Fish Trade - Pearl Shield",
@@ -1054,7 +1485,8 @@
       ],
       "prehint": true,
       "hint_entrance": "3x Manta, 2x Axolotl, 5x Arowana, 5x Mackerel",
-      "id": 515
+      "id": 515,
+      "sort-key": "row-5-0-15"
     },
     {
       "name": "Fish Trade - Paralysis Crystal",
@@ -1068,7 +1500,919 @@
       ],
       "prehint": true,
       "hint_entrance": "12x Snakehead, 3x Hammerhead, 20x Pufferfish",
-      "id": 516
+      "id": 516,
+      "sort-key": "row-5-0-16"
+    },
+    {
+      "name": "Tutorial 3 Clear",
+      "region": "The Plains",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "",
+      "id": 603,
+      "sort-key": "row-6-0-3"
+    },
+    {
+      "name": "Path to the Ruins Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 1 Stage|",
+      "id": 611,
+      "sort-key": "row-6-1-1"
+    },
+    {
+      "name": "Ruined Main Gate Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 612,
+      "sort-key": "row-6-1-2"
+    },
+    {
+      "name": "Grand Staircase Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 613,
+      "sort-key": "row-6-1-3"
+    },
+    {
+      "name": "Hall Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 614,
+      "sort-key": "row-6-1-4"
+    },
+    {
+      "name": "Cave (Terran Ruins) Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 615,
+      "sort-key": "row-6-1-5"
+    },
+    {
+      "name": "Insect King's Lair Clear",
+      "region": "Terran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 617,
+      "sort-key": "row-6-1-7"
+    },
+    {
+      "name": "The Mountain Path Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 621,
+      "sort-key": "row-6-2-1"
+    },
+    {
+      "name": "Volcano Path Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 622,
+      "sort-key": "row-6-2-2"
+    },
+    {
+      "name": "Lava Pools Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 623,
+      "sort-key": "row-6-2-3"
+    },
+    {
+      "name": "Entrance to the Ruins Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 4 Stage|",
+      "id": 624,
+      "sort-key": "row-6-2-4"
+    },
+    {
+      "name": "Halls of Flame Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR 5 Stage|",
+      "id": 625,
+      "sort-key": "row-6-2-5"
+    },
+    {
+      "name": "Colliseum Clear",
+      "region": "Ignan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|IR Bonus Stage|",
+      "id": 627,
+      "sort-key": "row-6-2-7"
+    },
+    {
+      "name": "Wetland Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 1 Stage|",
+      "id": 631,
+      "sort-key": "row-6-3-1"
+    },
+    {
+      "name": "Bridge to the Ruins Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 2 Stage|",
+      "id": 632,
+      "sort-key": "row-6-3-2"
+    },
+    {
+      "name": "Spiral Corridor Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 3 Stage|",
+      "id": 633,
+      "sort-key": "row-6-3-3"
+    },
+    {
+      "name": "Underwater City Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 4 Stage|",
+      "id": 634,
+      "sort-key": "row-6-3-4"
+    },
+    {
+      "name": "Silent Church Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 635,
+      "sort-key": "row-6-3-5"
+    },
+    {
+      "name": "Waterways Clear",
+      "region": "Aquan Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|AR Bonus Stage|",
+      "id": 637,
+      "sort-key": "row-6-3-7"
+    },
+    {
+      "name": "Forest of Miasma Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 1 Stage|",
+      "id": 641,
+      "sort-key": "row-6-4-1"
+    },
+    {
+      "name": "Emperor-Bug's Tomb Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 2 Stage|",
+      "id": 642,
+      "sort-key": "row-6-4-2"
+    },
+    {
+      "name": "The Windmill Bridge Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 643,
+      "sort-key": "row-7-4-3"
+    },
+    {
+      "name": "Engine Room Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 4 Stage|",
+      "id": 644,
+      "sort-key": "row-6-4-4"
+    },
+    {
+      "name": "The Tempest Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR 5 Stage|",
+      "id": 645,
+      "sort-key": "row-6-4-5"
+    },
+    {
+      "name": "Floating Gardens Clear",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|ZR Bonus Stage|",
+      "id": 647,
+      "sort-key": "row-6-4-7"
+    },
+    {
+      "name": "Path to the Palace Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 1 Stage|",
+      "id": 651,
+      "sort-key": "row-6-5-1"
+    },
+    {
+      "name": "Crystal Hall Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 652,
+      "sort-key": "row-6-5-2"
+    },
+    {
+      "name": "Sealed Door Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 3 Stage|",
+      "id": 653,
+      "sort-key": "row-6-5-3"
+    },
+    {
+      "name": "The Silhouette Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 4 Stage|",
+      "id": 654,
+      "sort-key": "row-6-5-4"
+    },
+    {
+      "name": "The Showdown Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP 5 Stage|",
+      "id": 655,
+      "sort-key": "row-6-5-5"
+    },
+    {
+      "name": "The Lonely Ship Clear",
+      "region": "Sealed Palace",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SP Bonus Stage|",
+      "id": 657,
+      "sort-key": "row-6-5-7"
+    },
+    {
+      "name": "Forest, the First Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 1 Stage|",
+      "id": 661,
+      "sort-key": "row-6-6-1"
+    },
+    {
+      "name": "Forest, the Second Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 2 Stage|",
+      "id": 662,
+      "sort-key": "row-6-6-2"
+    },
+    {
+      "name": "Cave (Familiar Forest) Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF 3 Stage|",
+      "id": 663,
+      "sort-key": "row-6-6-3"
+    },
+    {
+      "name": "Rat Hole Clear",
+      "region": "Familiar Forest",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|FF Boss Stage|",
+      "id": 664,
+      "sort-key": "row-6-6-4"
+    },
+    {
+      "name": "Survival Dungeon Floor 10 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 10 Stage|",
+      "id": 671,
+      "sort-key": "row-6-7-10"
+    },
+    {
+      "name": "Survival Dungeon Floor 20 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 20 Stage|",
+      "id": 672,
+      "sort-key": "row-6-7-20"
+    },
+    {
+      "name": "Survival Dungeon Floor 30 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 30 Stage|",
+      "id": 673,
+      "sort-key": "row-6-7-30"
+    },
+    {
+      "name": "Survival Dungeon Floor 40 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 40 Stage|",
+      "id": 674,
+      "sort-key": "row-6-7-40"
+    },
+    {
+      "name": "Survival Dungeon Floor 50 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 50 Stage|",
+      "id": 675,
+      "sort-key": "row-6-7-50"
+    },
+    {
+      "name": "Survival Dungeon Floor 60 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 60 Stage|",
+      "id": 676,
+      "sort-key": "row-6-7-60"
+    },
+    {
+      "name": "Catch First Axolotl",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Axolotl|",
+      "id": 700,
+      "sort-key": "row-7-0-0"
+    },
+    {
+      "name": "Catch First Clione",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Clione|",
+      "id": 701,
+      "sort-key": "row-7-0-1"
+    },
+    {
+      "name": "Catch First Clownfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Clownfish|",
+      "id": 702,
+      "sort-key": "row-7-0-2"
+    },
+    {
+      "name": "Catch First Little Blackfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Little Blackfish|",
+      "id": 703,
+      "sort-key": "row-7-0-3"
+    },
+    {
+      "name": "Catch First Little Redfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Little Redfish|",
+      "id": 704,
+      "sort-key": "row-7-0-4"
+    },
+    {
+      "name": "Catch First Lobster",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Lobster|",
+      "id": 705,
+      "sort-key": "row-7-0-5"
+    },
+    {
+      "name": "Catch First Mantis Shrimp",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mantis Shrimp|",
+      "id": 706,
+      "sort-key": "row-7-0-6"
+    },
+    {
+      "name": "Catch First Red Sea Cucumber",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Red Sea Cucumber|",
+      "id": 707,
+      "sort-key": "row-7-0-7"
+    },
+    {
+      "name": "Catch First Sea Cucumber",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sea Cucumber|",
+      "id": 708,
+      "sort-key": "row-7-0-8"
+    },
+    {
+      "name": "Catch First Arowana",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Arowana|",
+      "id": 730,
+      "sort-key": "row-7-1-0"
+    },
+    {
+      "name": "Catch First Carp",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Carp|",
+      "id": 731,
+      "sort-key": "row-7-1-1"
+    },
+    {
+      "name": "Catch First Carp Flag",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Carp Flag|",
+      "id": 732,
+      "sort-key": "row-7-1-2"
+    },
+    {
+      "name": "Catch First Coelacanth",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Coelacanth|",
+      "id": 733,
+      "sort-key": "row-7-1-3"
+    },
+    {
+      "name": "Catch First Conger Eel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Conger Eel|",
+      "id": 734,
+      "sort-key": "row-7-1-4"
+    },
+    {
+      "name": "Catch First East-sea Mackerel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch East-sea Mackerel|",
+      "id": 735,
+      "sort-key": "row-7-1-5"
+    },
+    {
+      "name": "Catch First Eel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Eel|",
+      "id": 736,
+      "sort-key": "row-7-1-6"
+    },
+    {
+      "name": "Catch First Firefish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Firefish|",
+      "id": 737,
+      "sort-key": "row-7-1-7"
+    },
+    {
+      "name": "Catch First Koi",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Koi|",
+      "id": 738,
+      "sort-key": "row-7-1-8"
+    },
+    {
+      "name": "Catch First Mackerel",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mackerel|",
+      "id": 739,
+      "sort-key": "row-7-1-9"
+    },
+    {
+      "name": "Catch First Octopus",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Octopus|",
+      "id": 740,
+      "sort-key": "row-7-1-10"
+    },
+    {
+      "name": "Catch First Penguin",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Penguin|",
+      "id": 741,
+      "sort-key": "row-7-1-11"
+    },
+    {
+      "name": "Catch First Piranha",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Piranha|",
+      "id": 742,
+      "sort-key": "row-7-1-12"
+    },
+    {
+      "name": "Catch First Pufferfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Pufferfish|",
+      "id": 743,
+      "sort-key": "row-7-1-13"
+    },
+    {
+      "name": "Catch First Rainbow Trout",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Rainbow Trout|",
+      "id": 744,
+      "sort-key": "row-7-1-14"
+    },
+    {
+      "name": "Catch First Red Sea Bream",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Red Sea Bream|",
+      "id": 745,
+      "sort-key": "row-7-1-15"
+    },
+    {
+      "name": "Catch First Seabass",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Seabass|",
+      "id": 746,
+      "sort-key": "row-7-1-16"
+    },
+    {
+      "name": "Catch First Snakehead",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Snakehead|",
+      "id": 747,
+      "sort-key": "row-7-1-17"
+    },
+    {
+      "name": "Catch First Squid",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Squid|",
+      "id": 748,
+      "sort-key": "row-7-1-18"
+    },
+    {
+      "name": "Catch First Sweetfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sweetfish|",
+      "id": 749,
+      "sort-key": "row-7-1-19"
+    },
+    {
+      "name": "Catch First Taiyaki",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Taiyaki|",
+      "id": 750,
+      "sort-key": "row-7-1-20"
+    },
+    {
+      "name": "Catch First Trilobyte",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Trilobyte|",
+      "id": 751,
+      "sort-key": "row-7-1-21"
+    },
+    {
+      "name": "Catch First Tube-snout",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Tube-snout|",
+      "id": 752,
+      "sort-key": "row-7-1-22"
+    },
+    {
+      "name": "Catch First Anglerfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Anglerfish|",
+      "id": 760,
+      "sort-key": "row-7-2-0"
+    },
+    {
+      "name": "Catch First Aramaki Salmon",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Aramaki Salmon|",
+      "id": 761,
+      "sort-key": "row-7-2-1"
+    },
+    {
+      "name": "Catch First Blue Shark",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Blue Shark|",
+      "id": 762,
+      "sort-key": "row-7-2-2"
+    },
+    {
+      "name": "Catch First Boiled Octopus",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Boiled Octopus|",
+      "id": 763,
+      "sort-key": "row-7-2-3"
+    },
+    {
+      "name": "Catch First Catfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Catfish|",
+      "id": 764,
+      "sort-key": "row-7-2-4"
+    },
+    {
+      "name": "Catch First Giant Oarfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Giant Oarfish|",
+      "id": 765,
+      "sort-key": "row-7-2-5"
+    },
+    {
+      "name": "Catch First Hammerhead",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Hammerhead|",
+      "id": 766,
+      "sort-key": "row-7-2-6"
+    },
+    {
+      "name": "Catch First Manta",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Manta|",
+      "id": 767,
+      "sort-key": "row-7-2-7"
+    },
+    {
+      "name": "Catch First Mecha-Coelacanth",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Mecha-Coelacanth|",
+      "id": 768,
+      "sort-key": "row-7-2-8"
+    },
+    {
+      "name": "Catch First Ocean Sunfish",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Ocean Sunfish|",
+      "id": 769,
+      "sort-key": "row-7-2-9"
+    },
+    {
+      "name": "Catch First Salmon",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Salmon|",
+      "id": 770,
+      "sort-key": "row-7-2-10"
+    },
+    {
+      "name": "Catch First Sperm Whale",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Sperm Whale|",
+      "id": 771,
+      "sort-key": "row-7-2-11"
+    },
+    {
+      "name": "Catch First Star Snapper",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Star Snapper|",
+      "id": 772,
+      "sort-key": "row-7-2-12"
+    },
+    {
+      "name": "Catch First Yellowfin Tuna",
+      "region": "Fishsanity",
+      "category": [
+        "Fishsanity"
+      ],
+      "requires": "|Can Catch Yellowfin Tuna|",
+      "id": 773,
+      "sort-key": "row-7-2-13"
     },
     {
       "name": "Ruined Main Gate - Treasure Chest",
@@ -1076,8 +2420,9 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
-      "id": 800
+      "requires": "|TR 2 Stage|",
+      "id": 811,
+      "sort-key": "row-8-1-1"
     },
     {
       "name": "Deepest Cavern - Treasure Chest",
@@ -1085,8 +2430,9 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
-      "id": 801
+      "requires": "|TR Boss Stage|",
+      "id": 815,
+      "sort-key": "row-8-1-5"
     },
     {
       "name": "Volcano Path - Treasure Chest",
@@ -1094,8 +2440,9 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
-      "id": 810
+      "requires": "|IR 2 Stage|",
+      "id": 821,
+      "sort-key": "row-8-2-1"
     },
     {
       "name": "Spiral Corridor - Treasure Chest",
@@ -1103,8 +2450,9 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
-      "id": 820
+      "requires": "|AR 3 Stage|",
+      "id": 832,
+      "sort-key": "row-8-3-2"
     },
     {
       "name": "Emperor Bug's Tomb - Treasure Chest",
@@ -1112,15 +2460,305 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "",
-      "id": 830
+      "requires": "|ZR 2 Stage|",
+      "id": 841,
+      "sort-key": "row-8-4-1"
     },
     {
-      "name": "All Hidden Treasures Found",
+      "name": "Town Dead End Front Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1001,
+      "sort-key": "row-10-0-1"
+    },
+    {
+      "name": "Town Dead End Back Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1002,
+      "sort-key": "row-10-0-2"
+    },
+    {
+      "name": "Town Shop Near Sign Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1003,
+      "sort-key": "row-10-0-3"
+    },
+    {
+      "name": "Town Front House Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1004,
+      "sort-key": "row-10-0-4"
+    },
+    {
+      "name": "Town Back House Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1005,
+      "sort-key": "row-10-0-5"
+    },
+    {
+      "name": "Town Back Sign Barrel",
+      "region": "Town",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "",
+      "id": 1006,
+      "sort-key": "row-10-0-6"
+    },
+    {
+      "name": "Grand Staircase Top West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1021,
+      "sort-key": "row-10-2-1"
+    },
+    {
+      "name": "Grand Staircase Top East Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1022,
+      "sort-key": "row-10-2-2"
+    },
+    {
+      "name": "Grand Staircase Center Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1023,
+      "sort-key": "row-10-2-3"
+    },
+    {
+      "name": "Grand Staircase Middle East Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1024,
+      "sort-key": "row-10-2-4"
+    },
+    {
+      "name": "Grand Staircase Middle West Egg Toast Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1025,
+      "sort-key": "row-10-2-5"
+    },
+    {
+      "name": "Hall Hidden Treasure Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 1026,
+      "sort-key": "row-10-2-6"
+    },
+    {
+      "name": "Terran Cave Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1027,
+      "sort-key": "row-10-2-7"
+    },
+    {
+      "name": "Terran Cave Roast Chicken Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1028,
+      "sort-key": "row-10-2-8"
+    },
+    {
+      "name": "Terran Cave South-West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1029,
+      "sort-key": "row-10-2-9"
+    },
+    {
+      "name": "Terran Cave North-West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1030,
+      "sort-key": "row-10-2-10"
+    },
+    {
+      "name": "Deepest Caverns North Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1031,
+      "sort-key": "row-10-2-11"
+    },
+    {
+      "name": "Deepest Caverns West Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1032,
+      "sort-key": "row-10-2-12"
+    },
+    {
+      "name": "Deepest Caverns South Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1033,
+      "sort-key": "row-10-2-13"
+    },
+    {
+      "name": "Deepest Caverns East Entrance Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1034,
+      "sort-key": "row-10-2-14"
+    },
+    {
+      "name": "Deepest Caverns Lonely Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1035,
+      "sort-key": "row-10-2-15"
+    },
+    {
+      "name": "Volcano Path Hidden Treasure Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 1041,
+      "sort-key": "row-10-3-1"
+    },
+    {
+      "name": "Lava Pools Entrance Front Left Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 1042,
+      "sort-key": "row-10-3-2"
+    },
+    {
+      "name": "Lava Pools Entrance Front Right Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 1043,
+      "sort-key": "row-10-3-3"
+    },
+    {
+      "name": "Lava Pools Entrance Center Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 1044,
+      "sort-key": "row-10-3-4"
+    },
+    {
+      "name": "Lava Pools Entrance Back Barrel",
+      "region": "Ignan Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|IR 3 Stage|",
+      "id": 1045,
+      "sort-key": "row-10-3-5"
+    },
+    {
+      "name": "Crystal Hall Hidden Treasure Barrel",
+      "region": "Sealed Palace",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 1046,
+      "sort-key": "row-10-51"
+    },
+    {
+      "name": "All Main Hidden Treasures Found",
       "region": "Map",
       "category": [""],
-      "requires": "|Progressive Dungeon:5| AND |Winged Boots| AND |Speedboots|",
-      "id": 9000
+      "requires": "|All Hidden Treasures Main Access|",
+      "id": 9000,
+      "sort-key": "row-90-0-0"
+    },
+    {
+      "name": "Open Every Hidden Treasures",
+      "region": "Map",
+      "category": [""],
+      "requires": "|All Hidden Treasures Full Access|",
+      "victory": true,
+      "id": 9001,
+      "sort-key": "row-90-0-1"
+    },
+    {
+      "name": "Defeat Every Main Dungeon Boss",
+      "region": "Map",
+      "category": [""],
+      "requires": "|Beat Terran Golem Flag| AND |Beat Volcanicrab Flag| AND |Beat Electrojelly Flag| AND |Beat Aeolian Wyvern Flag| AND |Beat The Forgotten Archdevil Flag|",
+      "victory": true,
+      "id": 9010,
+      "sort-key": "row-90-1-0"
     }
   ]
 }

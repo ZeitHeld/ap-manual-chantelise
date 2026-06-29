@@ -81,6 +81,19 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
 
+    shop_shuffle_aira = get_option_value(multiworld, player, "shop_shuffle") >= 1
+    shop_shuffle_merchant = get_option_value(multiworld, player, "shop_shuffle") >= 2
+    shop_shuffle_survival = get_option_value(multiworld, player, "shop_shuffle") >= 3
+    trade_shuffle = get_option_value(multiworld, player, "fish_trade")
+    
+    for item in item_pool:
+        if (shop_shuffle_aira == False && "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
+            itemNamesToRemove.append(item.name)
+        if (shop_shuffle_merchant == False && "Merchant Item" in world.item_name_to_item[item.name].get("category", [])):
+            itemNamesToRemove.append(item.name)
+        if (trade_shuffle == False) && ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
+            itemNamesToRemove.append(item.name)
+
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name

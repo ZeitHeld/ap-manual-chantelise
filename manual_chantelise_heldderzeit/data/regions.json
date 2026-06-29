@@ -11,8 +11,7 @@
       "Zephyran Ruins",
       "Sealed Palace",
       "Familiar Forest",
-      "Survival Dungeon",
-      "Fish Shuffle"
+      "Survival Dungeon"
     ],
     "requires": ""
   },
@@ -64,7 +63,6 @@
   },
   "Familiar Forest": {
     "connects_to": [
-      "Map",
       "Merchant"
     ],
     "requires": "|Progressive Familiar Forest:1|"
@@ -89,18 +87,17 @@
     "requires": ""
   },
   "Merchant": {
-    "connects_to": [
-      "Familiar Forest"
-    ],
     "requires": ""
   },
-  "Fish Shuffle": {
+  "Fishsanity": {
     "connects_to": [
       "Map"
     ],
     "starting": true,
-    "entrance_requires": {
-      "Map": "|Can Fish|"
-    }
+    "requires": "|Can Fish| AND {YamlEnabled(fishsanity)}"
+  },
+  "Sell Unlock": {
+    "starting": true,
+    "requires": "{YamlEnabled(shop_sell_unlock)}"
   }
 }
