@@ -29,9 +29,9 @@ def requiresMelee():
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 
-def hasEnoughTrophies(state: CollectionState, multiworld: MultiWorld, player: int):
-    """Checks if the player has enough Blue Rose Petals to beat the game."""
-    return state.count("Blue Rose Petal", player) >= get_option_value(multiworld, player, "trophies_required")
+# def hasEnoughTrophies(state: CollectionState, multiworld: MultiWorld, player: int):
+#     """Checks if the player has enough Blue Rose Petals to beat the game."""
+#     return state.count("Blue Rose Petal", player) >= get_option_value(multiworld, player, "trophies_required")
 
 # def CanReachForestLocation():
 #     return CanReachLocation("Forest, the First - Hidden Treasure")

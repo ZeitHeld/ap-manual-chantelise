@@ -2255,7 +2255,7 @@
       "category": [
         "Goal Item"
       ],
-      "progression_skip_balancing": true
+      "progression": true
     }
   ]
 }

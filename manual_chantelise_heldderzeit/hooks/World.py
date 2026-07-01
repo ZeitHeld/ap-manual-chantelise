@@ -30,6 +30,7 @@ import logging
 ## The fill_slot_data method will be used to send data to the Manual client for later use, like deathlink.
 ########################################################################################
 
+GOAL_ID_CURE_ELISE = 3
 
 
 # Use this function to change the valid filler items to be created to replace item links or starting items.
@@ -89,6 +90,9 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # Use this hook to remove items from the item pool
     itemNamesToRemove: list[str] = [] # List of item names
 
+    goal = get_option_value(multiworld, player, "goal")
+    required_petals = get_option_value(multiworld, player, "trophies_required")
+    total_petals = get_option_value(multiworld, player, "trophies_total")
     shop_shuffle_aira = get_option_value(multiworld, player, "shop_shuffle") >= 1
     shop_shuffle_merchant = get_option_value(multiworld, player, "shop_shuffle") >= 2
     shop_shuffle_survival = get_option_value(multiworld, player, "shop_shuffle") >= 3
@@ -156,6 +160,25 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
 
+
+    # ADDING IN PETALS
+    #logging.info("<Chantelise-Manual> (after_create_items) GOAL: "+ str(goal))
+    if goal == GOAL_ID_CURE_ELISE:
+        if required_petals > total_petals:
+            if required_petals > 45:
+                total_petals = 50
+            else:                
+                total_petals = required_petals+5
+
+        if total_petals > 0:
+            logging.info("<Chantelise-Manual> (after_create_items) Adding " + str(total_petals) + " Petals to pool.")
+            for _ in range(total_petals):
+                logging.info("<Chantelise-Manual> (after_create_items) Adding Petal...")
+                world.create_item("Blue Rose Petal")
+                logging.info("<Chantelise-Manual> (after_create_items) Petal added!")
+        else:
+            logging.info("<Chantelise-Manual> (after_create_items) Finished Adding Blue Rose Petals.")
+
     return item_pool
 
     # Some other useful hook options:
@@ -168,10 +191,14 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    goal = get_option_value(multiworld, player, "goal")
+    required_petals = get_option_value(multiworld, player, "trophies_required")
+    total_petals = get_option_value(multiworld, player, "trophies_total")
     trade_shuffle = get_option_value(multiworld, player, "fish_trade")
     fishsanity = get_option_value(multiworld, player, "fishsanity")
     shop_shuffle_none = get_option_value(multiworld, player, "shop_shuffle") == 0
     progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+
 
     # for item in item_pool:
     #     if shop_shuffle_none:
@@ -202,10 +229,19 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
         # True if the player can access the location
         # CollectionState is defined in BaseClasses
         return True
+    
+    def hasEnoughTrophies(state: CollectionState) -> bool:
+        """Checks if the player has enough Blue Rose Petals to beat the game."""
+        #return state.count("Blue Rose Petal", player) >= get_option_value(multiworld, player, "trophies_required")
+        return "|Blue Rose Petal:" + str(get_option_value(multiworld, player, "trophies_required")) + "|"
+
 
     ## Common functions:
     # location = world.get_location(location_name, player)
     # location.access_rule = Example_Rule
+
+    trophy_location = multiworld.get_location("Cure Elise with Blue Rose Petals", player)
+    trophy_location.access_rule = lambda state: hasEnoughTrophies(state)
 
     ## Combine rules:
     # old_rule = location.access_rule
