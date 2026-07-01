@@ -6,7 +6,7 @@
     },
     {
         "name": "Can Catch Aramaki Salmon",
-        "requires": "|Can Fish| AND (|ZR 2 Stage| |SP Bonus Stage|)",
+        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
@@ -537,6 +537,10 @@
     {
         "name": "SD 50 Stage",
         "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:5| OR |Survival Dungeon Floor 50|)))"
+    },
+    {
+        "name": "SD 60 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:6| OR |Survival Dungeon Floor 60|)))"
     },
     {
         "name": "Every Main Dungeon Full Access",
