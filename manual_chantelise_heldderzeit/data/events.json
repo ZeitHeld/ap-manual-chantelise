@@ -539,6 +539,10 @@
         "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:5| OR |Survival Dungeon Floor 50|)))"
     },
     {
+        "name": "SD 60 Stage",
+        "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:6| OR |Survival Dungeon Floor 60|)))"
+    },
+    {
         "name": "Every Main Dungeon Full Access",
         "requires": "(|Every Main Terran Stage| AND |TR Bonus Stage|) AND (|Every Main Ignan Stage| AND |IR Bonus Stage|) AND (|Every Main Aquan Stage| AND |AR Bonus Stage|) AND (|Every Main Zephyran Stage| AND |ZR Bonus Stage|) AND (|Every Main Palace Stage| AND |SP Bonus Stage|)"
     },

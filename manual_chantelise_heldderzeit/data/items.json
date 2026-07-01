@@ -2173,7 +2173,7 @@
       "progression": true
     },
     {
-      "count": 5,
+      "count": 6,
       "name": "Progressive Survival Dungeon Boss Stage",
       "category": [
         "Stage",
@@ -2230,6 +2230,17 @@
     {
       "count": 1,
       "name": "Survival Dungeon Floor 50",
+      "category": [
+        "Stage",
+        "Stagesanity",
+        "Separate Stage",
+        "Survival Dungeon Stage"
+      ],
+      "progression": true
+    },
+    {
+      "count": 1,
+      "name": "Survival Dungeon Floor 60",
       "category": [
         "Stage",
         "Stagesanity",
