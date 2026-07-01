@@ -19,6 +19,7 @@ def after_load_location_file(location_table: list) -> list:
 # called after the events.json file has been loaded, before any processing has occurred
 # If you need access to the events after processing, you should use the hooks in World.py
 def after_load_event_file(event_table: list) -> list:
+    
     return event_table
 
 # called after the regions.json file has been loaded, before any location loading or processing has occurred
