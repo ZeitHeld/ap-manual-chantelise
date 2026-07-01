@@ -70,6 +70,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+    
+    # for item in item_config:
+    #     if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
+    #         {item.name: {"filler": 1}}
+
+    #item_config["itemNameA"] = 5 # name & amount
+
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
@@ -85,14 +93,58 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     shop_shuffle_merchant = get_option_value(multiworld, player, "shop_shuffle") >= 2
     shop_shuffle_survival = get_option_value(multiworld, player, "shop_shuffle") >= 3
     trade_shuffle = get_option_value(multiworld, player, "fish_trade")
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
     
+    aira_list: list[str] = []
+    merchant_list: list[str] = []
+    survival_list: list[str] = []
+    trade_list: list[str] = []
+    prog_equip_list: list[str] = []
+
     for item in item_pool:
-        if (shop_shuffle_aira == False && "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
-            itemNamesToRemove.append(item.name)
-        if (shop_shuffle_merchant == False && "Merchant Item" in world.item_name_to_item[item.name].get("category", [])):
-            itemNamesToRemove.append(item.name)
-        if (trade_shuffle == False) && ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
-            itemNamesToRemove.append(item.name)
+        if (shop_shuffle_aira == False and "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - AIRA ITEM TO REMOVE: "+item.name)
+            if not item.name in aira_list:
+                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                aira_list.append(item.name)
+        if shop_shuffle_merchant == False and "Merchant Item" in world.item_name_to_item[item.name].get("category", []):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - MERCHANT ITEM TO REMOVE: "+item.name)
+            if not item.name in merchant_list:
+                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                merchant_list.append(item.name)
+        if shop_shuffle_survival == False and "Survival Dungeon Item" in world.item_name_to_item[item.name].get("category", []):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - SD ITEM TO REMOVE: "+item.name)
+            if not item.name in survival_list:
+                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                survival_list.append(item.name)
+        if (trade_shuffle == False) and ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
+            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - TRADE REWARD TO REMOVE: "+item.name)
+            if not item.name in trade_list:
+                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                trade_list.append(item.name)
+
+        # if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
+        #     logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND A SOLO EQUIP TO REMOVE: "+item.name)
+        #     if not item.name in prog_equip_list:
+        #         prog_equip_list.append(item.name)
+        #         item.count = 1
+        # if progressive_equipment:
+        #     prog_equip_list.append("")
+
+    for itemName in aira_list:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Aira Item: "+ itemName)
+        itemNamesToRemove.append(itemName)
+    for itemName in merchant_list:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Merchant Item: "+ itemName)
+        itemNamesToRemove.append(itemName)
+    for itemName in survival_list:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding SD Item: "+ itemName)
+        itemNamesToRemove.append(itemName)
+    for itemName in trade_list:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Trade Item: "+ itemName)
+        itemNamesToRemove.append(itemName)
+    # for itemName in prog_equip_list:
+    #     itemNamesToRemove.append(itemName)
 
     # Add your code here to calculate which items to remove.
     #
@@ -100,6 +152,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
 
     for itemName in itemNamesToRemove:
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Gonna Remove: "+itemName)
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
 
@@ -115,6 +168,25 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    trade_shuffle = get_option_value(multiworld, player, "fish_trade")
+    fishsanity = get_option_value(multiworld, player, "fishsanity")
+    shop_shuffle_none = get_option_value(multiworld, player, "shop_shuffle") == 0
+    progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+
+    # for item in item_pool:
+    #     if shop_shuffle_none:
+    #         logging.info("<Chantelise-Manual> (after_create_items) NO SHOP SHUFFLE")
+    #         if item.name == ("Cat Statue" or "Coin Emblem"):
+    #             logging.info("<Chantelise-Manual> (after_create_items) MARKING COIN ITEMS AS FILLER")
+    #             item.classification = "filler"
+    #             logging.info("<Chantelise-Manual> (after_create_items) MARKED COIN ITEMS AS FILLER")
+    #     if progressive_equipment:
+    #         logging.info("<Chantelise-Manual> (after_create_items) EQUIPS ARE PROGRESSIVE")
+    #         if "Separate Equipment" in world.item_name_to_item[item.name].get("category", []):
+    #             logging.info("<Chantelise-Manual> (after_create_items) MARKING SOLO EQUIPS AS FILLER")
+    #             item.classification = "filler"
+    #             logging.info("<Chantelise-Manual> (after_create_items) MARKED SOLO EQUIPS AS FILLER")
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

@@ -34,10 +34,6 @@
         ]
     },
     "Tier 2 Spell": {
-        "yaml_option": [
-            "spellsanity",
-            "include_tier2_spells"
-        ],
         "hidden": true
     },
     "Aira Item": {
@@ -154,5 +150,13 @@
         "yaml_option": [
             "grasssanity"
         ]
+    "Progressive Equipment": {
+        "yaml_option": [
+            "progressive_equipment"
+        ],
+        "hidden": true
+    },
+    "Standalone Equipment": {
+        "hidden": true
     }
 }

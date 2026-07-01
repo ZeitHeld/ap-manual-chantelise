@@ -959,7 +959,8 @@
         "Equipment",
         "Glove",
         "Aira Item",
-        "Merchant Item"
+        "Merchant Item",
+        "Standalone Equipment"
       ]
     },
     {
@@ -968,7 +969,8 @@
       "category": [
         "Equipment",
         "Glove",
-        "Aira Item"
+        "Aira Item",
+        "Standalone Equipment"
       ],
       "useful": true,
       "filler": true
@@ -978,7 +980,8 @@
       "name": "Silver Gauntlet",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Standalone Equipment"
       ],
       "useful": true
     },
@@ -989,7 +992,8 @@
         "Equipment",
         "Glove",
         "Aira Item",
-        "Trading Reward"
+        "Trading Reward",
+        "Standalone Equipment"
       ],
       "useful": true
     },
@@ -998,7 +1002,8 @@
       "name": "Rocket Glove",
       "category": [
         "Equipment",
-        "Glove"
+        "Glove",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression": true
@@ -1009,7 +1014,8 @@
       "category": [
         "Equipment",
         "Glove",
-        "Selling Unlockable"
+        "Selling Unlockable",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1020,7 +1026,8 @@
       "category": [
         "Equipment",
         "Glove",
-        "Survival Dungeon Item"
+        "Survival Dungeon Item",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1035,7 +1042,8 @@
         "Equipment",
         "Shield",
         "Aira Item",
-        "Merchant Item"
+        "Merchant Item",
+        "Standalone Equipment"
       ]
     },
     {
@@ -1043,7 +1051,8 @@
       "name": "Common Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Standalone Equipment"
       ],
       "useful": true,
       "filler": true
@@ -1054,7 +1063,8 @@
       "category": [
         "Equipment",
         "Shield",
-        "Aira Item"
+        "Aira Item",
+        "Standalone Equipment"
       ],
       "useful": true
     },
@@ -1063,7 +1073,8 @@
       "name": "Knight's Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression": true
@@ -1073,7 +1084,8 @@
       "name": "Legendary Shield",
       "category": [
         "Equipment",
-        "Shield"
+        "Shield",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1084,7 +1096,8 @@
       "category": [
         "Equipment",
         "Shield",
-        "Survival Dungeon Item"
+        "Survival Dungeon Item",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1139,7 +1152,8 @@
         "Equipment",
         "Staff",
         "Aira Item",
-        "Merchant Item"
+        "Merchant Item",
+        "Standalone Equipment"
       ]
     },
     {
@@ -1148,7 +1162,8 @@
       "category": [
         "Equipment",
         "Staff",
-        "Aira Item"
+        "Aira Item",
+        "Standalone Equipment"
       ],
       "useful": true,
       "filler": true
@@ -1158,7 +1173,8 @@
       "name": "Pretty Wand",
       "category": [
         "Equipment",
-        "Staff"
+        "Staff",
+        "Standalone Equipment"
       ],
       "useful": true
     },
@@ -1167,7 +1183,8 @@
       "name": "Cane Staff",
       "category": [
         "Equipment",
-        "Staff"
+        "Staff",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression": true
@@ -1177,7 +1194,8 @@
       "name": "Spirit Staff",
       "category": [
         "Equipment",
-        "Staff"
+        "Staff",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1188,7 +1206,8 @@
       "category": [
         "Equipment",
         "Staff",
-        "Survival Dungeon Item"
+        "Survival Dungeon Item",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1198,7 +1217,8 @@
       "name": "Souvenir Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Standalone Equipment"
       ],
       "useful": true,
       "filler": true
@@ -1208,7 +1228,8 @@
       "name": "Standard Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Standalone Equipment"
       ],
       "useful": true,
       "filler": true
@@ -1219,7 +1240,8 @@
       "category": [
         "Equipment",
         "Charm",
-        "Aira Item"
+        "Aira Item",
+        "Standalone Equipment"
       ],
       "useful": true
     },
@@ -1230,7 +1252,8 @@
         "Equipment",
         "Charm",
         "Aira Item",
-        "Trading Reward"
+        "Trading Reward",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression": true
@@ -1240,7 +1263,8 @@
       "name": "Miracle Charm",
       "category": [
         "Equipment",
-        "Charm"
+        "Charm",
+        "Standalone Equipment"
       ],
       "useful": true,
       "progression_skip_balancing": true
@@ -1251,7 +1275,8 @@
 			"category": [
 				"Equipment",
 				"Charm",
-				"Trading Reward"
+				"Trading Reward",
+        "Standalone Equipment"
 			],
 			"useful": true,
       "progression_skip_balancing": true
@@ -1965,6 +1990,8 @@
       "name": "Emperor-Bug's Tomb",
       "category": [
         "Stage",
+        "Stagesanity",
+        "Separate Stage",
         "Zephyran Stage"
       ],
       "progression": true

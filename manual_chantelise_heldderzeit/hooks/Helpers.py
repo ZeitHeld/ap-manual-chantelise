@@ -14,6 +14,9 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
     if category_name == "Survival Dungeon Shop Shuffle":
         return get_option_value(multiworld, player, "shop_shuffle") >= 3
     
+    if category_name == "Tier 2 Spell":
+        return get_option_value(multiworld, player, "spellsanity") >= 2
+    
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
