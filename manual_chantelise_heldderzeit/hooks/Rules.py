@@ -1,6 +1,6 @@
 from typing import Optional
 from worlds.AutoWorld import World
-from ..Helpers import clamp, get_items_with_value
+from ..Helpers import clamp, get_items_with_value, get_option_value
 from BaseClasses import MultiWorld, CollectionState
 
 import re
@@ -29,7 +29,7 @@ def requiresMelee():
     return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
 
 
-def hasEnoughTrophies(multiworld: MultiWorld, player: int):
+def hasEnoughTrophies(state: CollectionState, multiworld: MultiWorld, player: int):
     """Checks if the player has enough Blue Rose Petals to beat the game."""
     return state.count("Blue Rose Petal", player) >= get_option_value(multiworld, player, "trophies_required")
 

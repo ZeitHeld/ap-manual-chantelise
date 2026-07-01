@@ -6,7 +6,7 @@
     },
     {
         "name": "Can Catch Aramaki Salmon",
-        "requires": "|Can Fish| AND (|ZR 2 Stage| |SP Bonus Stage|)",
+        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {

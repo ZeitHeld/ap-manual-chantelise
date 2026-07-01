@@ -50,7 +50,7 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
     options["trophies_required"] = RequiredTrophyCount
     options["trophies_total"] = TotalTrophyCount
 
-	return options
+    return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: Type[PerGameCommonOptions]):
