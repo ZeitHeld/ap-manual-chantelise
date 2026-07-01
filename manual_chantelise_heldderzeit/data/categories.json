@@ -138,13 +138,13 @@
     },
     "Progressive Dungeon": {
         "yaml_option": [
-            "progressive_dungoens"
+            "progressive_dungeons"
         ],
         "hidden": true
     },
     "Separate Dungeon": {
         "yaml_option": [
-            "!progressive_dungoens"
+            "!progressive_dungeons"
         ],
         "hidden": true
     },
