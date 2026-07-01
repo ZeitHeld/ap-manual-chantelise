@@ -42,6 +42,26 @@
       "sort-key": "row-0-1-2"
     },
     {
+      "name": "Hospitalize Elise at Aira's - Reward 1",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Volcanicrab Flag|",
+      "id": 22,
+      "sort-key": "row-0-2-1"
+    },
+    {
+      "name": "Hospitalize Elise at Aira's - Reward 2",
+      "region": "Town",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Volcanicrab Flag|",
+      "id": 22,
+      "sort-key": "row-0-2-2"
+    },
+    {
       "name": "Visit Elma",
       "region": "Town",
       "category": [
@@ -52,14 +72,24 @@
       "sort-key": "row-0-3-0"
     },
     {
-      "name": "Talk to the Fisherman",
-      "region": "The Plains",
+      "name": "Deliver the Blue Rose",
+      "region": "Town",
       "category": [
         "Story Event"
       ],
       "requires": "|Beat Electrojelly Flag|",
       "id": 31,
       "sort-key": "row-0-3-1"
+    },
+    {
+      "name": "Talk to the Fisherman",
+      "region": "The Plains",
+      "category": [
+        "Story Event"
+      ],
+      "requires": "|Beat Electrojelly Flag|",
+      "id": 32,
+      "sort-key": "row-0-3-2"
     },
     {
       "name": "Observe the Blood Moon",
@@ -1030,6 +1060,76 @@
       "sort-key": "row-3-6-6"
     },
     {
+      "name": "Survival Dungeon Merchant - Buy Item 1 (Walnut Bread)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 371,
+      "sort-key": "row-3-7-1"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 2 (Egg Toast)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 372,
+      "sort-key": "row-3-7-2"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 3 (Roast Chicken)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 373,
+      "sort-key": "row-3-7-3"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 4 (Ham Sandwich)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 374,
+      "sort-key": "row-3-7-4"
+    },
+    {
+      "name": "Survival Dungeon Merchant - Buy Item 5 (Divine Staff)",
+      "region": "Survival Dungeon",
+      "category": [
+        "Shop Shuffle", "Survival Dungeon Shop Shuffle"
+      ],
+      "requires": "",
+      "dont_place_item_category": [
+        "Treasure", "Fish"
+      ],
+      "prehint": true,
+      "id": 375,
+      "sort-key": "row-3-7-5"
+    },
+    {
       "name": "Sell Unlock - Buy Dragon Buster",
       "region": "Merchant",
       "category": [
@@ -1797,7 +1897,62 @@
       ],
       "requires": "|SD 10 Stage|",
       "id": 671,
-      "sort-key": "row-6-7-1"
+      "sort-key": "row-6-7-10"
+    },
+    {
+      "name": "Survival Dungeon Floor 20 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 20 Stage|",
+      "id": 672,
+      "sort-key": "row-6-7-20"
+    },
+    {
+      "name": "Survival Dungeon Floor 30 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 30 Stage|",
+      "id": 673,
+      "sort-key": "row-6-7-30"
+    },
+    {
+      "name": "Survival Dungeon Floor 40 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 40 Stage|",
+      "id": 674,
+      "sort-key": "row-6-7-40"
+    },
+    {
+      "name": "Survival Dungeon Floor 50 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 50 Stage|",
+      "id": 675,
+      "sort-key": "row-6-7-50"
+    },
+    {
+      "name": "Survival Dungeon Floor 60 Clear",
+      "region": "Survival Dungeon",
+      "category": [
+        "Stagesanity",
+        "Dungeon Clear"
+      ],
+      "requires": "|SD 60 Stage|",
+      "id": 676,
+      "sort-key": "row-6-7-60"
     },
     {
       "name": "Catch First Axolotl",
@@ -2313,7 +2468,7 @@
       "name": "Town Dead End Front Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1001,
@@ -2323,7 +2478,7 @@
       "name": "Town Dead End Back Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1002,
@@ -2333,7 +2488,7 @@
       "name": "Town Shop Near Sign Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1003,
@@ -2343,7 +2498,7 @@
       "name": "Town Front House Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1004,
@@ -2353,7 +2508,7 @@
       "name": "Town Back House Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1005,
@@ -2363,7 +2518,7 @@
       "name": "Town Back Sign Barrel",
       "region": "Town",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
       "requires": "",
       "id": 1006,
@@ -2373,9 +2528,9 @@
       "name": "Grand Staircase Top West Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 1021,
       "sort-key": "row-10-2-1"
     },
@@ -2383,9 +2538,9 @@
       "name": "Grand Staircase Top East Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 1022,
       "sort-key": "row-10-2-2"
     },
@@ -2393,9 +2548,9 @@
       "name": "Grand Staircase Center Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 1023,
       "sort-key": "row-10-2-3"
     },
@@ -2403,119 +2558,129 @@
       "name": "Grand Staircase Middle East Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|TR 3 Stage|",
       "id": 1024,
       "sort-key": "row-10-2-4"
+    },
+    {
+      "name": "Grand Staircase Middle West Egg Toast Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1025,
+      "sort-key": "row-10-2-5"
     },
     {
       "name": "Hall Hidden Treasure Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1025,
-      "sort-key": "row-10-2-5"
+      "requires": "|TR 4 Stage|",
+      "id": 1026,
+      "sort-key": "row-10-2-6"
     },
     {
       "name": "Terran Cave Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1026,
-      "sort-key": "row-10-2-6"
+      "requires": "|TR 5 Stage|",
+      "id": 1027,
+      "sort-key": "row-10-2-7"
     },
     {
       "name": "Terran Cave Roast Chicken Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1027,
-      "sort-key": "row-10-2-7"
+      "requires": "|TR 5 Stage|",
+      "id": 1028,
+      "sort-key": "row-10-2-8"
     },
     {
       "name": "Terran Cave South-West Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1028,
-      "sort-key": "row-10-2-8"
+      "requires": "|TR 5 Stage|",
+      "id": 1029,
+      "sort-key": "row-10-2-9"
     },
     {
       "name": "Terran Cave North-West Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1029,
-      "sort-key": "row-10-2-9"
+      "requires": "|TR 5 Stage|",
+      "id": 1030,
+      "sort-key": "row-10-2-10"
     },
     {
       "name": "Deepest Caverns North Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1030,
-      "sort-key": "row-10-2-10"
+      "requires": "|TR Boss Stage|",
+      "id": 1031,
+      "sort-key": "row-10-2-11"
     },
     {
       "name": "Deepest Caverns West Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1031,
-      "sort-key": "row-10-2-11"
+      "requires": "|TR Boss Stage|",
+      "id": 1032,
+      "sort-key": "row-10-2-12"
     },
     {
       "name": "Deepest Caverns South Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1032,
-      "sort-key": "row-10-2-12"
+      "requires": "|TR Boss Stage|",
+      "id": 1033,
+      "sort-key": "row-10-2-13"
     },
     {
       "name": "Deepest Caverns East Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
-      "id": 1033,
-      "sort-key": "row-10-2-13"
+      "requires": "|TR Boss Stage|",
+      "id": 1034,
+      "sort-key": "row-10-2-14"
     },
     {
       "name": "Deepest Caverns Lonely Barrel",
       "region": "Terran Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|TR Boss Stage|",
       "id": 1035,
-      "sort-key": "row-10-2-14"
+      "sort-key": "row-10-2-15"
     },
     {
       "name": "Volcano Path Hidden Treasure Barrel",
       "region": "Ignan Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|IR 2 Stage|",
       "id": 1041,
       "sort-key": "row-10-3-1"
     },
@@ -2523,9 +2688,9 @@
       "name": "Lava Pools Entrance Front Left Barrel",
       "region": "Ignan Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|IR 3 Stage|",
       "id": 1042,
       "sort-key": "row-10-3-2"
     },
@@ -2533,9 +2698,9 @@
       "name": "Lava Pools Entrance Front Right Barrel",
       "region": "Ignan Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|IR 3 Stage|",
       "id": 1043,
       "sort-key": "row-10-3-3"
     },
@@ -2543,9 +2708,9 @@
       "name": "Lava Pools Entrance Center Barrel",
       "region": "Ignan Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|IR 3 Stage|",
       "id": 1044,
       "sort-key": "row-10-3-4"
     },
@@ -2553,9 +2718,9 @@
       "name": "Lava Pools Entrance Back Barrel",
       "region": "Ignan Ruins",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|IR 3 Stage|",
       "id": 1045,
       "sort-key": "row-10-3-5"
     },
@@ -2563,9 +2728,9 @@
       "name": "Crystal Hall Hidden Treasure Barrel",
       "region": "Sealed Palace",
       "category": [
-        "Barrel Sanity"
+        "Barrelsanity"
       ],
-      "requires": "",
+      "requires": "|SP 2 Stage|",
       "id": 1046,
       "sort-key": "row-10-51"
     },
@@ -2587,10 +2752,10 @@
       "sort-key": "row-90-0-1"
     },
     {
-      "name": "Defeat Every Boss",
+      "name": "Defeat Every Main Dungeon Boss",
       "region": "Map",
       "category": [""],
-      "requires": "{CanReachLocation(Defeat Terran Golem - Flag)} AND CanReachLocation(Defeat Volcanicrab - Flag)} AND CanReachLocation(Defeat Electrojelly - Flag)} AND CanReachLocation(Defeat Aeolian Wyvern - Flag)} AND CanReachLocation(Defeat The Forgotten Archdevil - Flag)}",
+      "requires": "|Beat Terran Golem Flag| AND |Beat Volcanicrab Flag| AND |Beat Electrojelly Flag| AND |Beat Aeolian Wyvern Flag| AND |Beat The Forgotten Archdevil Flag|",
       "victory": true,
       "id": 9010,
       "sort-key": "row-90-1-0"
