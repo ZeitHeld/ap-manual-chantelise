@@ -99,7 +99,28 @@
         },
         "progressive_equipment":{
             "display_name": "Progressive Equipment",
-            "description": "Option to make the four main Equipment types progressive. It will simplify logic but will shrink the item pool.\nLeather Gloves -> Tough Gloves -> Silver Gauntlet | Souvenier Charm -> Standard Charm -> Popular Charm\nElemental Shields and Charms are still separate and not included in progression.",
+            "description": [
+                "Option to make the four main Equipment types progressive. It will simplify logic but will shrink the item pool.",
+                "Leather Gloves -> Tough Gloves -> Silver Gauntlet | Souvenier Charm -> Standard Charm -> Popular Charm",
+                "Elemental Shields and Charms are still separate and not included in progression."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Gameplay Options"
+        },
+        "survival_dungeon":{
+            "display_name": "Include Survival Dungeon",
+            "description": [
+                "Whether or not checks from the Survival Dungeon should be included or not.",
+                "Survival Dungeon access logically requires to have access to all Dungeons and Stages, as well as good equipment.",
+                "If your goal is set to \"Reach the End of the Survival Dungeon\", this option will be activated automatically."
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
