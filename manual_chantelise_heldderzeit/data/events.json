@@ -239,23 +239,23 @@
     },
     {
         "name": "Terran Ruins Access",
-        "requires": "|Terran Ruins| OR |Progressive Dungeon:1|"
+        "requires": "({YamlDisabled(progressive_dungeons)} AND |Terran Ruins|) OR ({YamlEnabled(progressive_dungeons)} AND |Progressive Dungeon:1|)"
     },
     {
         "name": "Ignan Ruins Access",
-        "requires": "|Ignan Ruins| OR |Progressive Dungeon:2|"
+        "requires": "({YamlDisabled(progressive_dungeons)} AND |Ignan Ruins|) OR ({YamlEnabled(progressive_dungeons)} AND |Progressive Dungeon:2|)"
     },
     {
         "name": "Aquan Ruins Access",
-        "requires": "|Aquan Ruins| OR |Progressive Dungeon:3|"
+        "requires": "({YamlDisabled(progressive_dungeons)} AND |Aquan Ruins|) OR ({YamlEnabled(progressive_dungeons)} AND |Progressive Dungeon:3|)"
     },
     {
         "name": "Zephyran Ruins Access",
-        "requires": "|Zephyran Ruins| OR |Progressive Dungeon:4|"
+        "requires": "({YamlDisabled(progressive_dungeons)} AND |Zephyran Ruins|) OR ({YamlEnabled(progressive_dungeons)} AND |Progressive Dungeon:4|)"
     },
     {
         "name": "Sealed Palace Access",
-        "requires": "|Sealed Palace| OR |Progressive Dungeon:5|"
+        "requires": "({YamlDisabled(progressive_dungeons)} AND |Sealed Palace|) OR ({YamlEnabled(progressive_dungeons)} AND |Progressive Dungeon:5|)"
     },
     {
         "name": "Familiar Forest Access",
@@ -320,7 +320,7 @@
     },
     {
         "name": "Can Acquire Wyvern Horn",
-        "requires": "|Zephyran Ruins Access|"
+        "requires": "|ZR Boss Stage| AND |Has High Attack| AND |Has High Defense|"
     },
     {
         "name": "Can Acquire Slime Liver",
@@ -336,7 +336,7 @@
     },
     {
         "name": "Can Heal",
-        "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Heal|)"
+        "requires": "|Can Cast Heal| OR ({YamlEnabled(tough_logic)} AND |Darkness Crystal|)"
     },
     {
         "name": "TR 1 Stage",
@@ -543,6 +543,10 @@
         "requires": "|Survival Dungeon Access| AND ({YamlDisabled(stagesanity)} OR ({YamlEnabled(stagesanity)} AND (|Progressive Survival Dungeon Boss Stage:6| OR |Survival Dungeon Floor 60|)))"
     },
     {
+        "name": "Every Survival Dungeon Boss Floor",
+        "requires": "|SD 10 Stage| AND |SD 20 Stage| AND |SD 30 Stage| AND |SD 40 Stage| AND |SD 50 Stage| AND |SD 60 Stage|"
+    },
+    {
         "name": "Every Main Dungeon Full Access",
         "requires": "(|Every Main Terran Stage| AND |TR Bonus Stage|) AND (|Every Main Ignan Stage| AND |IR Bonus Stage|) AND (|Every Main Aquan Stage| AND |AR Bonus Stage|) AND (|Every Main Zephyran Stage| AND |ZR Bonus Stage|) AND (|Every Main Palace Stage| AND |SP Bonus Stage|)"
     },
@@ -552,10 +556,62 @@
     },
     {
         "name": "All Hidden Treasures Main Access",
-        "requires": "{CanReachLocation(Tutorial 3 - Hidden Treasure)} AND |TR 1 Stage| AND |TR 2 Stage| AND |TR 3 Stage| AND |TR 4 Stage| AND |TR Boss Stage| AND |TR Bonus Stage| AND |IR 1 Stage| AND |IR 2 Stage| AND |IR 3 Stage| AND |IR 4 Stage| AND |IR Boss Stage| AND |IR Bonus Stage| AND |AR 1 Stage| AND |AR 2 Stage| AND |AR 3 Stage| AND |AR 4 Stage| AND |AR Boss Stage| AND |AR Bonus Stage| AND |ZR 1 Stage| AND |ZR 2 Stage| AND |ZR 3 Stage| AND |ZR 4 Stage| AND |ZR Boss Stage| AND |ZR Bonus Stage| AND |SP 1 Stage| AND |SP 2 Stage| AND |SP 3 Stage| AND |SP 4 Stage| AND |SP Boss Stage| AND |SP Bonus Stage|"
+        "requires": "{CanReachLocation(Tutorial 3 - Hidden Treasure)} AND |Every Main Dungeon Full Access|"
     },
     {
         "name": "All Hidden Treasures Full Access",
-        "requires": "|All Hidden Treasures Main Access| AND |FF 1 Stage| AND |FF 2 Stage| AND |FF 3 Stage| AND |FF Boss Stage|"
+        "requires": "|All Hidden Treasures Main Access| AND |Every Main Forest Stage|"
+    },
+    {
+        "name": "Can Defeat Magical Enemy",
+        "requires": "|Any Tier 2 Spell| OR |Any Tier 3 Spell| OR |Any Tier 4 Spell| OR |Has Mid Attack|"
+    },
+    {
+        "name": "Any Tier 2 Spell",
+        "requires": "{YamlCompare(spellsanity < 2)} OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade| AND (|Clusterbomb| OR |Icile Edge| OR |Blitz|)))"
+    },
+    {
+        "name": "Any Tier 3 Spell",
+        "requires": "({YamlCompare(spellsanity == 0)} AND |Progressive Spell Upgrade:1|) OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade| AND (|Fire Wall| OR |Tornado| OR |Meteor Impact|))))"
+    },
+    {
+        "name": "Any Tier 4 Spell",
+        "requires": "({YamlCompare(spellsanity == 0)} AND |Progressive Spell Upgrade:2|) OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade:3| AND |@Tier 4 Spell:1|))"
+    },
+    {
+        "name": "Has Mid Attack",
+        "requires": "|Has High Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Glove:3|) OR {YamlDisabled(progressive_equipment)} AND (|Silver Gauntlet| OR |White Gauntlet|))"
+    },
+    {
+        "name": "Has High Attack",
+        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Glove:5|) OR {YamlDisabled(progressive_equipment)} AND (|Rocket Glove| OR |Dragon Buster| OR |Star Glove|)"
+    },
+    {
+        "name": "Has Mid Defense",
+        "requires": "|Has High Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Shield:3|) OR {YamlDisabled(progressive_equipment)} AND (|Big Shield| OR |Knight's Shield|))"
+    },
+    {
+        "name": "Has High Defense",
+        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Shield:5|) OR {YamlDisabled(progressive_equipment)} AND (|Legendary Shield| OR |TH Shield|)"
+    },
+    {
+        "name": "Has Mid Magic Attack",
+        "requires": "|Has High Magic Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Staff:3|) OR {YamlDisabled(progressive_equipment)} AND (|Pretty Wand| OR |Cane Staff|))"
+    },
+    {
+        "name": "Has High Magic Attack",
+        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Staff:5|) OR {YamlDisabled(progressive_equipment)} AND (|Spirit Staff| OR |Divine Staff|)"
+    },
+    {
+        "name": "Has Mid Magic Defense",
+        "requires": "|Has High Magic Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Charm:3|) OR {YamlDisabled(progressive_equipment)} AND (|Popular Charm| OR |Hallowed Charm|))"
+    },
+    {
+        "name": "Has High Magic Defense",
+        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Charm:5|) OR {YamlDisabled(progressive_equipment)} AND (|Miracle Charm| OR |Omnicharm|)"
+    },
+    {
+       "name": "Can Cast Heal",
+       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Heal|)"
     }
 ]

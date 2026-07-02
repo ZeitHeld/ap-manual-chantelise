@@ -127,7 +127,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "",
+      "requires": "|Can Defeat Magical Enemy|",
       "id": 100,
       "sort-key": "row-1-0-0"
     },
@@ -137,7 +137,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 1 Stage|",
+      "requires": "|TR 1 Stage| AND |Can Defeat Magical Enemy|",
       "id": 110,
       "sort-key": "row-1-1-0"
     },
@@ -187,7 +187,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR Boss Stage|",
+      "requires": "|TR Boss Stage| AND |Has Mid Magic Attack| AND |Has Mid Defense| AND |Any Tier 2 Spell|",
       "id": 115,
       "sort-key": "row-1-1-5"
     },
@@ -257,7 +257,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR Boss Stage|",
+      "requires": "|IR Boss Stage| AND |Has Mid Defense|",
       "id": 125,
       "sort-key": "row-1-2-5"
     },
@@ -317,7 +317,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 5 Stage|",
+      "requires": "|AR 5 Stage| AND |Can Defeat Magical Enemy|",
       "id": 134,
       "sort-key": "row-1-3-4"
     },
@@ -527,7 +527,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|TR Boss Stage|",
+      "requires": "|TR Boss Stage| AND |@Staff| AND |@Shield|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -554,7 +554,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|IR Boss Stage|",
+      "requires": "|IR Boss Stage| AND |Has Mid Attack| AND |Has Mid Defense|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -568,7 +568,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Ignan Stage|",
+      "requires": "|Every Main Ignan Stage| AND |Has Mid Attack| AND |Has Mid Defense|",
       "place_item": [
         "Beat Volcanicrab Flag"
       ],
@@ -581,7 +581,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
+      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Has Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -595,7 +595,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Has Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
@@ -608,7 +608,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|ZR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
+      "requires": "|ZR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND (|Has High Attack| OR |Has High Magic Attack|) AND |Has High Defense|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -622,7 +622,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Zephyran Stage| AND |Can Heal| AND |Progressive Equipment Slot:1|",
+      "requires": "|Every Main Zephyran Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND (|Has High Attack| OR |Has High Magic Attack|) AND |Has High Defense|",
       "place_item": [
         "Beat Aeolian Wyvern Flag"
       ],
@@ -635,7 +635,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|SP Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
+      "requires": "|SP Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:2| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|",
       "dont_place_item": [
         "Progressive Dungeon"
       ],
@@ -652,7 +652,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|",
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|",
       "place_item": [
         "Beat The Forgotten Archdevil Flag"
       ],
@@ -664,7 +664,7 @@
       "region": "Sealed Palace",
       "victory": true,
       "category": ["Goal"],
-      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|"
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|"
     },
     
     {
@@ -2768,6 +2768,15 @@
       "victory": true,
       "id": 9020,
       "sort-key": "row-90-2-0"
+    },
+    {
+      "name": "Reach the Top of the Survival Dungeon",
+      "region": "Map",
+      "category": ["Goal"],
+      "requires": "|Full Dungeon + Forest Access| AND |Every Survival Dungeon Boss Floor| AND |Has High Attack| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|",
+      "victory": true,
+      "id": 9030,
+      "sort-key": "row-90-3-0"
     }
   ]
 }

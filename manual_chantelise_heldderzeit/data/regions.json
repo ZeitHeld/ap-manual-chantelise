@@ -35,43 +35,43 @@
     "connects_to": [
       "Map"
     ],
-    "requires": "|Progressive Dungeon:1|"
+    "requires": "|Terran Ruins Access|"
   },
   "Ignan Ruins": {
     "connects_to": [
       "Map"
     ],
-    "requires": "|Progressive Dungeon:2|"
+    "requires": "|Ignan Ruins Access|"
   },
   "Aquan Ruins": {
     "connects_to": [
       "Map"
     ],
-    "requires": "|Progressive Dungeon:3|"
+    "requires": "|Aquan Ruins Access|"
   },
   "Zephyran Ruins": {
     "connects_to": [
       "Map"
     ],
-    "requires": "|Progressive Dungeon:4|"
+    "requires": "|Zephyran Ruins Access|"
   },
   "Sealed Palace": {
     "connects_to": [
       "Map"
     ],
-    "requires": "|Progressive Dungeon:5|"
+    "requires": "|Sealed Palace Access|"
   },
   "Familiar Forest": {
     "connects_to": [
       "Merchant"
     ],
-    "requires": "|Progressive Familiar Forest:1|"
+    "requires": "|Familiar Forest Access|"
   },
   "Survival Dungeon": {
     "connects_to": [
       "Map"
     ],
-    "requires": "|Survival Dungeon|"
+    "requires": "|Survival Dungeon| AND |Full Dungeon + Forest Access| AND |Every Survival Dungeon Boss Floor|"
   },
   "Fish Trading": {
     "connects_to": [

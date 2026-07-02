@@ -983,7 +983,8 @@
         "Glove",
         "Standalone Equipment"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 2,
@@ -995,7 +996,8 @@
         "Trading Reward",
         "Standalone Equipment"
       ],
-      "useful": true
+      "useful": true,
+      "progression": true
     },
     {
       "count": 1,
@@ -1066,7 +1068,8 @@
         "Aira Item",
         "Standalone Equipment"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -1088,7 +1091,7 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression": true
     },
     {
       "count": 1,
@@ -1176,7 +1179,8 @@
         "Staff",
         "Standalone Equipment"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 1,
@@ -1198,7 +1202,7 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression": true
     },
     {
       "count": 1,
@@ -1243,7 +1247,8 @@
         "Aira Item",
         "Standalone Equipment"
       ],
-      "useful": true
+      "useful": true,
+      "progression_skip_balancing": true
     },
     {
       "count": 3,
@@ -1267,7 +1272,7 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression": true
     },
 		{
 			"count": 1,
