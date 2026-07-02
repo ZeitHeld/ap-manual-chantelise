@@ -95,7 +95,23 @@
                 "spoiler"
             ],
             "default": true,
-            "group": "Gameplay Options"
+            "group": "Game Options"
+        },
+        "survival_dungeon":{
+            "display_name": "Include Survival Dungeon",
+            "description": [
+                "Whether or not locations from the Survival Dungeon should be added.",
+                "The Survival Dungeon is very tough and will require nearly every item from the player."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Game Options"
         },
         "progressive_equipment":{
             "display_name": "Progressive Equipment",
@@ -108,7 +124,7 @@
                 "spoiler"
             ],
             "default": false,
-            "group": "Gameplay Options"
+            "group": "Game Options"
         },
         "shop_shuffle":{
             "display_name": "Shop Shuffle",
@@ -219,9 +235,9 @@
             "default": false,
             "group": "Randomization Options"
         },
-        "more_breakables":{
-            "display_name": "Include More Breakables",
-            "description": "Only Works with Barrelsanity. Adds in other breakable objects as checks, such as torches.",
+        "other_breakables":{
+            "display_name": "Include Other Breakables",
+            "description": "Only works with \"Barrelsanity\". Adds in other breakable objects as checks, such as torches.",
             "type": "Toggle",
             "visibility": [
                 "simple_ui",

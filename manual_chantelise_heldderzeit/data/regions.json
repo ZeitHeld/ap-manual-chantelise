@@ -71,7 +71,7 @@
     "connects_to": [
       "Map"
     ],
-    "requires": "|Survival Dungeon| AND |Full Dungeon + Forest Access| AND |Every Survival Dungeon Boss Floor|"
+    "requires": "{YamlEnabled(survival_dungeon)} AND |Survival Dungeon| AND |Full Dungeon + Forest Access| AND |Every Survival Dungeon Boss Floor|"
   },
   "Fish Trading": {
     "connects_to": [
