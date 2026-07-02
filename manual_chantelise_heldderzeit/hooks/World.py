@@ -72,12 +72,30 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
+    goal = get_option_value(multiworld, player, "goal")
+    required_petals = get_option_value(multiworld, player, "trophies_required")
+    total_petals = get_option_value(multiworld, player, "trophies_total")
     
     # for item in item_config:
     #     if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
     #         {item.name: {"filler": 1}}
 
     #item_config["itemNameA"] = 5 # name & amount
+
+    if goal == GOAL_ID_CURE_ELISE:
+        if required_petals > total_petals:
+            if required_petals > 45:
+                total_petals = 50
+            else:                
+                total_petals = required_petals+5
+
+        if total_petals > 0:
+            logging.info("<Chantelise-Manual> (before_create_items_all) Adding *" + str(total_petals) + "* Petals to pool.")
+
+            item_config["Blue Rose Petal"] = total_petals
+           
+        else:
+            logging.info("<Chantelise-Manual> (before_create_items_all) No Petals needed.")
 
     return item_config
 
@@ -136,16 +154,16 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         #     prog_equip_list.append("")
 
     for itemName in aira_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Aira Item: "+ itemName)
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Aira Item for removal: "+ itemName)
         itemNamesToRemove.append(itemName)
     for itemName in merchant_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Merchant Item: "+ itemName)
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Merchant Item for removal: "+ itemName)
         itemNamesToRemove.append(itemName)
     for itemName in survival_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding SD Item: "+ itemName)
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding SD Item for removal: "+ itemName)
         itemNamesToRemove.append(itemName)
     for itemName in trade_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Trade Item: "+ itemName)
+        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Trade Item for removal: "+ itemName)
         itemNamesToRemove.append(itemName)
     # for itemName in prog_equip_list:
     #     itemNamesToRemove.append(itemName)
@@ -162,22 +180,22 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 
     # ADDING IN PETALS
-    #logging.info("<Chantelise-Manual> (after_create_items) GOAL: "+ str(goal))
-    if goal == GOAL_ID_CURE_ELISE:
-        if required_petals > total_petals:
-            if required_petals > 45:
-                total_petals = 50
-            else:                
-                total_petals = required_petals+5
+    #logging.info("<Chantelise-Manual> (before_create_items_filler) GOAL: "+ str(goal))
+    # if goal == GOAL_ID_CURE_ELISE:
+    #     if required_petals > total_petals:
+    #         if required_petals > 45:
+    #             total_petals = 50
+    #         else:                
+    #             total_petals = required_petals+5
 
-        if total_petals > 0:
-            logging.info("<Chantelise-Manual> (after_create_items) Adding " + str(total_petals) + " Petals to pool.")
-            for _ in range(total_petals):
-                logging.info("<Chantelise-Manual> (after_create_items) Adding Petal...")
-                world.create_item("Blue Rose Petal")
-                logging.info("<Chantelise-Manual> (after_create_items) Petal added!")
-        else:
-            logging.info("<Chantelise-Manual> (after_create_items) Finished Adding Blue Rose Petals.")
+    #     if total_petals > 0:
+    #         logging.info("<Chantelise-Manual> (before_create_items_filler) Adding " + str(total_petals) + " Petals to pool.")
+    #         for _ in range(total_petals):
+    #             logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Petal...")
+    #             world.create_item("Blue Rose Petal")
+    #             logging.info("<Chantelise-Manual> (before_create_items_filler) Petal added!")
+    #     else:
+    #         logging.info("<Chantelise-Manual> (before_create_items_filler) Finished Adding Blue Rose Petals.")
 
     return item_pool
 
@@ -223,6 +241,7 @@ def before_set_rules(world: World, multiworld: MultiWorld, player: int):
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
+    goal = get_option_value(multiworld, player, "goal")
 
     def Example_Rule(state: CollectionState) -> bool:
         # Calculated rules take a CollectionState object and return a boolean
@@ -233,15 +252,20 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     def hasEnoughTrophies(state: CollectionState) -> bool:
         """Checks if the player has enough Blue Rose Petals to beat the game."""
         #return state.count("Blue Rose Petal", player) >= get_option_value(multiworld, player, "trophies_required")
-        return "|Blue Rose Petal:" + str(get_option_value(multiworld, player, "trophies_required")) + "|"
+
+        #return "|Blue Rose Petal:" + str(get_option_value(multiworld, player, "trophies_required")) + "|"
+
+        return state.has("Blue Rose Petal", player, get_option_value(multiworld, player, "trophies_required"))
 
 
     ## Common functions:
     # location = world.get_location(location_name, player)
     # location.access_rule = Example_Rule
 
-    trophy_location = multiworld.get_location("Cure Elise with Blue Rose Petals", player)
-    trophy_location.access_rule = lambda state: hasEnoughTrophies(state)
+    if goal == GOAL_ID_CURE_ELISE:
+        trophy_location = world.get_location("Cure Elise with Blue Rose Petals", player)
+        #trophy_location.access_rule = lambda state: hasEnoughTrophies(state)
+        trophy_location.access_rule = lambda state: state.has("Blue Rose Petal", player, get_option_value(multiworld, player, "trophies_required"))
 
     ## Combine rules:
     # old_rule = location.access_rule
