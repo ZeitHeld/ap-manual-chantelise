@@ -663,7 +663,7 @@
       "name": "Defeat The Forgotten Archdevil",
       "region": "Sealed Palace",
       "victory": true,
-      "category": [],
+      "category": ["Goal"],
       "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2|"
     },
     
@@ -2735,7 +2735,7 @@
       "sort-key": "row-10-51"
     },
     {
-      "name": "All Main Hidden Treasures Found",
+      "name": "Open Every Main Hidden Treasure",
       "region": "Map",
       "category": [""],
       "requires": "|All Hidden Treasures Main Access|",
@@ -2743,9 +2743,9 @@
       "sort-key": "row-90-0-0"
     },
     {
-      "name": "Open Every Hidden Treasures",
+      "name": "Open All Hidden Treasures",
       "region": "Map",
-      "category": [""],
+      "category": ["Goal"],
       "requires": "|All Hidden Treasures Full Access|",
       "victory": true,
       "id": 9001,
@@ -2754,7 +2754,7 @@
     {
       "name": "Defeat Every Main Dungeon Boss",
       "region": "Map",
-      "category": [""],
+      "category": ["Goal"],
       "requires": "|Beat Terran Golem Flag| AND |Beat Volcanicrab Flag| AND |Beat Electrojelly Flag| AND |Beat Aeolian Wyvern Flag| AND |Beat The Forgotten Archdevil Flag|",
       "victory": true,
       "id": 9010,
@@ -2763,7 +2763,7 @@
     {
       "name": "Cure Elise with Blue Rose Petals",
       "region": "Town",
-      "category": [""],
+      "category": ["Goal"],
       "requires": "",
       "victory": true,
       "id": 9020,
