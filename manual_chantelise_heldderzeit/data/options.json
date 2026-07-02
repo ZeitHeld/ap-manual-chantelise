@@ -165,7 +165,7 @@
             "default": true,
             "group": "Randomization Options"
         },
-        "fishanity":{
+        "fishsanity":{
             "display_name": "Fishsanity",
             "description": "Includes First Time Catching a Fish as a Check.",
             "type": "Toggle",

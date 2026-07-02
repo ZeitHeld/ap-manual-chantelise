@@ -33,7 +33,19 @@
             "shop_sell_unlock"
         ]
     },
-    "Tier 2 Spell": {
+    "Poison Crystal Unlock Material": {
+        "hidden": true
+    },
+    "Amber Shield Unlock Material": {
+        "hidden": true
+    },
+    "Antique Gramophone Unlock Material": {
+        "hidden": true
+    },
+    "Blazing Charm Unlock Material": {
+        "hidden": true
+    },
+    "Dragon Buster Unlock Material": {
         "hidden": true
     },
     "Aira Item": {
@@ -66,6 +78,18 @@
     "Accessory": {
         "hidden": true
     },
+    "Emblem": {
+        "hidden": true
+    },
+    "Fishing Rod": {
+        "hidden": true
+    },
+    "Crystal": {
+        "hidden": true
+    },
+    "Boots": {
+        "hidden": true
+    },
     "Survival Dungeon Item": {
         "hidden": true
     },
@@ -73,6 +97,30 @@
         "yaml_option": [
             "spellsanity"
         ]
+    },
+    "Air Spell": {
+        "hidden": true
+    },
+    "Earth Spell": {
+        "hidden": true
+    },
+    "Fire Spell": {
+        "hidden": true
+    },
+    "Water Spell": {
+        "hidden": true
+    },
+    "Wind Spell": {
+        "hidden": true
+    },
+    "Tier 2 Spell": {
+        "hidden": true
+    },
+    "Tier 3 Spell": {
+        "hidden": true
+    },
+    "Tier 4 Spell": {
+        "hidden": true
     },
     "Progressive Stage": {
         "yaml_option": [
@@ -90,13 +138,13 @@
     },
     "Progressive Dungeon": {
         "yaml_option": [
-            "progressive_dungoens"
+            "progressive_dungeons"
         ],
         "hidden": true
     },
     "Separate Dungeon": {
         "yaml_option": [
-            "!progressive_dungoens"
+            "!progressive_dungeons"
         ],
         "hidden": true
     },
