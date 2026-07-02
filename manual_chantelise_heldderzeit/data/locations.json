@@ -2732,7 +2732,447 @@
       ],
       "requires": "|SP 2 Stage|",
       "id": 1046,
-      "sort-key": "row-10-51"
+      "sort-key": "row-10-5-1"
+    },
+    {
+      "name": "Grand Staircase Entrance West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1101,
+      "sort-key": "row-11-1-3-1"
+    },
+    {
+      "name": "Grand Staircase Entrance East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1102,
+      "sort-key": "row-11-1-3-2"
+    },
+    {
+      "name": "Grand Staircase Upper Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1103,
+      "sort-key": "row-11-1-3-3"
+    },
+    {
+      "name": "Grand Staircase Middle West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1104,
+      "sort-key": "row-11-1-3-4"
+    },
+    {
+      "name": "Grand Staircase Middle East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1105,
+      "sort-key": "row-11-1-3-5"
+    },
+    {
+      "name": "Grand Staircase Lower West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1106,
+      "sort-key": "row-11-1-3-6"
+    },
+    {
+      "name": "Grand Staircase Lower East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1107,
+      "sort-key": "row-11-1-3-7"
+    },
+    {
+      "name": "Grand Staircase Exit West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1108,
+      "sort-key": "row-11-1-3-8"
+    },
+    {
+      "name": "Grand Staircase Exit East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 3 Stage|",
+      "id": 1109,
+      "sort-key": "row-11-1-3-9"
+    },
+    {
+      "name": "Hall Entrance West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 1110,
+      "sort-key": "row-11-1-4-1"
+    },
+    {
+      "name": "Hall Entrance East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 1111,
+      "sort-key": "row-11-1-4-2"
+    },
+    {
+      "name": "Hall Exit West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 1112,
+      "sort-key": "row-11-1-4-3"
+    },
+    {
+      "name": "Hall Exit East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 4 Stage|",
+      "id": 1113,
+      "sort-key": "row-11-1-4-4"
+    },
+    {
+      "name": "Cave (Terran Ruins) Center Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1114,
+      "sort-key": "row-11-1-5-1"
+    },
+    {
+      "name": "Cave (Terran Ruins) Dead-End Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1115,
+      "sort-key": "row-11-1-5-2"
+    },
+    {
+      "name": "Cave (Terran Ruins) Exit West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1116,
+      "sort-key": "row-11-1-5-3"
+    },
+    {
+      "name": "Cave (Terran Ruins) Exit East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR 5 Stage|",
+      "id": 1117,
+      "sort-key": "row-11-1-5-4"
+    },
+    {
+      "name": "Deepest Caverns Entrance West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1118,
+      "sort-key": "row-11-1-6-1"
+    },
+    {
+      "name": "Deepest Caverns Entrance East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1119,
+      "sort-key": "row-11-1-6-2"
+    },
+    {
+      "name": "Deepest Caverns Arena South-West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1120,
+      "sort-key": "row-11-1-6-3"
+    },
+    {
+      "name": "Deepest Caverns Arena South-East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1121,
+      "sort-key": "row-11-1-6-4"
+    },
+    {
+      "name": "Deepest Caverns Arena North-West Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1122,
+      "sort-key": "row-11-1-6-5"
+    },
+    {
+      "name": "Deepest Caverns Arena North-East Torch",
+      "region": "Terran Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|TR Boss Stage|",
+      "id": 1123,
+      "sort-key": "row-11-1-6-6"
+    },
+    {
+      "name": "Town East Tree",
+      "region": "Town",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1201,
+      "sort-key": "row-12-0-0-1"
+    },
+    {
+      "name": "Town West Tree",
+      "region": "Town",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1202,
+      "sort-key": "row-12-0-0-2"
+    },
+    {
+      "name": "The Plains Entrance Left Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1203,
+      "sort-key": "row-12-0-1-1"
+    },
+    {
+      "name": "The Plains Entrance Right Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1204,
+      "sort-key": "row-12-0-1-2"
+    },
+    {
+      "name": "The Plains Entrance Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1205,
+      "sort-key": "row-12-0-1-3"
+    },
+    {
+      "name": "The Plains Entrance Lonely Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1206,
+      "sort-key": "row-12-0-1-4"
+    },
+    {
+      "name": "The Plains Entrance West River Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1207,
+      "sort-key": "row-12-0-1-5"
+    },
+    {
+      "name": "The Plains Entrance East River Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1208,
+      "sort-key": "row-12-0-1-6"
+    },
+    {
+      "name": "The Plains Northern River Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1209,
+      "sort-key": "row-12-0-1-7"
+    },
+    {
+      "name": "The Plains Northern River Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1210,
+      "sort-key": "row-12-0-1-8"
+    },
+    {
+      "name": "The Plains Northern Lonely Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1211,
+      "sort-key": "row-12-0-1-9"
+    },
+    {
+      "name": "The Plains Hidden Treasure Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1212,
+      "sort-key": "row-12-0-1-10"
+    },
+    {
+      "name": "The Plains Hidden Treasure Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1213,
+      "sort-key": "row-12-0-1-11"
+    },
+    {
+      "name": "The Plains Near Exit Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1214,
+      "sort-key": "row-12-0-1-12"
+    },
+    {
+      "name": "The Plains Near Exit River Small Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1215,
+      "sort-key": "row-12-0-1-13"
+    },
+    {
+      "name": "The Plains Exit Tree",
+      "region": "The Plains",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1216,
+      "sort-key": "row-12-0-1-14"
+    },
+    {
+      "name": "Ruined Main Gate Entrance Western Tree",
+      "region": "Terran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 1217,
+      "sort-key": "row-12-1-2-1"
+    },
+    {
+      "name": "Ruined Main Gate Entrance Eastern Tree",
+      "region": "Terran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 1218,
+      "sort-key": "row-12-1-2-2"
+    },
+    {
+      "name": "Ruined Main Gate Exit Eastern Tree",
+      "region": "Terran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 1219,
+      "sort-key": "row-12-1-2-3"
+    },
+    {
+      "name": "Ruined Main Gate Exit North-Western Tree",
+      "region": "Terran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 1220,
+      "sort-key": "row-12-1-2-4"
+    },
+    {
+      "name": "Ruined Main Gate Exit South-Western Tree",
+      "region": "Terran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|TR 2 Stage|",
+      "id": 1221,
+      "sort-key": "row-12-1-2-5"
     },
     {
       "name": "Open Every Main Hidden Treasure",
