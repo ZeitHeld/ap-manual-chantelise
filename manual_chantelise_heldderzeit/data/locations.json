@@ -2759,6 +2759,15 @@
       "victory": true,
       "id": 9010,
       "sort-key": "row-90-1-0"
+    },
+    {
+      "name": "Cure Elise with Blue Rose Petals",
+      "region": "Town",
+      "category": [""],
+      "requires": "",
+      "victory": true,
+      "id": 9020,
+      "sort-key": "row-90-2-0"
     }
   ]
 }

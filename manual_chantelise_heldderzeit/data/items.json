@@ -2248,6 +2248,14 @@
         "Survival Dungeon Stage"
       ],
       "progression": true
+    },
+    {
+      "count": 0,
+      "name": "Blue Rose Petal",
+      "category": [
+        "Goal Item"
+      ],
+      "progression": true
     }
   ]
 }

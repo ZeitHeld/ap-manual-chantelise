@@ -193,7 +193,9 @@
                 "tier3": 1,
                 "tier2": 2,
                 "3-4": 1,
-                "2-4": 2
+                "2-4": 2,
+                "all": 2,
+                "full": 2
             },
             "visibility": [
                 "simple_ui",

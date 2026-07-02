@@ -22,6 +22,21 @@ from typing import Type, Any
 #####################################################################
 
 
+# also need goal for hunt - Cure Elise of her Sickness by retrieving enough Petals of the Blue Rose!
+class RequiredTrophyCount(Range):
+    """Amount of Blue Rose Petals that is required to beat the game."""
+    display_name = "Required amount of Petals"
+    range_start = 1
+    range_end = 50
+    default = 10
+
+class TotalTrophyCount(Range):
+    """Amount of Blue Rose Petals that are added in the pool. May not be lower than the Required Amount"""
+    display_name = "Total amount of Petals"
+    range_start = 1
+    range_end = 50
+    default = 15
+
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
@@ -32,7 +47,10 @@ from typing import Type, Any
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     #options["stage_sanity"] = Stagesanity
 
-	return options
+    options["trophies_required"] = RequiredTrophyCount
+    options["trophies_total"] = TotalTrophyCount
+
+    return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: Type[PerGameCommonOptions]):
@@ -49,6 +67,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
+    groups['Gameplay Options'] = [RequiredTrophyCount, TotalTrophyCount]
 	
     return groups
 
