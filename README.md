@@ -13,6 +13,12 @@ It's old and tough but still Charming and fun.
 - [Patience](https://static.wikia.nocookie.net/judgement-day-roblox/images/b/bf/Patience.png/revision/latest?cb=20230109153235)
 
 ## Implemented Features
+- Variety of Goals
+  - Defeat the Forgotten Archdevil: Reach the End of the Sealed Palace in Story Mode and beat the game!
+  - Boss Hunt: Defeat every Main Dungeon (Terran, Ignan, Aquan, Zephyran, Sealed Palace) Boss to beat the game!
+  - Treasure Hunt: Open up every single Hidden Treasure across every Dungeon to win!
+  - Cure Chante: Collect enough Rainbow Rose Petals that are scattered across the multiworld to make an alternative Cure for Chante's Curse!
+  - Survival Dungeon Survivor: A tough challenge, where you reach the Top of the Survival Dungeon and beat everyting that comes into your way! Can you make it to Floor 60?
 - Regular Treasures
   - In the world are a few treasure chests placed that can be opened a single time.
 - Hidden Treasures
@@ -23,10 +29,10 @@ It's old and tough but still Charming and fun.
 - Shop Shuffle
   - Bought Items are Shuffled (Aira's Shop, Familiar Forest Merchant, Survival Dungeon as a Choice)
 - Shop Sell Unlocks
-  - Sell Certain Items to unlock something that then can appear in the shop! (Currently needs a better implementation)
+  - Sell Certain Items to unlock something that then can appear in the shop!
 - Fish Trading
   - Trade in Caught Fish to the Fisherman for a randomized Reward!
-- (Some) Story Events and other Flags
+- Story Events and other Flags
 - Fishasnity
   - Catch a fish for the first time for a randomized reward!
 - Stagesanity
@@ -34,12 +40,17 @@ It's old and tough but still Charming and fun.
 - Barrelsanity
   - Break a barrel to unravel it's contents!
   - (Soon: Option to include other breakables such as torches or lamp posts)
+- Spellsanity
+  - The individual spells are now required to be found!
+  - Tier 3 and 4 spells (that use the same type of gem) cannot be casted, unless you have enough Spell Upgrades and the spell itself!
+  - There also is an option to include Tier 2 Spells. Tier 1 Spells will ALWAYS be available to cast.
+- Tough Logic (WIP)
+  - A harder ruleset of logic requirements for locations. You might be required to make use of the Darkness Crystal to heal, or weaker Equipment to defeat Bosses or Clear Dungeons.
 
 ## Upcoming/Planned Features
-- Spellsanity
 - Barrelsanity: Other Breakables
-- Grasssanity
 - Treesanity
+- Grasssanity?
 
 # Rules & Restrictions
 - You start out in Town with 2 Equipment Slots and Tier I and Tier II Spells (Unless Tier II Spells are shuffled as well)
@@ -51,3 +62,4 @@ It's old and tough but still Charming and fun.
   - Similarly, since the prices keep increasing with every purchase, you don't have to actually purchase them
 - Death Link activates once you die (or lost all your technically available HP)
 - Goals that require to defeat a Boss have same condition as their respective Flags, needing to get there in Story Mode.
+- Entering the Survival Dungeon requires to have every single stage unlocked, ontop of the Survival Dungoen itself being unlocked.
