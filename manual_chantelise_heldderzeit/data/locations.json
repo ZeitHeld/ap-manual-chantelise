@@ -581,7 +581,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Has Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
+      "requires": "|AR Boss Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -595,7 +595,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Has Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
+      "requires": "|Every Main Aquan Stage| AND |Can Heal| AND |Progressive Equipment Slot:1| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Magic Defense|",
       "place_item": [
         "Beat Electrojelly Flag"
       ],
