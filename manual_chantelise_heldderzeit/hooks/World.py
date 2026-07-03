@@ -246,7 +246,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # location.access_rule = Example_Rule
 
     if goal == GOAL_ID_CURE_ELISE:
-        trophy_location = world.get_location("Cure Chante")
+        trophy_location = world.get_location("Cure Chante with Rainbow Rose Petals")
         #trophy_location.access_rule = lambda state: hasEnoughTrophies(state)
         trophy_location.access_rule = lambda state: state.has("Rainbow Rose Petal", player, get_option_value(multiworld, player, "trophies_required"))
 

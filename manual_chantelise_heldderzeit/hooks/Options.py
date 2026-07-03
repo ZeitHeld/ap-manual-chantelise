@@ -61,6 +61,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     #  Here's an example on how to add your aliases to the generated goal
     # options.type_hints['goal'].aliases.update({"example": 0, "second_alias": 1})
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
+    
     options.type_hints['goal'].aliases.update({"Treasure Hunt": 1, "Boss Hunt": 2, "Cure Chante": 3, "Survival Dungoen Survivor": 4})
     options.type_hints['goal'].options.update({"Treasure Hunt": 1, "Boss Hunt": 2, "Cure Chante": 3, "Survival Dungoen Survivor": 4})
 

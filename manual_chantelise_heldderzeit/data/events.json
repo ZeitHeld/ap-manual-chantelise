@@ -612,19 +612,19 @@
     },
     {
        "name": "Can Cast Clusterbomb",
-       "requires": "({YamlCompare(spellsanity <= 1)})OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Clusterbomb|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)} AND |Clusterbomb|)"
     },
     {
        "name": "Can Cast Icicle Edge",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Icicle Edge|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Icicle Edge|)"
     },
     {
        "name": "Can Cast Blitz",
-       "requires": "({YamlCompare(spellsanity <= 1)})OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Blitz|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Blitz|)"
     },
     {
        "name": "Can Cast Super Armor",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Super Armor|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Super Armor|)"
     },
     {
        "name": "Can Cast Fire Wall",
