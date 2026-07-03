@@ -568,7 +568,7 @@
     },
     {
         "name": "Any Tier 2 Spell",
-        "requires": "|Can Cast Clusterbomb| OR |Can Cast Icile Edge| OR |Can Cast Blitz|"
+        "requires": "|Can Cast Clusterbomb| OR |Can Cast Icicle Edge| OR |Can Cast Blitz|"
     },
     {
         "name": "Any Tier 3 Spell",
