@@ -61,5 +61,6 @@ It's old and tough but still Charming and fun.
 - Since Aira's Shop (and the Merchants?) change their sortiment as the game progresses (making some unavialable in-game) It suffices to visit the shop to be able to check them off.
   - Similarly, since the prices keep increasing with every purchase, you don't have to actually purchase them
 - Death Link activates once you die (or lost all your technically available HP)
+  - Whenever you die or get Death Link'd, you return to Town (if it happens during Story Mode: Save > Return to Title > Load Save) 
 - Goals that require to defeat a Boss have same condition as their respective Flags, needing to get there in Story Mode.
 - Entering the Survival Dungeon requires to have every single stage unlocked, ontop of the Survival Dungoen itself being unlocked.
