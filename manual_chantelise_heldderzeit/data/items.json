@@ -181,7 +181,7 @@
     },
     {
       "count": 1,
-      "name": "Fire Spirit",
+      "name": "Salamander",
       "category": [
         "Ability",
         "Spell",
@@ -192,7 +192,7 @@
     },
     {
       "count": 1,
-      "name": "Water Spirit",
+      "name": "Aqua",
       "category": [
         "Ability",
         "Spell",
@@ -203,7 +203,7 @@
     },
     {
       "count": 1,
-      "name": "Wind Spirit",
+      "name": "Slyphie",
       "category": [
         "Ability",
         "Spell",
@@ -214,7 +214,7 @@
     },
     {
       "count": 1,
-      "name": "Earth Spirit",
+      "name": "Golem",
       "category": [
         "Ability",
         "Spell",
@@ -2256,7 +2256,7 @@
     },
     {
       "count": 0,
-      "name": "Blue Rose Petal",
+      "name": "Rainbow Rose Petal",
       "category": [
         "Goal Item"
       ],

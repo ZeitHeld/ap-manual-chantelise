@@ -336,7 +336,7 @@
     },
     {
         "name": "Can Heal",
-        "requires": "|Can Cast Heal| OR ({YamlEnabled(tough_logic)} AND |Darkness Crystal|)"
+        "requires": "|Can Cast Heal| OR ({YamlEnabled(tough_logic)} AND (|Darkness Crystal| OR |Can Summon Aqua|))"
     },
     {
         "name": "TR 1 Stage",
@@ -568,50 +568,94 @@
     },
     {
         "name": "Any Tier 2 Spell",
-        "requires": "{YamlCompare(spellsanity < 2)} OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade| AND (|Clusterbomb| OR |Icile Edge| OR |Blitz|)))"
+        "requires": "|Can Cast Clusterbomb| OR |Can Cast Icile Edge| OR |Can Cast Blitz|"
     },
     {
         "name": "Any Tier 3 Spell",
-        "requires": "({YamlCompare(spellsanity == 0)} AND |Progressive Spell Upgrade:1|) OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade| AND (|Fire Wall| OR |Tornado| OR |Meteor Impact|))))"
+        "requires": "|Can Cast Fire Wall| OR |Can Cast Tornado| OR |Can Cast Meteor Impact|"
     },
     {
         "name": "Any Tier 4 Spell",
-        "requires": "({YamlCompare(spellsanity == 0)} AND |Progressive Spell Upgrade:2|) OR ({YamlCompare(spellsanity == 2)} AND (|Progressive Spell Upgrade:3| AND |@Tier 4 Spell:1|))"
+        "requires": "|Can Summon Salamander| OR |Can Summon Aqua| OR |Can Summon Sylphie| OR |Can Summon Golem|"
     },
     {
         "name": "Has Mid Attack",
-        "requires": "|Has High Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Glove:3|) OR {YamlDisabled(progressive_equipment)} AND (|Silver Gauntlet| OR |White Gauntlet|))"
+        "requires": "{YamlEnabled(tough_logic)} OR ({YamlDisabled(tough_logic)} AND |Has High Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Glove:3|) OR {YamlDisabled(progressive_equipment)} AND (|Silver Gauntlet| OR |White Gauntlet|)))"
     },
     {
         "name": "Has High Attack",
-        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Glove:5|) OR {YamlDisabled(progressive_equipment)} AND (|Rocket Glove| OR |Dragon Buster| OR |Star Glove|)"
+        "requires": "({YamlEnabled(tough_logic)} AND |Has Mid Attack|) OR ({YamlDisabled(tough_logic)} AND ({YamlEnabled(progressive_equipment)} AND |Progressive Glove:5|) OR {YamlDisabled(progressive_equipment)} AND (|Rocket Glove| OR |Dragon Buster| OR |Star Glove|))"
     },
     {
         "name": "Has Mid Defense",
-        "requires": "|Has High Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Shield:3|) OR {YamlDisabled(progressive_equipment)} AND (|Big Shield| OR |Knight's Shield|))"
+        "requires": "{YamlEnabled(tough_logic)} OR ({YamlDisabled(tough_logic)} AND |Has High Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Shield:3|) OR {YamlDisabled(progressive_equipment)} AND (|Big Shield| OR |Knight's Shield|)))"
     },
     {
         "name": "Has High Defense",
-        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Shield:5|) OR {YamlDisabled(progressive_equipment)} AND (|Legendary Shield| OR |TH Shield|)"
+        "requires": "({YamlEnabled(tough_logic)} AND |Has Mid Defense|) OR ({YamlDisabled(tough_logic)} AND ({YamlEnabled(progressive_equipment)} AND |Progressive Shield:5|) OR {YamlDisabled(progressive_equipment)} AND (|Legendary Shield| OR |TH Shield|))"
     },
     {
         "name": "Has Mid Magic Attack",
-        "requires": "|Has High Magic Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Staff:3|) OR {YamlDisabled(progressive_equipment)} AND (|Pretty Wand| OR |Cane Staff|))"
+        "requires": "{YamlEnabled(tough_logic)} OR ({YamlDisabled(tough_logic)} AND |Has High Magic Attack| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Staff:3|) OR {YamlDisabled(progressive_equipment)} AND (|Pretty Wand| OR |Cane Staff|)))"
     },
     {
         "name": "Has High Magic Attack",
-        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Staff:5|) OR {YamlDisabled(progressive_equipment)} AND (|Spirit Staff| OR |Divine Staff|)"
+        "requires": "({YamlEnabled(tough_logic)} AND |Has Mid Magic Attack|) OR ({YamlDisabled(tough_logic)} AND ({YamlEnabled(progressive_equipment)} AND |Progressive Staff:5|) OR {YamlDisabled(progressive_equipment)} AND (|Spirit Staff| OR |Divine Staff|))"
     },
     {
         "name": "Has Mid Magic Defense",
-        "requires": "|Has High Magic Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Charm:3|) OR {YamlDisabled(progressive_equipment)} AND (|Popular Charm| OR |Hallowed Charm|))"
+        "requires": "{YamlEnabled(tough_logic)} OR ({YamlDisabled(tough_logic)} AND |Has High Magic Defense| OR (({YamlEnabled(progressive_equipment)} AND |Progressive Charm:3|) OR {YamlDisabled(progressive_equipment)} AND (|Popular Charm| OR |Hallowed Charm|)))"
     },
     {
         "name": "Has High Magic Defense",
-        "requires": "({YamlEnabled(progressive_equipment)} AND |Progressive Charm:5|) OR {YamlDisabled(progressive_equipment)} AND (|Miracle Charm| OR |Omnicharm|)"
+        "requires": "({YamlEnabled(tough_logic)} AND |Has Mid Magic Defense|) OR ({YamlDisabled(tough_logic)} AND ({YamlEnabled(progressive_equipment)} AND |Progressive Charm:5|) OR {YamlDisabled(progressive_equipment)} AND (|Miracle Charm| OR |Omnicharm|))"
+    },
+    {
+       "name": "Can Cast Clusterbomb",
+       "requires": "({YamlCompare(spellsanity <= 1)})OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Clusterbomb|)"
+    },
+    {
+       "name": "Can Cast Icicle Edge",
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Icicle Edge|)"
+    },
+    {
+       "name": "Can Cast Blitz",
+       "requires": "({YamlCompare(spellsanity <= 1)})OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Blitz|)"
+    },
+    {
+       "name": "Can Cast Super Armor",
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Super Armor|)"
+    },
+    {
+       "name": "Can Cast Fire Wall",
+       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Fire Wall|)"
     },
     {
        "name": "Can Cast Heal",
        "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Heal|)"
+    },
+    {
+       "name": "Can Cast Tornado",
+       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Tornado|)"
+    },
+    {
+       "name": "Can Cast Meteor Impact",
+       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Meteor Impact|)"
+    },
+    {
+       "name": "Can Summon Salamander",
+       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Salamander|)"
+    },
+    {
+       "name": "Can Summon Aqua",
+       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Aqua|)"
+    },
+    {
+       "name": "Can Summon Sylphie",
+       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Sylphie|)"
+    },
+    {
+       "name": "Can Summon Golem",
+       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Golem|)"
     }
 ]

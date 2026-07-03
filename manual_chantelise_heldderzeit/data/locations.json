@@ -3201,7 +3201,7 @@
       "sort-key": "row-90-1-0"
     },
     {
-      "name": "Cure Elise with Blue Rose Petals",
+      "name": "Cure Chante with Rainbow Rose Petals",
       "region": "Town",
       "category": ["Goal"],
       "requires": "",
@@ -3210,7 +3210,7 @@
       "sort-key": "row-90-2-0"
     },
     {
-      "name": "Reach the Top of the Survival Dungeon",
+      "name": "Reach the End of the Survival Dungeon",
       "region": "Map",
       "category": ["Goal"],
       "requires": "|Full Dungeon + Forest Access| AND |Every Survival Dungeon Boss Floor| AND |Has High Attack| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|",

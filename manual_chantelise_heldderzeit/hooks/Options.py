@@ -24,14 +24,14 @@ from typing import Type, Any
 
 # also need goal for hunt - Cure Elise of her Sickness by retrieving enough Petals of the Blue Rose!
 class RequiredTrophyCount(Range):
-    """Amount of Blue Rose Petals that is required to beat the game."""
+    """Amount of Rainbow Rose Petals that is required to beat the game."""
     display_name = "Required amount of Petals"
     range_start = 1
     range_end = 50
     default = 10
 
 class TotalTrophyCount(Range):
-    """Amount of Blue Rose Petals that are added in the pool. May not be lower than the Required Amount"""
+    """Amount of Rainbow Rose Petals that are added in the pool. May not be lower than the Required Amount"""
     display_name = "Total amount of Petals"
     range_start = 1
     range_end = 50
@@ -61,8 +61,10 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
     #  Here's an example on how to add your aliases to the generated goal
     # options.type_hints['goal'].aliases.update({"example": 0, "second_alias": 1})
     # options.type_hints['goal'].options.update({"example": 0, "second_alias": 1})  #for an alias to be valid it must also be in options
+    options.type_hints['goal'].aliases.update({"Treasure Hunt": 1, "Boss Hunt": 2, "Cure Chante": 3, "Survival Dungoen Survivor": 4})
+    options.type_hints['goal'].options.update({"Treasure Hunt": 1, "Boss Hunt": 2, "Cure Chante": 3, "Survival Dungoen Survivor": 4})
 
-    pass
+    #pass
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:

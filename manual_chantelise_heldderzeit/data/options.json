@@ -52,7 +52,7 @@
             "values": {"example": 2},
             "group": "Example Options"
         },
-
+        
         "progressive_dungeons":{
             "display_name": "Progressive Dungeons",
             "description": [
@@ -66,19 +66,6 @@
                 "spoiler"
             ],
             "default": true,
-            "group": "Gameplay Options"
-        },
-        "stagesanity":{
-            "display_name": "Stagesanity",
-            "description": "Requires the individual stages to be unlocked. Completing a stage gives a reward and Stage unlocks need to be found.",
-            "type": "Toggle",
-            "visibility": [
-                "simple_ui",
-                "complex_ui",
-                "template",
-                "spoiler"
-            ],
-            "default": false,
             "group": "Gameplay Options"
         },
         "progressive_stages":{
@@ -95,7 +82,7 @@
                 "spoiler"
             ],
             "default": true,
-            "group": "Game Options"
+            "group": "Gameplay Options"
         },
         "survival_dungeon":{
             "display_name": "Include Survival Dungeon",
@@ -111,11 +98,15 @@
                 "spoiler"
             ],
             "default": false,
-            "group": "Game Options"
+            "group": "Gameplay Options"
         },
-        "progressive_equipment":{
-            "display_name": "Progressive Equipment",
-            "description": "Option to make the four main Equipment types progressive. It will simplify logic but will shrink the item pool.\nLeather Gloves -> Tough Gloves -> Silver Gauntlet | Souvenier Charm -> Standard Charm -> Popular Charm\nElemental Shields and Charms are still separate and not included in progression.",
+        "tough_logic":{
+            "display_name": "Tough Logic",
+            "description": [
+                "A harder ruleset of logic requirements for locations.",
+                "You might be required to search for alternative ways to heal.",
+                "Or even make use of weaker Equipment to defeat Bosses or Clear Dungeons."
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -124,11 +115,40 @@
                 "spoiler"
             ],
             "default": false,
-            "group": "Game Options"
+            "group": "Gameplay Options"
+        },
+        "progressive_equipment":{
+            "display_name": "Progressive Equipment",
+            "description": [
+                "Option to make the four main Equipment types progressive. It will simplify logic but will shrink the item pool.",
+                "Leather Gloves -> Tough Gloves -> Silver Gauntlet | Souvenir Charm -> Standard Charm -> Popular Charm",
+                "Elemental Shields and Charms are still separate and not included in progression."],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Gameplay Options"
+        },
+        "stagesanity":{
+            "display_name": "Stagesanity",
+            "description": "Requires the individual stages to be unlocked. Completing a stage gives a reward and Stage unlocks need to be found.",
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Randomization Options"
         },
         "shop_shuffle":{
             "display_name": "Shop Shuffle",
-            "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
+            "description": "Items that can be bought at the shop are shuffled around the item pool.",
             "type": "Choice",
             "values": {
                 "none": 0,
@@ -157,7 +177,9 @@
         },
         "shop_sell_unlock":{
             "display_name": "Shop Sell Unlock Shuffle",
-            "description": "Fish Trades from the Fisherman in Plains gives other Rewards.",
+            "description": [
+                "Sell Certain Items to unlock something that then can appear in the shop!"
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -196,7 +218,10 @@
         },
         "spellsanity":{
             "display_name": "Spellsanity",
-            "description": "Adds in the Tier III and IV Spells into the pool.",
+            "description": [
+                "Adds in the Tier III and IV Spells into the pool.",
+                "Option to include Tier II Spell available as well."
+            ],
             "type": "Choice",
             "values": {
                 "none": 0,
@@ -237,7 +262,10 @@
         },
         "other_breakables":{
             "display_name": "Include Other Breakables",
-            "description": "Only works with \"Barrelsanity\". Adds in other breakable objects as checks, such as torches.",
+            "description": [
+                "Only works with \"Barrelsanity\".",
+                "Adds in other breakable objects as checks, such as torches."
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
@@ -250,7 +278,7 @@
         },
         "treesanity":{
             "display_name": "Treesanity",
-            "description": "WIP - Hit a tree to send a check.",
+            "description": "WIP - Hit a Tree to send a check.",
             "type": "Toggle",
             "visibility": [
                 "simple_ui",

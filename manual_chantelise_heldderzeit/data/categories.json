@@ -173,6 +173,9 @@
         "hidden": true
     },
     "Survival Dungeon Stage": {
+        "yaml_option": [
+            "survival_dungeon"
+        ],
         "hidden": true
     },
     "Barrelsanity": {
