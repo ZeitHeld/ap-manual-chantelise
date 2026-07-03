@@ -82,7 +82,7 @@
         "hidden": true
     },
     "Fishing Rod": {
-        "hidden": true
+        "hidden": false
     },
     "Crystal": {
         "hidden": true
