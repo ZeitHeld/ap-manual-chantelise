@@ -16,7 +16,7 @@
     },
     {
         "name": "Can Catch Axolotl",
-        "requires": "|Can Fish| AND (|AR Bonus Stage| OR |FF 3 Stage|)",
+        "requires": "|Can Fish| AND (|AR Bonus Stage| OR |ZR Bonus Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
@@ -26,7 +26,7 @@
     },
     {
         "name": "Can Catch Boiled Octopus",
-        "requires": "|Can Fish| AND (|IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
@@ -36,7 +36,7 @@
     },
     {
         "name": "Can Catch Carp Flag",
-        "requires": "|Can Fish| AND (|AR 2 Stage| OR |TR 2 Stage|)",
+        "requires": "|Can Fish| AND (|TR 2 Stage| OR |AR 2 Stage|)",
         "visible": true
     },
     {
@@ -46,12 +46,12 @@
     },
     {
         "name": "Can Catch Clione",
-        "requires": "|Can Fish| AND (|Town Access| OR |AR 2 Stage| OR |FF 3 Stage|)",
+        "requires": "|Can Fish| AND (|Town Access| OR |AR 2 Stage| OR |AR 3 Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Clownfish",
-        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage| OR |SP 3 Stage| OR |FF 3 Stage|)",
         "visible": true
     },
     {
@@ -76,12 +76,12 @@
     },
     {
         "name": "Can Catch Firefish",
-        "requires": "|Can Fish| AND (|IR 3 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|IR 3 Stage| OR |IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Giant Oarfish",
-        "requires": "|Can Fish| AND |ZR 1 Stage|",
+        "requires": "|Can Fish| AND (|ZR 1 Stage| OR |ZR 2 Stage| OR |SP 3 Stage|)",
         "visible": true
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "name": "Can Catch Koi",
-        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP 3 Stage| OR |Familiar Forest Access|)",
+        "requires": "|Can Fish| AND (|AR 2 Stage| OR |AR 3 Stage| OR |SP 3 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
@@ -101,7 +101,7 @@
     },
     {
         "name": "Can Catch Little Redfish",
-        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |IR 3 Stage| OR |IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|IR 3 Stage| OR |IR 4 Stage| OR |IR 5 Stage| OR |IR Boss Stage| OR |IR Bonus Stage|)",
         "visible": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "name": "Can Catch Octopus",
-        "requires": "|Can Fish| AND |SP Bonus Stage|",
+        "requires": "|Can Fish| AND (|AR 2 Stage| OR |SP Bonus Stage|)",
         "visible": true
     },
     {
@@ -146,17 +146,17 @@
     },
     {
         "name": "Can Catch Piranha",
-        "requires": "|Can Fish| AND (|IR 1 Stage| OR |AR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |FF 2 Stage|)",
+        "requires": "|Can Fish| AND (|IR 1 Stage| OR |AR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage| OR |FF 1 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Pufferfish",
-        "requires": "|Can Fish| AND |ZR 2 Stage|",
+        "requires": "|Can Fish| AND (|ZR 1 Stage| OR |ZR 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Rainbow Trout",
-        "requires": "|Can Fish| AND (|ZR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
+        "requires": "|Can Fish| AND (|ZR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
@@ -176,12 +176,12 @@
     },
     {
         "name": "Can Catch Sea Cucumber",
-        "requires": "|Can Fish| AND (|TR Boss Stage| OR |TR Bonus Stage| OR |ZR 1 Stage| OR |ZR 2 Stage|)",
+        "requires": "|Can Fish| AND (|TR Boss Stage| OR |TR Bonus Stage| OR |AR 3 Stage| OR |ZR 1 Stage| OR |ZR 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Seabass",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |ZR Bonus Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |AR 3 Stage| OR |AR Bonus Stage| OR |ZR 3 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "name": "Can Catch Squid",
-        "requires": "|Can Fish| AND |TR Bonus Stage|",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR 2 Stage| OR |SP 3 Stage|)",
         "visible": true
     },
     {
@@ -206,17 +206,17 @@
     },
     {
         "name": "Can Catch Sweetfish",
-        "requires": "|Can Fish| AND (|The Plains Access| OR |AR 1 Stage| OR |TR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
+        "requires": "|Can Fish| AND (|The Plains Access| OR |TR 2 Stage| OR |AR 1 Stage| OR |TR 2 Stage| OR |Familiar Forest Access| OR |FF 1 Stage| OR |FF 2 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Taiyaki",
-        "requires": "|Can Fish| AND |IR Boss Stage|",
+        "requires": "|Can Fish| AND (|IR Boss Stage| OR |FF 1 Stage|)",
         "visible": true
     },
     {
         "name": "Can Catch Trilobyte",
-        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage|)",
+        "requires": "|Can Fish| AND (|TR Bonus Stage| OR |AR Bonus Stage| OR |SP 3 Stage|)",
         "visible": true
     },
     {
