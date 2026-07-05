@@ -237,7 +237,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 4 Stage|",
+      "requires": "|IR 4 Stage| AND |Can Defeat Magical Enemy|",
       "id": 123,
       "sort-key": "row-1-2-3"
     },
@@ -3173,6 +3173,66 @@
       "requires": "|TR 2 Stage|",
       "id": 1221,
       "sort-key": "row-12-1-2-5"
+    },
+    {
+      "name": "Volcano Path Tree",
+      "region": "Ignan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 1222,
+      "sort-key": "row-12-2-2-1"
+    },
+    {
+      "name": "Resting Place Entrance Tree",
+      "region": "Familiar Forest",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1250,
+      "sort-key": "row-12-6-0-1"
+    },
+    {
+      "name": "Resting Place Exit Tree",
+      "region": "Familiar Forest",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1251,
+      "sort-key": "row-12-6-0-2"
+    },
+    {
+      "name": "Resting Place Merchant Tree",
+      "region": "Familiar Forest",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1252,
+      "sort-key": "row-12-6-0-3"
+    },
+    {
+      "name": "Resting Place River Tree",
+      "region": "Familiar Forest",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1253,
+      "sort-key": "row-12-6-0-4"
+    },
+    {
+      "name": "Resting Place Small Tree",
+      "region": "Familiar Forest",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "",
+      "id": 1254,
+      "sort-key": "row-12-6-0-5"
     },
     {
       "name": "Open Every Main Hidden Treasure",
