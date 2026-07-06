@@ -31,6 +31,7 @@ import logging
 ########################################################################################
 
 GOAL_ID_CURE_ELISE = 3
+TROPHY_NAME = "Rainbow Rose Petal"
 
 
 # Use this function to change the valid filler items to be created to replace item links or starting items.
@@ -73,8 +74,8 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
     progressive_equipment = get_option_value(multiworld, player, "progressive_equipment")
     goal = get_option_value(multiworld, player, "goal")
-    required_petals = get_option_value(multiworld, player, "trophies_required")
-    total_petals = get_option_value(multiworld, player, "trophies_total")
+    required_petals = get_option_value(multiworld, player, "petals_required")
+    total_petals = get_option_value(multiworld, player, "petals_total")
     
     # for item in item_config:
     #     if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
@@ -87,12 +88,12 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
             if required_petals > 45:
                 total_petals = 50
             else:                
-                total_petals = required_petals+5
+                total_petals = required_petals + 5
 
         if total_petals > 0:
             logging.info("<Chantelise-Manual> (before_create_items_all) Adding *" + str(total_petals) + "* Petals to pool.")
 
-            item_config["Rainbow Rose Petal"] = total_petals
+            item_config[TROPHY_NAME] = total_petals
            
         else:
             logging.info("<Chantelise-Manual> (before_create_items_all) No Petals needed.")
@@ -238,7 +239,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
 
         #return "|Blue Rose Petal:" + str(get_option_value(multiworld, player, "trophies_required")) + "|"
 
-        return state.has("Rainbow Rose Petal", player, get_option_value(multiworld, player, "trophies_required"))
+        return state.has(TROPHY_NAME, player, get_option_value(multiworld, player, "trophies_required"))
 
 
     ## Common functions:
@@ -248,7 +249,7 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     if goal == GOAL_ID_CURE_ELISE:
         trophy_location = world.get_location("Cure Chante with Rainbow Rose Petals")
         #trophy_location.access_rule = lambda state: hasEnoughTrophies(state)
-        trophy_location.access_rule = lambda state: state.has("Rainbow Rose Petal", player, get_option_value(multiworld, player, "trophies_required"))
+        trophy_location.access_rule = lambda state: state.has(TROPHY_NAME, player, get_option_value(multiworld, player, "petals_required"))
 
     ## Combine rules:
     # old_rule = location.access_rule

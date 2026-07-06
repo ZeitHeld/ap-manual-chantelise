@@ -31,7 +31,7 @@ class RequiredTrophyCount(Range):
     default = 10
 
 class TotalTrophyCount(Range):
-    """Amount of Rainbow Rose Petals that are added in the pool. May not be lower than the Required Amount"""
+    """Amount of Rainbow Rose Petals that are added in the pool. May not be lower than the Required Amount."""
     display_name = "Total amount of Petals"
     range_start = 1
     range_end = 50
@@ -47,8 +47,8 @@ class TotalTrophyCount(Range):
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     #options["stage_sanity"] = Stagesanity
 
-    options["trophies_required"] = RequiredTrophyCount
-    options["trophies_total"] = TotalTrophyCount
+    options["petals_required"] = RequiredTrophyCount
+    options["petals_total"] = TotalTrophyCount
 
     return options
 
