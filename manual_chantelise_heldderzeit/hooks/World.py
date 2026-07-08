@@ -91,12 +91,13 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
                 total_petals = required_petals + 5
 
         if total_petals > 0:
-            logging.info("<Chantelise-Manual> (before_create_items_all) Adding *" + str(total_petals) + "* Petals to pool.")
+            ### logging.info("<Chantelise-Manual> (before_create_items_all) Adding *" + str(total_petals) + "* Petals to pool.")
 
             item_config[TROPHY_NAME] = total_petals
            
         else:
-            logging.info("<Chantelise-Manual> (before_create_items_all) No Petals needed.")
+            ### logging.info("<Chantelise-Manual> (before_create_items_all) No Petals needed.")
+            pass
 
     return item_config
 
@@ -126,24 +127,24 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     for item in item_pool:
         if (shop_shuffle_aira == False and "Aira Item" in world.item_name_to_item[item.name].get("category", [])):
-            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - AIRA ITEM TO REMOVE: " + item.name)
+            ### logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - AIRA ITEM TO REMOVE: " + item.name)
             if not item.name in aira_list:
-                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                ### logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
                 aira_list.append(item.name)
         if shop_shuffle_merchant == False and "Merchant Item" in world.item_name_to_item[item.name].get("category", []):
-            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - MERCHANT ITEM TO REMOVE: " + item.name)
+            ### logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - MERCHANT ITEM TO REMOVE: " + item.name)
             if not item.name in merchant_list:
-                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                ### logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
                 merchant_list.append(item.name)
         if shop_shuffle_survival == False and "Survival Dungeon Item" in world.item_name_to_item[item.name].get("category", []):
-            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - SD ITEM TO REMOVE: " + item.name)
+            ### logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - SD ITEM TO REMOVE: " + item.name)
             if not item.name in survival_list:
-                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                ### logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
                 survival_list.append(item.name)
         if (trade_shuffle == False) and ("Trading Reward" in world.item_name_to_item[item.name].get("category", [])):
-            logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - TRADE REWARD TO REMOVE: " + item.name)
+            ### logging.info("<Chantelise-Manual> (before_create_items_filler) FOUND - TRADE REWARD TO REMOVE: " + item.name)
             if not item.name in trade_list:
-                logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
+                ### logging.info("<Chantelise-Manual> (before_create_items_filler) FIRST ONE!")
                 trade_list.append(item.name)
 
         # if progressive_equipment and "Standalone Equipment" in world.item_name_to_item[item.name].get("category", []):
@@ -155,16 +156,16 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
         #     prog_equip_list.append("")
 
     for itemName in aira_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Aira Item for removal: " + itemName)
+        ### logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Aira Item for removal: " + itemName)
         itemNamesToRemove.append(itemName)
     for itemName in merchant_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Merchant Item for removal: " + itemName)
+        ### logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Merchant Item for removal: " + itemName)
         itemNamesToRemove.append(itemName)
     for itemName in survival_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding SD Item for removal: " + itemName)
+        ### logging.info("<Chantelise-Manual> (before_create_items_filler) Adding SD Item for removal: " + itemName)
         itemNamesToRemove.append(itemName)
     for itemName in trade_list:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Trade Item for removal: " + itemName)
+        ### logging.info("<Chantelise-Manual> (before_create_items_filler) Adding Trade Item for removal: " + itemName)
         itemNamesToRemove.append(itemName)
     # for itemName in prog_equip_list:
     #     itemNamesToRemove.append(itemName)
@@ -175,7 +176,7 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     # to the list multiple times if you want to remove multiple copies of it.
 
     for itemName in itemNamesToRemove:
-        logging.info("<Chantelise-Manual> (before_create_items_filler) Gonna Remove: " + itemName)
+        ### logging.info("<Chantelise-Manual> (before_create_items_filler) Gonna Remove: " + itemName)
         item = next(i for i in item_pool if i.name == itemName)
         remove_specific_item(item_pool, item)
 
