@@ -3025,6 +3025,26 @@
       "sort-key": "row-11-3-5-6"
     },
     {
+      "name": "Crystal Hall East Crystal",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 1130,
+      "sort-key": "row-11-5-2-1"
+    },
+    {
+      "name": "Crystal Hall West Crystal",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|SP 2 Stage|",
+      "id": 1131,
+      "sort-key": "row-11-5-2-2"
+    },
+    {
       "name": "Town East Tree",
       "region": "Town",
       "category": [
