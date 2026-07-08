@@ -2965,6 +2965,66 @@
       "sort-key": "row-11-1-6-6"
     },
     {
+      "name": "Silent Church Western Front Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1124,
+      "sort-key": "row-11-3-5-1"
+    },
+    {
+      "name": "Silent Church Western Middle Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1125,
+      "sort-key": "row-11-3-5-2"
+    },
+    {
+      "name": "Silent Church Western Back Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1126,
+      "sort-key": "row-11-3-5-3"
+    },
+    {
+      "name": "Silent Church Eastern Front Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1127,
+      "sort-key": "row-11-3-5-4"
+    },
+    {
+      "name": "Silent Church Eastern Middle Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1128,
+      "sort-key": "row-11-3-5-5"
+    },
+    {
+      "name": "Silent Church Eastern Back Cadlestick",
+      "region": "Aquan Ruins",
+      "category": [
+        "Other Breakables"
+      ],
+      "requires": "|AR 5 Stage|",
+      "id": 1129,
+      "sort-key": "row-11-3-5-6"
+    },
+    {
       "name": "Town East Tree",
       "region": "Town",
       "category": [
@@ -3183,6 +3243,106 @@
       "requires": "|IR 2 Stage|",
       "id": 1222,
       "sort-key": "row-12-2-2-1"
+    },
+    {
+      "name": "Wetland Entrance Water Tree",
+      "region": "Aquan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 1223,
+      "sort-key": "row-12-3-1-1"
+    },
+    {
+      "name": "Wetland North-East Water Tree",
+      "region": "Aquan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 1224,
+      "sort-key": "row-12-3-1-2"
+    },
+    {
+      "name": "Wetland North-West Water Tree",
+      "region": "Aquan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 1 Stage|",
+      "id": 1225,
+      "sort-key": "row-12-3-1-4"
+    },
+    {
+      "name": "Bridge to the Ruins West Tree",
+      "region": "Aquan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 1226,
+      "sort-key": "row-12-3-2-1"
+    },
+    {
+      "name": "Bridge to the Ruins East Tree",
+      "region": "Aquan Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|IR 2 Stage|",
+      "id": 1227,
+      "sort-key": "row-12-3-2-2"
+    },
+    {
+      "name": "The Windmill Bridge West Entrance Tree",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 1228,
+      "sort-key": "row-12-4-3-1"
+    },
+    {
+      "name": "The Windmill Bridge West Cliff Tree",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 1229,
+      "sort-key": "row-12-4-3-2"
+    },
+    {
+      "name": "The Windmill Bridge East Wall Tree",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 1230,
+      "sort-key": "row-12-4-3-3"
+    },
+    {
+      "name": "The Windmill Bridge East Bridge Tree",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 1231,
+      "sort-key": "row-12-4-3-4"
+    },
+    {
+      "name": "The Windmill Bridge East Slope Tree",
+      "region": "Zephyran Ruins",
+      "category": [
+        "Treesanity"
+      ],
+      "requires": "|ZR 3 Stage|",
+      "id": 1232,
+      "sort-key": "row-12-4-3-5"
     },
     {
       "name": "Resting Place Entrance Tree",
