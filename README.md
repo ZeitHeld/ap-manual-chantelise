@@ -37,9 +37,11 @@ It's old and tough but still Charming and fun.
   - Catch a fish for the first time for a randomized reward!
 - Stagesanity
   - Stages need to be unlocked and their unlocks to the next area (stage clear) give a check. Also includes Survival Dungeon Boss Floor Rewards
-- Barrelsanity
+- Barrelsanity (+ Other Breakables)
   - Break a barrel to unravel it's contents!
-  - (Soon: Option to include other breakables such as torches or lamp posts)
+  - Option to include other breakables such as torches or lamp posts
+- Treesanity
+  - Hit a tree to shake down the item it's been hiding
 - Spellsanity
   - The individual spells are now required to be found!
   - Tier 3 and 4 spells (that use the same type of gem) cannot be casted, unless you have enough Spell Upgrades and the spell itself!
@@ -48,8 +50,6 @@ It's old and tough but still Charming and fun.
   - A harder ruleset of logic requirements for locations. You might be required to make use of the Darkness Crystal to heal, or weaker Equipment to defeat Bosses or Clear Dungeons.
 
 ## Upcoming/Planned Features
-- Barrelsanity: Other Breakables
-- Treesanity
 - Grasssanity?
 
 # Rules & Restrictions
