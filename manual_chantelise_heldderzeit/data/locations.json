@@ -2675,6 +2675,46 @@
       "sort-key": "row-10-2-15"
     },
     {
+      "name": "Insect King's Lair North Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 1036,
+      "sort-key": "row-10-2-16"
+    },
+    {
+      "name": "Insect King's Lair East Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 1037,
+      "sort-key": "row-10-2-17"
+    },
+    {
+      "name": "Insect King's Lair South Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 1038,
+      "sort-key": "row-10-2-18"
+    },
+    {
+      "name": "Insect King's Lair West Barrel",
+      "region": "Terran Ruins",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|TR Bonus Stage|",
+      "id": 1039,
+      "sort-key": "row-10-2-19"
+    },
+    {
       "name": "Volcano Path Hidden Treasure Barrel",
       "region": "Ignan Ruins",
       "category": [
