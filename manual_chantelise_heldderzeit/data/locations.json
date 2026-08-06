@@ -497,7 +497,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF 2 Stage|",
+      "requires": "|FF 2 Stage| AND (|Has High Attack| OR |Has High Magic Attack|)",
       "id": 161,
       "sort-key": "row-1-6-1"
     },
@@ -517,7 +517,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF Boss Stage|",
+      "requires": "|FF Boss Stage| AND |Can Heal| AND",
       "id": 163,
       "sort-key": "row-1-6-3"
     },
@@ -967,7 +967,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -981,7 +981,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -995,7 +995,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -1009,7 +1009,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -1023,7 +1023,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -1037,7 +1037,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],
@@ -1051,7 +1051,7 @@
       "category": [
         "Shop Shuffle", "Merchant Shop Shuffle"
       ],
-      "requires": "|Beat Volcanicrab Flag|",
+      "requires": "",
       "dont_place_item_category": [
         "Treasure", "Fish"
       ],

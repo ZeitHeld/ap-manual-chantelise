@@ -263,7 +263,7 @@
     },
     {
         "name": "Full Familiar Forest Access",
-        "requires": "|Progressive Familiar Forest:2|"
+        "requires": "|Progressive Familiar Forest:2| AND (({YamlDisabled(tough_logic)} AND (|Has High Attack| OR |Has High Magic Attack|) AND |Has High Defense|) OR {YamlEnabled(tough_logic)} AND (|Has Mid Attack| OR |Has Mid Magic Attack|) AND |Has Mid Defense|)"
     },
     {
         "name": "Survival Dungeon Access",
