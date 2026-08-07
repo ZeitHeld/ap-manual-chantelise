@@ -1743,7 +1743,7 @@
       ],
       "requires": "|ZR 3 Stage|",
       "id": 643,
-      "sort-key": "row-7-4-3"
+      "sort-key": "row-6-4-3"
     },
     {
       "name": "Engine Room Clear",
@@ -2772,6 +2772,16 @@
       ],
       "requires": "|SP 2 Stage|",
       "id": 1046,
+      "sort-key": "row-10-5-1"
+    },
+    {
+      "name": "Forest, the First Hidden Treasure Chicken Barrel",
+      "region": "Familiar Forest",
+      "category": [
+        "Barrelsanity"
+      ],
+      "requires": "|Full Familiar Forest| |FF 1 Stage|",
+      "id": 1050,
       "sort-key": "row-10-5-1"
     },
     {
