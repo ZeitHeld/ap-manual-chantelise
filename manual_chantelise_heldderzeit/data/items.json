@@ -9,7 +9,8 @@
         "Progressive Dungeon"
       ],
       "progression": true,
-      "early": true
+      "early": true,
+      "id": 9
     },
     {
       "count": 1,
@@ -19,7 +20,8 @@
         "Separate Dungeon"
       ],
       "progression": true,
-      "early": true
+      "early": true,
+      "id": 1
     },
     {
       "count": 1,
@@ -28,7 +30,8 @@
         "Dungeon Unlock",
         "Separate Dungeon"
       ],
-      "progression": true
+      "progression": true,
+      "id": 2
     },
     {
       "count": 1,
@@ -37,7 +40,8 @@
         "Dungeon Unlock",
         "Separate Dungeon"
       ],
-      "progression": true
+      "progression": true,
+      "id": 3
     },
     {
       "count": 1,
@@ -46,7 +50,8 @@
         "Dungeon Unlock",
         "Separate Dungeon"
       ],
-      "progression": true
+      "progression": true,
+      "id": 4
     },
     {
       "count": 1,
@@ -55,7 +60,8 @@
         "Dungeon Unlock",
         "Separate Dungeon"
       ],
-      "progression": true
+      "progression": true,
+      "id": 5
     },
     {
       "count": 2,
@@ -63,7 +69,8 @@
       "category": [
         "Dungeon Unlock"
       ],
-      "progression": true
+      "progression": true,
+      "id": 6
     },
     {
       "count": 1,
@@ -71,7 +78,8 @@
       "category": [
         "Dungeon Unlock"
       ],
-      "progression": true
+      "progression": true,
+      "id": 7
     },
     {
       "count": 2,
@@ -79,7 +87,8 @@
       "category": [
         "Ability"
       ],
-      "progression": true
+      "progression": true,
+      "id": 15
     },
     {
       "count": 3,
@@ -87,7 +96,8 @@
       "category": [
         "Ability"
       ],
-      "progression": true
+      "progression": true,
+      "id": 16
     },
     {
       "count": 1,
@@ -99,7 +109,8 @@
         "Fire Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 21
     },
     {
       "count": 1,
@@ -111,7 +122,8 @@
         "Water Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 22
     },
     {
       "count": 1,
@@ -123,7 +135,8 @@
         "Air Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 23
     },
     {
       "count": 1,
@@ -135,7 +148,8 @@
         "Earth Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 24
     },
     {
       "count": 1,
@@ -147,7 +161,8 @@
         "Fire Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 31
     },
     {
       "count": 1,
@@ -159,7 +174,8 @@
         "Water Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 32
     },
     {
       "count": 1,
@@ -171,7 +187,8 @@
         "Air Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 33
     },
     {
       "count": 1,
@@ -183,7 +200,8 @@
         "Earth Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 34
     },
     {
       "count": 1,
@@ -195,7 +213,8 @@
         "Fire Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 41
     },
     {
       "count": 1,
@@ -207,7 +226,8 @@
         "Water Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 42
     },
     {
       "count": 1,
@@ -219,7 +239,8 @@
         "Air Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 43
     },
     {
       "count": 1,
@@ -231,7 +252,8 @@
         "Earth Spell"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 44
     },
     {
       "count": 1,
@@ -272,7 +294,8 @@
       "category": [
         "Boss Flag"
       ],
-      "progression": true
+      "progression": true,
+      "id": 11
     },
     {
       "count": 1,
@@ -280,7 +303,8 @@
       "category": [
         "Boss Flag"
       ],
-      "progression": true
+      "progression": true,
+      "id": 12
     },
     {
       "count": 1,
@@ -288,7 +312,8 @@
       "category": [
         "Boss Flag"
       ],
-      "progression": true
+      "progression": true,
+      "id": 13
     },
     {
       "count": 1,
@@ -296,7 +321,8 @@
       "category": [
         "Boss Flag"
       ],
-      "progression": true
+      "progression": true,
+      "id": 14
     },
     {
       "count": 1,
@@ -304,7 +330,8 @@
       "category": [
         "Boss Flag"
       ],
-      "progression": true
+      "progression": true,
+      "id": 15
     },
     {
       "count": 1,
@@ -312,7 +339,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 140
     },
     {
       "count": 1,
@@ -320,7 +348,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 141
     },
     {
       "count": 1,
@@ -328,7 +357,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 110
     },
     {
       "count": 1,
@@ -336,7 +366,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 100
     },
     {
       "count": 1,
@@ -344,7 +375,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 142
     },
     {
       "count": 1,
@@ -353,7 +385,8 @@
         "Fish"
       ],
 
-      "filler": true
+      "filler": true,
+      "id": 143
     },
     {
       "count": 1,
@@ -361,7 +394,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 111
     },
     {
       "count": 1,
@@ -370,7 +404,8 @@
         "Fish"
       ],
   
-      "filler": true
+      "filler": true,
+      "id": 112
     },
     {
       "count": 1,
@@ -378,7 +413,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 144
     },
     {
       "count": 1,
@@ -386,7 +422,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 101
     },
     {
       "count": 1,
@@ -394,7 +431,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 102
     },
     {
       "count": 1,
@@ -402,7 +440,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 113
     },
     {
       "count": 1,
@@ -410,7 +449,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 114
     },
     {
       "count": 1,
@@ -418,7 +458,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 115
     },
     {
       "count": 1,
@@ -426,7 +467,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 116
     },
     {
       "count": 1,
@@ -434,7 +476,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 117
     },
     {
       "count": 1,
@@ -442,7 +485,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 145
     },
     {
       "count": 1,
@@ -450,7 +494,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 146
     },
     {
       "count": 1,
@@ -458,7 +503,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 118
     },
     {
       "count": 1,
@@ -466,7 +512,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 103
     },
     {
       "count": 1,
@@ -474,7 +521,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 104
     },
     {
       "count": 1,
@@ -482,7 +530,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 105
     },
     {
       "count": 1,
@@ -490,7 +539,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 119
     },
     {
       "count": 1,
@@ -498,7 +548,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 147
     },
     {
       "count": 1,
@@ -506,7 +557,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 106
     },
     {
       "count": 1,
@@ -514,7 +566,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 148
     },
     {
       "count": 1,
@@ -522,7 +575,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 149
     },
     {
       "count": 1,
@@ -530,7 +584,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 120
     },
     {
       "count": 1,
@@ -538,7 +593,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 121
     },
     {
       "count": 1,
@@ -546,7 +602,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 122
     },
     {
       "count": 1,
@@ -554,7 +611,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 123
     },
     {
       "count": 1,
@@ -562,7 +620,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 124
     },
     {
       "count": 1,
@@ -570,7 +629,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 125
     },
     {
       "count": 1,
@@ -578,7 +638,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 107
     },
     {
       "count": 1,
@@ -586,7 +647,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 150
     },
     {
       "count": 1,
@@ -594,7 +656,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 108
     },
     {
       "count": 1,
@@ -602,7 +665,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 126
     },
     {
       "count": 1,
@@ -610,7 +674,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 127
     },
     {
       "count": 1,
@@ -618,7 +683,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 151
     },
     {
       "count": 1,
@@ -626,7 +692,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 128
     },
     {
       "count": 1,
@@ -634,7 +701,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 152
     },
     {
       "count": 1,
@@ -642,7 +710,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 129
     },
     {
       "count": 1,
@@ -650,7 +719,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 130
     },
     {
       "count": 1,
@@ -658,7 +728,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 131
     },
     {
       "count": 1,
@@ -666,7 +737,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 132
     },
     {
       "count": 1,
@@ -674,7 +746,8 @@
       "category": [
         "Fish"
       ],
-      "filler": true
+      "filler": true,
+      "id": 153
     },
     {
       "count": 0,
@@ -924,7 +997,8 @@
         "Progressive Equipment"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 50
     },
     {
       "count": 5,
@@ -935,7 +1009,8 @@
         "Progressive Equipment"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 60
     },
     {
       "count": 5,
@@ -946,7 +1021,8 @@
         "Progressive Equipment"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 70
     },
     {
       "count": 5,
@@ -957,7 +1033,8 @@
         "Progressive Equipment"
       ],
       "progression": true,
-      "useful": true
+      "useful": true,
+      "id": 80
     },
     {
       "classification_count": {
@@ -971,7 +1048,8 @@
         "Aira Item",
         "Merchant Item",
         "Standalone Equipment"
-      ]
+      ],
+      "id": 51
     },
     {
       "count": 2,
@@ -983,7 +1061,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "filler": true
+      "filler": true,
+      "id": 52
     },
     {
       "count": 1,
@@ -994,7 +1073,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 53
     },
     {
       "count": 2,
@@ -1007,7 +1087,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 54
     },
     {
       "count": 1,
@@ -1018,7 +1099,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 55
     },
     {
       "count": 1,
@@ -1030,7 +1112,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 56
     },
     {
       "count": 1,
@@ -1042,7 +1125,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 57
     },
     {
       "classification_count": {
@@ -1056,7 +1140,8 @@
         "Aira Item",
         "Merchant Item",
         "Standalone Equipment"
-      ]
+      ],
+      "id": 61
     },
     {
       "count": 1,
@@ -1067,7 +1152,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "filler": true
+      "filler": true,
+      "id": 62
     },
     {
       "count": 1,
@@ -1079,7 +1165,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 63
     },
     {
       "count": 1,
@@ -1090,7 +1177,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 64
     },
     {
       "count": 1,
@@ -1101,7 +1189,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 65
     },
     {
       "count": 1,
@@ -1113,7 +1202,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 66
     },
     {
       "count": 1,
@@ -1123,7 +1213,8 @@
         "Shield",
         "Selling Unlockable"
       ],
-      "useful": true
+      "useful": true,
+      "id": 94
     },
     {
       "count": 1,
@@ -1133,7 +1224,8 @@
         "Shield",
         "Trading Reward"
       ],
-      "useful": true
+      "useful": true,
+      "id": 91
     },
     {
       "count": 1,
@@ -1143,7 +1235,8 @@
         "Shield",
         "Trading Reward"
       ],
-      "useful": true
+      "useful": true,
+      "id": 92
     },
     {
       "count": 1,
@@ -1153,7 +1246,8 @@
         "Shield",
         "Aira Item"
       ],
-      "useful": true
+      "useful": true,
+      "id": 93
     },
     {
       "classification_count": {
@@ -1167,7 +1261,8 @@
         "Aira Item",
         "Merchant Item",
         "Standalone Equipment"
-      ]
+      ],
+      "id": 71
     },
     {
       "count": 1,
@@ -1179,7 +1274,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "filler": true
+      "filler": true,
+      "id": 72
     },
     {
       "count": 1,
@@ -1190,7 +1286,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 73
     },
     {
       "count": 1,
@@ -1201,7 +1298,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 74
     },
     {
       "count": 1,
@@ -1212,7 +1310,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 75
     },
     {
       "count": 1,
@@ -1224,7 +1323,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 76
     },
     {
       "count": 1,
@@ -1235,7 +1335,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "filler": true
+      "filler": true,
+      "id": 81
     },
     {
       "count": 1,
@@ -1246,7 +1347,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "filler": true
+      "filler": true,
+      "id": 82
     },
     {
       "count": 2,
@@ -1258,7 +1360,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 83
     },
     {
       "count": 3,
@@ -1271,7 +1374,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 84
     },
     {
       "count": 1,
@@ -1282,7 +1386,8 @@
         "Standalone Equipment"
       ],
       "useful": true,
-      "progression": true
+      "progression": true,
+      "id": 85
     },
 		{
 			"count": 1,
@@ -1294,7 +1399,8 @@
         "Standalone Equipment"
 			],
 			"useful": true,
-      "progression_skip_balancing": true
+      "progression_skip_balancing": true,
+      "id": 86
 		},
 		{
 			"classification_count": {
@@ -1306,7 +1412,8 @@
 				"Equipment",
 				"Charm",
 				"Aira Item"
-			]
+			],
+      "id": 99
 		},
 		{
 			"count": 1,
@@ -1316,7 +1423,8 @@
 				"Charm",
 				"Selling Unlockable"
 			],
-			"useful": true
+			"useful": true,
+      "id": 96
 		},
 		{
 			"count": 1,
@@ -1326,7 +1434,8 @@
 				"Charm",
 				"Trading Reward"
 			],
-			"useful": true
+			"useful": true,
+      "id": 98
 		},
 		{
 			"count": 1,
@@ -1336,7 +1445,8 @@
 				"Charm",
 				"Trading Reward"
 			],
-			"useful": true
+			"useful": true,
+      "id": 97
 		},
 		{
 			"count": 1,
@@ -2271,7 +2381,8 @@
       "category": [
         "Goal Item"
       ],
-      "progression": true
+      "progression": true,
+      "id": 18
     }
   ]
 }
