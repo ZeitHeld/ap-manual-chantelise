@@ -1389,85 +1389,85 @@
       "progression": true,
       "id": 85
     },
-		{
-			"count": 1,
-			"name": "Omnicharm",
-			"category": [
-				"Equipment",
-				"Charm",
-				"Trading Reward",
-        "Standalone Equipment"
-			],
-			"useful": true,
-      "progression_skip_balancing": true,
-      "id": 86
+	{
+		"count": 1,
+		"name": "Omnicharm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Trading Reward",
+			"Standalone Equipment"
+		],
+		"useful": true,
+		"progression_skip_balancing": true,
+		"id": 86
+	},
+	{
+		"classification_count": {
+			"useful": 1,
+			"useful + filler": 1
 		},
-		{
-			"classification_count": {
-        "useful": 1,
-        "useful + filler": 1
-      },
-			"name": "Sand Charm",
-			"category": [
-				"Equipment",
-				"Charm",
-				"Aira Item"
-			],
-      "id": 99
-		},
-		{
-			"count": 1,
-			"name": "Blazing Charm",
-			"category": [
-				"Equipment",
-				"Charm",
-				"Selling Unlockable"
-			],
-			"useful": true,
-      "id": 96
-		},
-		{
-			"count": 1,
-			"name": "Wing Charm",
-			"category": [
-				"Equipment",
-				"Charm",
-				"Trading Reward"
-			],
-			"useful": true,
-      "id": 98
-		},
-		{
-			"count": 1,
-			"name": "Shell Charm",
-			"category": [
-				"Equipment",
-				"Charm",
-				"Trading Reward"
-			],
-			"useful": true,
-      "id": 97
-		},
-		{
-			"count": 1,
-			"name": "Fire Crystal",
-			"category": [
-				"Equipment",
-				"Crystal"
-			],
-			"useful": true
-		},
-	  {
-			"count": 2,
-			"name": "Water Crystal",
-			"category": [
-				"Equipment",
-				"Crystal",
-				"Aira Item",
-				"Merchant Item"
-			],
-			"useful": true
-		},
+		"name": "Sand Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Aira Item"
+		],
+		"id": 99
+	},
+	{
+		"count": 1,
+		"name": "Blazing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Selling Unlockable"
+		],
+		"useful": true,
+		"id": 96
+	},
+	{
+		"count": 1,
+		"name": "Wing Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Trading Reward"
+		],
+		"useful": true,
+		"id": 98
+	},
+	{
+		"count": 1,
+		"name": "Shell Charm",
+		"category": [
+			"Equipment",
+			"Charm",
+			"Trading Reward"
+		],
+		"useful": true,
+  		"id": 97
+	},
+	{
+		"count": 1,
+		"name": "Fire Crystal",
+		"category": [
+			"Equipment",
+			"Crystal"
+		],
+		"useful": true
+	},
+  	{
+		"count": 2,
+		"name": "Water Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Aira Item",
+			"Merchant Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
       "name": "Earth Crystal",
@@ -1508,16 +1508,16 @@
       ],
       "useful": true
     },
-		{
-			"count": 1,
-			"name": "Paralysis Crystal",
-			"category": [
-				"Equipment",
-				"Crystal",
-				"Trading Reward"
-			],
-			"useful": true
-		},
+	{
+		"count": 1,
+		"name": "Paralysis Crystal",
+		"category": [
+			"Equipment",
+			"Crystal",
+			"Trading Reward"
+		],
+		"useful": true
+	},
     {
 		"count": 1,
 		"name": "Poison Crystal",
@@ -1574,27 +1574,27 @@
       "progresion_skip_balancing": true,
       "useful": true
     },
-		{
-			"count": 1,
-			"name": "Food Emblem",
-			"category": [
-				"Equipment",
-				"Emblem",
-				"Survival Dungeon Item"
-			],
-			"progresion": true,
-			"useful": true
-		},
-		{
-			"count": 1,
-			"name": "Wind Emblem",
-			"category": [
-				"Equipment",
-				"Emblem",
-				"Survival Dungeon Item"
-			],
-			"useful": true
-		},
+	{
+		"count": 1,
+		"name": "Food Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"progresion": true,
+		"useful": true
+	},
+	{
+		"count": 1,
+		"name": "Wind Emblem",
+		"category": [
+			"Equipment",
+			"Emblem",
+			"Survival Dungeon Item"
+		],
+		"useful": true
+	},
     {
       "count": 1,
       "name": "Water Emblem",
@@ -1663,18 +1663,19 @@
         "Trading Reward"
       ]
     },
-		{"classification_count": {
-        "useful": 1,
-        "filler": 1
-      },
-			"name": "Antivenom",
-			"category": [
-				"Equipment",
-				"Other",
-				"Aira Item",
-				"Merchant Item"
-			]
+	{
+		"classification_count": {
+			"useful": 1,
+			"filler": 1
 		},
+		"name": "Antivenom",
+		"category": [
+			"Equipment",
+			"Other",
+			"Aira Item",
+			"Merchant Item"
+		]
+	},
     {
       "count": 1,
       "name": "Backscratcher",
