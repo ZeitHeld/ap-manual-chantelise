@@ -121,6 +121,8 @@
       "id": 42,
       "sort-key": "row-0-4-2"
     },
+
+    
     {
       "name": "Tutorial 3 - Hidden Treasure",
       "region": "The Plains",
@@ -521,6 +523,8 @@
       "id": 163,
       "sort-key": "row-1-6-3"
     },
+
+    
     {
       "name": "Defeat Terran Golem - Reward",
       "region": "Terran Ruins",
@@ -659,13 +663,7 @@
       "id": 241,
       "sort-key": "row-2-4-1"
     },
-    {
-      "name": "Defeat The Forgotten Archdevil",
-      "region": "Sealed Palace",
-      "victory": true,
-      "category": ["Goal"],
-      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|"
-    },
+
     
     {
       "name": "Aira's Shop - Buy Item 1 (Leather Glove)",
@@ -1194,6 +1192,8 @@
       "prehint": false,
       "id": 404
     },
+
+    
     {
       "name": "Sell Unlock - Dragon Buster Unlock",
       "region": "Sell Unlock",
@@ -1249,6 +1249,8 @@
       "prehint": false,
       "id": 414
     },
+
+    
     {
       "name": "Fish Trade - Golden Scales",
       "region": "Fish Trading",
@@ -1503,8 +1505,10 @@
       "id": 516,
       "sort-key": "row-5-0-16"
     },
+
+    
     {
-      "name": "Tutorial 3 Clear",
+      "name": "Tutorial 3 - Clear",
       "region": "The Plains",
       "category": [
         "Stagesanity",
@@ -1515,7 +1519,7 @@
       "sort-key": "row-6-0-3"
     },
     {
-      "name": "Path to the Ruins Clear",
+      "name": "Path to the Ruins - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1526,7 +1530,7 @@
       "sort-key": "row-6-1-1"
     },
     {
-      "name": "Ruined Main Gate Clear",
+      "name": "Ruined Main Gate - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1537,7 +1541,7 @@
       "sort-key": "row-6-1-2"
     },
     {
-      "name": "Grand Staircase Clear",
+      "name": "Grand Staircase - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1548,7 +1552,7 @@
       "sort-key": "row-6-1-3"
     },
     {
-      "name": "Hall Clear",
+      "name": "Hall - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1559,7 +1563,7 @@
       "sort-key": "row-6-1-4"
     },
     {
-      "name": "Cave (Terran Ruins) Clear",
+      "name": "Cave (Terran Ruins) - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1570,7 +1574,7 @@
       "sort-key": "row-6-1-5"
     },
     {
-      "name": "Insect King's Lair Clear",
+      "name": "Insect King's Lair - Clear",
       "region": "Terran Ruins",
       "category": [
         "Stagesanity",
@@ -1581,7 +1585,7 @@
       "sort-key": "row-6-1-7"
     },
     {
-      "name": "The Mountain Path Clear",
+      "name": "The Mountain Path - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1592,7 +1596,7 @@
       "sort-key": "row-6-2-1"
     },
     {
-      "name": "Volcano Path Clear",
+      "name": "Volcano Path - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1603,7 +1607,7 @@
       "sort-key": "row-6-2-2"
     },
     {
-      "name": "Lava Pools Clear",
+      "name": "Lava Pools - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1614,7 +1618,7 @@
       "sort-key": "row-6-2-3"
     },
     {
-      "name": "Entrance to the Ruins Clear",
+      "name": "Entrance to the Ruins - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1625,7 +1629,7 @@
       "sort-key": "row-6-2-4"
     },
     {
-      "name": "Halls of Flame Clear",
+      "name": "Halls of Flame - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1636,7 +1640,7 @@
       "sort-key": "row-6-2-5"
     },
     {
-      "name": "Colliseum Clear",
+      "name": "Colliseum - Clear",
       "region": "Ignan Ruins",
       "category": [
         "Stagesanity",
@@ -1647,7 +1651,7 @@
       "sort-key": "row-6-2-7"
     },
     {
-      "name": "Wetland Clear",
+      "name": "Wetland - Clear",
       "region": "Aquan Ruins",
       "category": [
         "Stagesanity",
@@ -1658,7 +1662,7 @@
       "sort-key": "row-6-3-1"
     },
     {
-      "name": "Bridge to the Ruins Clear",
+      "name": "Bridge to the Ruins - Clear",
       "region": "Aquan Ruins",
       "category": [
         "Stagesanity",
@@ -1669,7 +1673,7 @@
       "sort-key": "row-6-3-2"
     },
     {
-      "name": "Spiral Corridor Clear",
+      "name": "Spiral Corridor - Clear",
       "region": "Aquan Ruins",
       "category": [
         "Stagesanity",
@@ -1691,7 +1695,7 @@
       "sort-key": "row-6-3-4"
     },
     {
-      "name": "Silent Church Clear",
+      "name": "Silent Church - Clear",
       "region": "Aquan Ruins",
       "category": [
         "Stagesanity",
@@ -1702,7 +1706,7 @@
       "sort-key": "row-6-3-5"
     },
     {
-      "name": "Waterways Clear",
+      "name": "Waterways - Clear",
       "region": "Aquan Ruins",
       "category": [
         "Stagesanity",
@@ -1713,7 +1717,7 @@
       "sort-key": "row-6-3-7"
     },
     {
-      "name": "Forest of Miasma Clear",
+      "name": "Forest of Miasma - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1724,7 +1728,7 @@
       "sort-key": "row-6-4-1"
     },
     {
-      "name": "Emperor-Bug's Tomb Clear",
+      "name": "Emperor-Bug's Tomb - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1735,7 +1739,7 @@
       "sort-key": "row-6-4-2"
     },
     {
-      "name": "The Windmill Bridge Clear",
+      "name": "The Windmill Bridge - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1746,7 +1750,7 @@
       "sort-key": "row-6-4-3"
     },
     {
-      "name": "Engine Room Clear",
+      "name": "Engine Room - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1757,7 +1761,7 @@
       "sort-key": "row-6-4-4"
     },
     {
-      "name": "The Tempest Clear",
+      "name": "The Tempest - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1768,7 +1772,7 @@
       "sort-key": "row-6-4-5"
     },
     {
-      "name": "Floating Gardens Clear",
+      "name": "Floating Gardens - Clear",
       "region": "Zephyran Ruins",
       "category": [
         "Stagesanity",
@@ -1779,7 +1783,7 @@
       "sort-key": "row-6-4-7"
     },
     {
-      "name": "Path to the Palace Clear",
+      "name": "Path to the Palace - Clear",
       "region": "Sealed Palace",
       "category": [
         "Stagesanity",
@@ -1790,7 +1794,7 @@
       "sort-key": "row-6-5-1"
     },
     {
-      "name": "Crystal Hall Clear",
+      "name": "Crystal Hall - Clear",
       "region": "Sealed Palace",
       "category": [
         "Stagesanity",
@@ -1801,7 +1805,7 @@
       "sort-key": "row-6-5-2"
     },
     {
-      "name": "Sealed Door Clear",
+      "name": "Sealed Door - Clear",
       "region": "Sealed Palace",
       "category": [
         "Stagesanity",
@@ -1812,7 +1816,7 @@
       "sort-key": "row-6-5-3"
     },
     {
-      "name": "The Silhouette Clear",
+      "name": "The Silhouette - Clear",
       "region": "Sealed Palace",
       "category": [
         "Stagesanity",
@@ -1823,7 +1827,7 @@
       "sort-key": "row-6-5-4"
     },
     {
-      "name": "The Showdown Clear",
+      "name": "The Showdown - Clear",
       "region": "Sealed Palace",
       "category": [
         "Stagesanity",
@@ -1845,7 +1849,7 @@
       "sort-key": "row-6-5-7"
     },
     {
-      "name": "Forest, the First Clear",
+      "name": "Forest, the First - Clear",
       "region": "Familiar Forest",
       "category": [
         "Stagesanity",
@@ -1856,7 +1860,7 @@
       "sort-key": "row-6-6-1"
     },
     {
-      "name": "Forest, the Second Clear",
+      "name": "Forest, the Second - Clear",
       "region": "Familiar Forest",
       "category": [
         "Stagesanity",
@@ -1867,7 +1871,7 @@
       "sort-key": "row-6-6-2"
     },
     {
-      "name": "Cave (Familiar Forest) Clear",
+      "name": "Cave (Familiar Forest) - Clear",
       "region": "Familiar Forest",
       "category": [
         "Stagesanity",
@@ -1878,7 +1882,7 @@
       "sort-key": "row-6-6-3"
     },
     {
-      "name": "Rat Hole Clear",
+      "name": "Rat Hole - Clear",
       "region": "Familiar Forest",
       "category": [
         "Stagesanity",
@@ -1889,7 +1893,7 @@
       "sort-key": "row-6-6-4"
     },
     {
-      "name": "Survival Dungeon Floor 10 Clear",
+      "name": "Survival Dungeon Floor 10 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1900,7 +1904,7 @@
       "sort-key": "row-6-7-10"
     },
     {
-      "name": "Survival Dungeon Floor 20 Clear",
+      "name": "Survival Dungeon Floor 20 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1911,7 +1915,7 @@
       "sort-key": "row-6-7-20"
     },
     {
-      "name": "Survival Dungeon Floor 30 Clear",
+      "name": "Survival Dungeon Floor 30 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1922,7 +1926,7 @@
       "sort-key": "row-6-7-30"
     },
     {
-      "name": "Survival Dungeon Floor 40 Clear",
+      "name": "Survival Dungeon Floor 40 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1933,7 +1937,7 @@
       "sort-key": "row-6-7-40"
     },
     {
-      "name": "Survival Dungeon Floor 50 Clear",
+      "name": "Survival Dungeon Floor 50 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1944,7 +1948,7 @@
       "sort-key": "row-6-7-50"
     },
     {
-      "name": "Survival Dungeon Floor 60 Clear",
+      "name": "Survival Dungeon Floor 60 - Clear",
       "region": "Survival Dungeon",
       "category": [
         "Stagesanity",
@@ -1954,6 +1958,8 @@
       "id": 676,
       "sort-key": "row-6-7-60"
     },
+
+    
     {
       "name": "Catch First Axolotl",
       "region": "Fishsanity",
@@ -2414,6 +2420,8 @@
       "id": 773,
       "sort-key": "row-7-2-13"
     },
+
+    
     {
       "name": "Ruined Main Gate - Treasure Chest",
       "region": "Terran Ruins",
@@ -2464,8 +2472,10 @@
       "id": 841,
       "sort-key": "row-8-4-1"
     },
+
+    
     {
-      "name": "Town Dead End Front Barrel",
+      "name": "Town - Dead End Front Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2475,7 +2485,7 @@
       "sort-key": "row-10-0-1"
     },
     {
-      "name": "Town Dead End Back Barrel",
+      "name": "Town - Dead End Back Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2485,7 +2495,7 @@
       "sort-key": "row-10-0-2"
     },
     {
-      "name": "Town Shop Near Sign Barrel",
+      "name": "Town - Shop Near Sign Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2495,7 +2505,7 @@
       "sort-key": "row-10-0-3"
     },
     {
-      "name": "Town Front House Barrel",
+      "name": "Town - Front House Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2505,7 +2515,7 @@
       "sort-key": "row-10-0-4"
     },
     {
-      "name": "Town Back House Barrel",
+      "name": "Town - Back House Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2515,7 +2525,7 @@
       "sort-key": "row-10-0-5"
     },
     {
-      "name": "Town Back Sign Barrel",
+      "name": "Town - Back Sign Barrel",
       "region": "Town",
       "category": [
         "Barrelsanity"
@@ -2525,7 +2535,7 @@
       "sort-key": "row-10-0-6"
     },
     {
-      "name": "Grand Staircase Top West Barrel",
+      "name": "Grand Staircase - Top West Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2535,7 +2545,7 @@
       "sort-key": "row-10-2-1"
     },
     {
-      "name": "Grand Staircase Top East Barrel",
+      "name": "Grand Staircase - Top East Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2545,7 +2555,7 @@
       "sort-key": "row-10-2-2"
     },
     {
-      "name": "Grand Staircase Center Barrel",
+      "name": "Grand Staircase - Center Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2555,7 +2565,7 @@
       "sort-key": "row-10-2-3"
     },
     {
-      "name": "Grand Staircase Middle East Barrel",
+      "name": "Grand Staircase - Middle East Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2565,7 +2575,7 @@
       "sort-key": "row-10-2-4"
     },
     {
-      "name": "Grand Staircase Middle West Egg Toast Barrel",
+      "name": "Grand Staircase - Middle West Egg Toast Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2575,7 +2585,7 @@
       "sort-key": "row-10-2-5"
     },
     {
-      "name": "Hall Hidden Treasure Barrel",
+      "name": "Hall Hidden - Treasure Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2585,7 +2595,7 @@
       "sort-key": "row-10-2-6"
     },
     {
-      "name": "Terran Cave Entrance Barrel",
+      "name": "Cave (Terran Ruins) - Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2595,7 +2605,7 @@
       "sort-key": "row-10-2-7"
     },
     {
-      "name": "Terran Cave Roast Chicken Barrel",
+      "name": "Cave (Terran Ruins) - Roast Chicken Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2605,7 +2615,7 @@
       "sort-key": "row-10-2-8"
     },
     {
-      "name": "Terran Cave South-West Barrel",
+      "name": "Cave (Terran Ruins) - South-West Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2615,7 +2625,7 @@
       "sort-key": "row-10-2-9"
     },
     {
-      "name": "Terran Cave North-West Barrel",
+      "name": "Cave (Terran Ruins) - North-West Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2625,7 +2635,7 @@
       "sort-key": "row-10-2-10"
     },
     {
-      "name": "Deepest Caverns North Entrance Barrel",
+      "name": "Deepest Caverns - North Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2635,7 +2645,7 @@
       "sort-key": "row-10-2-11"
     },
     {
-      "name": "Deepest Caverns West Entrance Barrel",
+      "name": "Deepest Caverns - West Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2645,7 +2655,7 @@
       "sort-key": "row-10-2-12"
     },
     {
-      "name": "Deepest Caverns South Entrance Barrel",
+      "name": "Deepest Caverns - South Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2655,7 +2665,7 @@
       "sort-key": "row-10-2-13"
     },
     {
-      "name": "Deepest Caverns East Entrance Barrel",
+      "name": "Deepest Caverns - East Entrance Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2665,7 +2675,7 @@
       "sort-key": "row-10-2-14"
     },
     {
-      "name": "Deepest Caverns Lonely Barrel",
+      "name": "Deepest Caverns - Lonely Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2675,7 +2685,7 @@
       "sort-key": "row-10-2-15"
     },
     {
-      "name": "Insect King's Lair North Barrel",
+      "name": "Insect King's Lair - North Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2685,7 +2695,7 @@
       "sort-key": "row-10-2-16"
     },
     {
-      "name": "Insect King's Lair East Barrel",
+      "name": "Insect King's Lair - East Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2695,7 +2705,7 @@
       "sort-key": "row-10-2-17"
     },
     {
-      "name": "Insect King's Lair South Barrel",
+      "name": "Insect King's Lair - South Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2705,7 +2715,7 @@
       "sort-key": "row-10-2-18"
     },
     {
-      "name": "Insect King's Lair West Barrel",
+      "name": "Insect King's Lair - West Barrel",
       "region": "Terran Ruins",
       "category": [
         "Barrelsanity"
@@ -2715,7 +2725,7 @@
       "sort-key": "row-10-2-19"
     },
     {
-      "name": "Volcano Path Hidden Treasure Barrel",
+      "name": "Volcano Path - Hidden Treasure Barrel",
       "region": "Ignan Ruins",
       "category": [
         "Barrelsanity"
@@ -2745,7 +2755,7 @@
       "sort-key": "row-10-3-3"
     },
     {
-      "name": "Lava Pools Entrance Center Barrel",
+      "name": "Lava Pools - Entrance Center Barrel",
       "region": "Ignan Ruins",
       "category": [
         "Barrelsanity"
@@ -2755,7 +2765,7 @@
       "sort-key": "row-10-3-4"
     },
     {
-      "name": "Lava Pools Entrance Back Barrel",
+      "name": "Lava Pools - Entrance Back Barrel",
       "region": "Ignan Ruins",
       "category": [
         "Barrelsanity"
@@ -2765,7 +2775,7 @@
       "sort-key": "row-10-3-5"
     },
     {
-      "name": "Crystal Hall Hidden Treasure Barrel",
+      "name": "Crystal Hall - Hidden Treasure Barrel",
       "region": "Sealed Palace",
       "category": [
         "Barrelsanity"
@@ -2775,7 +2785,7 @@
       "sort-key": "row-10-5-1"
     },
     {
-      "name": "Forest, the First Hidden Treasure Chicken Barrel",
+      "name": "Forest, the First - Hidden Treasure Chicken Barrel",
       "region": "Familiar Forest",
       "category": [
         "Barrelsanity"
@@ -2784,8 +2794,10 @@
       "id": 1050,
       "sort-key": "row-10-5-1"
     },
+
+    
     {
-      "name": "Grand Staircase Entrance West Torch",
+      "name": "Grand Staircase - Entrance West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2795,7 +2807,7 @@
       "sort-key": "row-11-1-3-1"
     },
     {
-      "name": "Grand Staircase Entrance East Torch",
+      "name": "Grand Staircase - Entrance East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2805,7 +2817,7 @@
       "sort-key": "row-11-1-3-2"
     },
     {
-      "name": "Grand Staircase Upper Torch",
+      "name": "Grand Staircase - Upper Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2815,7 +2827,7 @@
       "sort-key": "row-11-1-3-3"
     },
     {
-      "name": "Grand Staircase Middle West Torch",
+      "name": "Grand Staircase - Middle West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2825,7 +2837,7 @@
       "sort-key": "row-11-1-3-4"
     },
     {
-      "name": "Grand Staircase Middle East Torch",
+      "name": "Grand Staircase - Middle East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2835,7 +2847,7 @@
       "sort-key": "row-11-1-3-5"
     },
     {
-      "name": "Grand Staircase Lower West Torch",
+      "name": "Grand Staircase - Lower West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2845,7 +2857,7 @@
       "sort-key": "row-11-1-3-6"
     },
     {
-      "name": "Grand Staircase Lower East Torch",
+      "name": "Grand Staircase - Lower East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2855,7 +2867,7 @@
       "sort-key": "row-11-1-3-7"
     },
     {
-      "name": "Grand Staircase Exit West Torch",
+      "name": "Grand Staircase - Exit West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2865,7 +2877,7 @@
       "sort-key": "row-11-1-3-8"
     },
     {
-      "name": "Grand Staircase Exit East Torch",
+      "name": "Grand Staircase - Exit East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2875,7 +2887,7 @@
       "sort-key": "row-11-1-3-9"
     },
     {
-      "name": "Hall Entrance West Torch",
+      "name": "Hall - Entrance West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2885,7 +2897,7 @@
       "sort-key": "row-11-1-4-1"
     },
     {
-      "name": "Hall Entrance East Torch",
+      "name": "Hall - Entrance East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2895,7 +2907,7 @@
       "sort-key": "row-11-1-4-2"
     },
     {
-      "name": "Hall Exit West Torch",
+      "name": "Hall - Exit West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2905,7 +2917,7 @@
       "sort-key": "row-11-1-4-3"
     },
     {
-      "name": "Hall Exit East Torch",
+      "name": "Hall - Exit East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2915,7 +2927,7 @@
       "sort-key": "row-11-1-4-4"
     },
     {
-      "name": "Cave (Terran Ruins) Center Torch",
+      "name": "Cave (Terran Ruins) - Center Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2925,7 +2937,7 @@
       "sort-key": "row-11-1-5-1"
     },
     {
-      "name": "Cave (Terran Ruins) Dead-End Torch",
+      "name": "Cave (Terran Ruins) - Dead-End Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2935,7 +2947,7 @@
       "sort-key": "row-11-1-5-2"
     },
     {
-      "name": "Cave (Terran Ruins) Exit West Torch",
+      "name": "Cave (Terran Ruins) - Exit West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2945,7 +2957,7 @@
       "sort-key": "row-11-1-5-3"
     },
     {
-      "name": "Cave (Terran Ruins) Exit East Torch",
+      "name": "Cave (Terran Ruins) - Exit East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2955,7 +2967,7 @@
       "sort-key": "row-11-1-5-4"
     },
     {
-      "name": "Deepest Caverns Entrance West Torch",
+      "name": "Deepest Caverns - Entrance West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2965,7 +2977,7 @@
       "sort-key": "row-11-1-6-1"
     },
     {
-      "name": "Deepest Caverns Entrance East Torch",
+      "name": "Deepest Caverns - Entrance East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2975,7 +2987,7 @@
       "sort-key": "row-11-1-6-2"
     },
     {
-      "name": "Deepest Caverns Arena South-West Torch",
+      "name": "Deepest Caverns - Arena South-West Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -2985,7 +2997,7 @@
       "sort-key": "row-11-1-6-3"
     },
     {
-      "name": "Deepest Caverns Arena South-East Torch",
+      "name": "Deepest Caverns - Arena South-East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -3005,7 +3017,7 @@
       "sort-key": "row-11-1-6-5"
     },
     {
-      "name": "Deepest Caverns Arena North-East Torch",
+      "name": "Deepest Caverns - Arena North-East Torch",
       "region": "Terran Ruins",
       "category": [
         "Other Breakables"
@@ -3015,7 +3027,7 @@
       "sort-key": "row-11-1-6-6"
     },
     {
-      "name": "Silent Church Western Front Cadlestick",
+      "name": "Silent Church - Western Front Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3025,7 +3037,7 @@
       "sort-key": "row-11-3-5-1"
     },
     {
-      "name": "Silent Church Western Middle Cadlestick",
+      "name": "Silent Church - Western Middle Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3035,7 +3047,7 @@
       "sort-key": "row-11-3-5-2"
     },
     {
-      "name": "Silent Church Western Back Cadlestick",
+      "name": "Silent Church - Western Back Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3045,7 +3057,7 @@
       "sort-key": "row-11-3-5-3"
     },
     {
-      "name": "Silent Church Eastern Front Cadlestick",
+      "name": "Silent Church - Eastern Front Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3055,7 +3067,7 @@
       "sort-key": "row-11-3-5-4"
     },
     {
-      "name": "Silent Church Eastern Middle Cadlestick",
+      "name": "Silent Church - Eastern Middle Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3065,7 +3077,7 @@
       "sort-key": "row-11-3-5-5"
     },
     {
-      "name": "Silent Church Eastern Back Cadlestick",
+      "name": "Silent Church - Eastern Back Cadlestick",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3075,7 +3087,7 @@
       "sort-key": "row-11-3-5-6"
     },
     {
-      "name": "Crystal Hall East Crystal",
+      "name": "Crystal Hall - East Crystal",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3085,7 +3097,7 @@
       "sort-key": "row-11-5-2-1"
     },
     {
-      "name": "Crystal Hall West Crystal",
+      "name": "Crystal Hall - West Crystal",
       "region": "Aquan Ruins",
       "category": [
         "Other Breakables"
@@ -3094,8 +3106,10 @@
       "id": 1131,
       "sort-key": "row-11-5-2-2"
     },
+
+    
     {
-      "name": "Town East Tree",
+      "name": "Town - East Tree",
       "region": "Town",
       "category": [
         "Treesanity"
@@ -3105,7 +3119,7 @@
       "sort-key": "row-12-0-0-1"
     },
     {
-      "name": "Town West Tree",
+      "name": "Town - West Tree",
       "region": "Town",
       "category": [
         "Treesanity"
@@ -3115,7 +3129,7 @@
       "sort-key": "row-12-0-0-2"
     },
     {
-      "name": "The Plains Entrance Left Small Tree",
+      "name": "The Plains - Entrance Left Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3125,7 +3139,7 @@
       "sort-key": "row-12-0-1-1"
     },
     {
-      "name": "The Plains Entrance Right Small Tree",
+      "name": "The Plains - Entrance Right Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3135,7 +3149,7 @@
       "sort-key": "row-12-0-1-2"
     },
     {
-      "name": "The Plains Entrance Tree",
+      "name": "The Plains - Entrance Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3145,7 +3159,7 @@
       "sort-key": "row-12-0-1-3"
     },
     {
-      "name": "The Plains Entrance Lonely Small Tree",
+      "name": "The Plains - Entrance Lonely Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3155,7 +3169,7 @@
       "sort-key": "row-12-0-1-4"
     },
     {
-      "name": "The Plains Entrance West River Tree",
+      "name": "The Plains - Entrance West River Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3175,7 +3189,7 @@
       "sort-key": "row-12-0-1-6"
     },
     {
-      "name": "The Plains Northern River Tree",
+      "name": "The Plains - Northern River Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3185,7 +3199,7 @@
       "sort-key": "row-12-0-1-7"
     },
     {
-      "name": "The Plains Northern River Small Tree",
+      "name": "The Plains - Northern River Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3195,7 +3209,7 @@
       "sort-key": "row-12-0-1-8"
     },
     {
-      "name": "The Plains Northern Lonely Tree",
+      "name": "The Plains - Northern Lonely Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3205,7 +3219,7 @@
       "sort-key": "row-12-0-1-9"
     },
     {
-      "name": "The Plains Hidden Treasure Tree",
+      "name": "The Plains - Hidden Treasure Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3215,7 +3229,7 @@
       "sort-key": "row-12-0-1-10"
     },
     {
-      "name": "The Plains Hidden Treasure Small Tree",
+      "name": "The Plains - Hidden Treasure Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3225,7 +3239,7 @@
       "sort-key": "row-12-0-1-11"
     },
     {
-      "name": "The Plains Near Exit Tree",
+      "name": "The Plains - Near Exit Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3235,7 +3249,7 @@
       "sort-key": "row-12-0-1-12"
     },
     {
-      "name": "The Plains Near Exit River Small Tree",
+      "name": "The Plains - Near Exit River Small Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3245,7 +3259,7 @@
       "sort-key": "row-12-0-1-13"
     },
     {
-      "name": "The Plains Exit Tree",
+      "name": "The Plains - Exit Tree",
       "region": "The Plains",
       "category": [
         "Treesanity"
@@ -3255,7 +3269,7 @@
       "sort-key": "row-12-0-1-14"
     },
     {
-      "name": "Ruined Main Gate Entrance Western Tree",
+      "name": "Ruined Main Gate - Entrance Western Tree",
       "region": "Terran Ruins",
       "category": [
         "Treesanity"
@@ -3265,7 +3279,7 @@
       "sort-key": "row-12-1-2-1"
     },
     {
-      "name": "Ruined Main Gate Entrance Eastern Tree",
+      "name": "Ruined Main Gate - Entrance Eastern Tree",
       "region": "Terran Ruins",
       "category": [
         "Treesanity"
@@ -3275,7 +3289,7 @@
       "sort-key": "row-12-1-2-2"
     },
     {
-      "name": "Ruined Main Gate Exit Eastern Tree",
+      "name": "Ruined Main Gate - Exit Eastern Tree",
       "region": "Terran Ruins",
       "category": [
         "Treesanity"
@@ -3285,7 +3299,7 @@
       "sort-key": "row-12-1-2-3"
     },
     {
-      "name": "Ruined Main Gate Exit North-Western Tree",
+      "name": "Ruined Main Gate - Exit North-Western Tree",
       "region": "Terran Ruins",
       "category": [
         "Treesanity"
@@ -3295,7 +3309,7 @@
       "sort-key": "row-12-1-2-4"
     },
     {
-      "name": "Ruined Main Gate Exit South-Western Tree",
+      "name": "Ruined Main Gate - Exit South-Western Tree",
       "region": "Terran Ruins",
       "category": [
         "Treesanity"
@@ -3305,7 +3319,7 @@
       "sort-key": "row-12-1-2-5"
     },
     {
-      "name": "Volcano Path Tree",
+      "name": "Volcano Path - Tree",
       "region": "Ignan Ruins",
       "category": [
         "Treesanity"
@@ -3315,7 +3329,7 @@
       "sort-key": "row-12-2-2-1"
     },
     {
-      "name": "Wetland Entrance Water Tree",
+      "name": "Wetland - Entrance Water Tree",
       "region": "Aquan Ruins",
       "category": [
         "Treesanity"
@@ -3325,7 +3339,7 @@
       "sort-key": "row-12-3-1-1"
     },
     {
-      "name": "Wetland North-East Water Tree",
+      "name": "Wetland - North-East Water Tree",
       "region": "Aquan Ruins",
       "category": [
         "Treesanity"
@@ -3335,7 +3349,7 @@
       "sort-key": "row-12-3-1-2"
     },
     {
-      "name": "Wetland North-West Water Tree",
+      "name": "Wetland - North-West Water Tree",
       "region": "Aquan Ruins",
       "category": [
         "Treesanity"
@@ -3345,7 +3359,7 @@
       "sort-key": "row-12-3-1-4"
     },
     {
-      "name": "Bridge to the Ruins West Tree",
+      "name": "Bridge to the Ruins - West Tree",
       "region": "Aquan Ruins",
       "category": [
         "Treesanity"
@@ -3355,7 +3369,7 @@
       "sort-key": "row-12-3-2-1"
     },
     {
-      "name": "Bridge to the Ruins East Tree",
+      "name": "Bridge to the Ruins - East Tree",
       "region": "Aquan Ruins",
       "category": [
         "Treesanity"
@@ -3365,7 +3379,7 @@
       "sort-key": "row-12-3-2-2"
     },
     {
-      "name": "The Windmill Bridge West Entrance Tree",
+      "name": "The Windmill Bridge - West Entrance Tree",
       "region": "Zephyran Ruins",
       "category": [
         "Treesanity"
@@ -3375,7 +3389,7 @@
       "sort-key": "row-12-4-3-1"
     },
     {
-      "name": "The Windmill Bridge West Cliff Tree",
+      "name": "The Windmill Bridge - West Cliff Tree",
       "region": "Zephyran Ruins",
       "category": [
         "Treesanity"
@@ -3385,7 +3399,7 @@
       "sort-key": "row-12-4-3-2"
     },
     {
-      "name": "The Windmill Bridge East Wall Tree",
+      "name": "The Windmill Bridge - East Wall Tree",
       "region": "Zephyran Ruins",
       "category": [
         "Treesanity"
@@ -3395,7 +3409,7 @@
       "sort-key": "row-12-4-3-3"
     },
     {
-      "name": "The Windmill Bridge East Bridge Tree",
+      "name": "The Windmill Bridge - East Bridge Tree",
       "region": "Zephyran Ruins",
       "category": [
         "Treesanity"
@@ -3405,7 +3419,7 @@
       "sort-key": "row-12-4-3-4"
     },
     {
-      "name": "The Windmill Bridge East Slope Tree",
+      "name": "The Windmill Bridge - East Slope Tree",
       "region": "Zephyran Ruins",
       "category": [
         "Treesanity"
@@ -3415,7 +3429,7 @@
       "sort-key": "row-12-4-3-5"
     },
     {
-      "name": "Resting Place Entrance Tree",
+      "name": "Resting Place - Entrance Tree",
       "region": "Familiar Forest",
       "category": [
         "Treesanity"
@@ -3425,7 +3439,7 @@
       "sort-key": "row-12-6-0-1"
     },
     {
-      "name": "Resting Place Exit Tree",
+      "name": "Resting Place - Exit Tree",
       "region": "Familiar Forest",
       "category": [
         "Treesanity"
@@ -3435,7 +3449,7 @@
       "sort-key": "row-12-6-0-2"
     },
     {
-      "name": "Resting Place Merchant Tree",
+      "name": "Resting Place - Merchant Tree",
       "region": "Familiar Forest",
       "category": [
         "Treesanity"
@@ -3445,7 +3459,7 @@
       "sort-key": "row-12-6-0-3"
     },
     {
-      "name": "Resting Place River Tree",
+      "name": "Resting Place - River Tree",
       "region": "Familiar Forest",
       "category": [
         "Treesanity"
@@ -3455,7 +3469,7 @@
       "sort-key": "row-12-6-0-4"
     },
     {
-      "name": "Resting Place Small Tree",
+      "name": "Resting Place - Small Tree",
       "region": "Familiar Forest",
       "category": [
         "Treesanity"
@@ -3464,10 +3478,22 @@
       "id": 1254,
       "sort-key": "row-12-6-0-5"
     },
+
+
+    {
+      "name": "Defeat The Forgotten Archdevil",
+      "region": "Sealed Palace",
+      "victory": true,
+      "category": ["Goal"],
+      "requires": "|Every Main Palace Stage| AND |Can Heal| AND |Progressive Equipment Slot:2| AND |Any Tier 3 Spell| AND |Has High Magic Attack| AND |Has High Defense| AND |Has High Magic Defense|",
+      "id": 9000,
+      "sort-key": "row-90-0-0"
+    },
+    
     {
       "name": "Open Every Main Hidden Treasure",
       "region": "Map",
-      "category": [""],
+      "category": ["Tough Challenge"],
       "requires": "|All Hidden Treasures Main Access|",
       "id": 9000,
       "sort-key": "row-90-0-0"
