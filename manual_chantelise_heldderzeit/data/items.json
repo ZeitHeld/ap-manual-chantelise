@@ -2384,6 +2384,16 @@
       ],
       "progression": true,
       "id": 18
+    }, 
+    {
+      "count": 1,
+      "name": "Treasure Chest Key",
+      "category": [
+        "Unlocker",
+		"Chest Locking"
+      ],
+      "progression": true,
+      "id": 19
     }
   ]
 }
