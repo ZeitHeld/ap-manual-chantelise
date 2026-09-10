@@ -129,7 +129,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|Can Defeat Magical Enemy|",
+      "requires": "|Chest Unlock| AND (|Can Defeat Magical Enemy|)",
       "id": 100,
       "sort-key": "row-1-0-0"
     },
@@ -139,7 +139,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 1 Stage| AND |Can Defeat Magical Enemy|",
+      "requires": "|Chest Unlock| AND (|TR 1 Stage| AND |Can Defeat Magical Enemy|)",
       "id": 110,
       "sort-key": "row-1-1-0"
     },
@@ -149,7 +149,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 2 Stage|",
+      "requires": "|Chest Unlock| AND (|TR 2 Stage|)",
       "id": 111,
       "sort-key": "row-1-1-1"
     },
@@ -159,7 +159,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 3 Stage|",
+      "requires": "|Chest Unlock| AND (|TR 3 Stage|)",
       "id": 112,
       "sort-key": "row-1-1-2"
     },
@@ -169,7 +169,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 4 Stage|",
+      "requires": "|Chest Unlock| AND (|TR 4 Stage|)",
       "id": 113,
       "sort-key": "row-1-1-3"
     },
@@ -179,7 +179,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR 5 Stage|",
+      "requires": "|Chest Unlock| AND (|TR 5 Stage|)",
       "id": 114,
       "sort-key": "row-1-1-4"
     },
@@ -189,7 +189,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR Boss Stage| AND |Has Mid Magic Attack| AND |Has Mid Defense| AND |Any Tier 2 Spell|",
+      "requires": "|Chest Unlock| AND (|TR Boss Stage| AND |Has Mid Magic Attack| AND |Has Mid Defense| AND |Any Tier 2 Spell|)",
       "id": 115,
       "sort-key": "row-1-1-5"
     },
@@ -199,7 +199,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|TR Bonus Stage|",
+      "requires": "|Chest Unlock| AND (|TR Bonus Stage|)",
       "id": 116,
       "sort-key": "row-1-1-6"
     },
@@ -209,7 +209,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 1 Stage|",
+      "requires": "|Chest Unlock| AND (|IR 1 Stage|)",
       "id": 120,
       "sort-key": "row-1-2-0"
     },
@@ -219,7 +219,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 2 Stage|",
+      "requires": "|Chest Unlock| AND (|IR 2 Stage|)",
       "id": 121,
       "sort-key": "row-1-2-1"
     },
@@ -229,7 +229,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 3 Stage|",
+      "requires": "|Chest Unlock| AND (|IR 3 Stage|)",
       "id": 122,
       "sort-key": "row-1-2-2"
     },
@@ -239,7 +239,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 4 Stage| AND |Can Defeat Magical Enemy|",
+      "requires": "|Chest Unlock| AND (|IR 4 Stage| AND |Can Defeat Magical Enemy|)",
       "id": 123,
       "sort-key": "row-1-2-3"
     },
@@ -249,7 +249,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR 5 Stage|",
+      "requires": "|Chest Unlock| AND (|IR 5 Stage|)",
       "id": 124,
       "sort-key": "row-1-2-4"
     },
@@ -259,7 +259,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR Boss Stage| AND |Has Mid Defense|",
+      "requires": "|Chest Unlock| AND (|IR Boss Stage| AND |Has Mid Defense|)",
       "id": 125,
       "sort-key": "row-1-2-5"
     },
@@ -269,7 +269,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|IR Bonus Stage|",
+      "requires": "|Chest Unlock| AND (|IR Bonus Stage|)",
       "id": 126,
       "sort-key": "row-1-2-6"
     },
@@ -279,7 +279,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 1 Stage| AND |Winged Boots|",
+      "requires": "|Chest Unlock| AND (|AR 1 Stage| AND |Winged Boots|)",
       "id": 130,
       "sort-key": "row-1-3-0"
     },
@@ -289,7 +289,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 2 Stage|",
+      "requires": "|Chest Unlock| AND (|AR 2 Stage|)",
       "id": 131,
       "sort-key": "row-1-3-1"
     },
@@ -299,7 +299,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 3 Stage|",
+      "requires": "|Chest Unlock| AND (|AR 3 Stage|)",
       "id": 132,
       "sort-key": "row-1-3-2"
     },
@@ -309,7 +309,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 4 Stage|",
+      "requires": "|Chest Unlock| AND (|AR 4 Stage|)",
       "id": 133,
       "sort-key": "row-1-3-3"
     },
@@ -319,7 +319,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR 5 Stage| AND |Can Defeat Magical Enemy|",
+      "requires": "|Chest Unlock| AND (|AR 5 Stage| AND |Can Defeat Magical Enemy|)",
       "id": 134,
       "sort-key": "row-1-3-4"
     },
@@ -329,7 +329,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR Boss Stage|",
+      "requires": "|Chest Unlock| AND (|AR Boss Stage|)",
       "id": 135,
       "sort-key": "row-1-3-5"
     },
@@ -339,7 +339,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|AR Bonus Stage|",
+      "requires": "|Chest Unlock| AND (|AR Bonus Stage|)",
       "id": 136,
       "sort-key": "row-1-3-6"
     },
@@ -349,7 +349,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR 1 Stage| AND |Can Fish|",
+      "requires": "|Chest Unlock| AND (|ZR 1 Stage| AND |Can Fish|)",
       "id": 140,
       "sort-key": "row-1-4-0"
     },
@@ -359,7 +359,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR 2 Stage| AND |Winged Boots|",
+      "requires": "|Chest Unlock| AND (|ZR 2 Stage| AND |Winged Boots|)",
       "id": 141,
       "sort-key": "row-1-4-1"
     },
@@ -369,7 +369,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR 3 Stage| AND |Winged Boots|",
+      "requires": "|Chest Unlock| AND (|ZR 3 Stage| AND |Winged Boots|)",
       "id": 142,
       "sort-key": "row-1-4-2"
     },
@@ -379,7 +379,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR 4 Stage|",
+      "requires": "|Chest Unlock| AND (|ZR 4 Stage|)",
       "id": 143,
       "sort-key": "row-1-4-3"
     },
@@ -389,7 +389,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR 5 Stage| AND |Speedboots|",
+      "requires": "|Chest Unlock| AND (|ZR 5 Stage| AND |Speedboots|)",
       "id": 144,
       "sort-key": "row-1-4-4"
     },
@@ -399,7 +399,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR Boss Stage|",
+      "requires": "|Chest Unlock| AND (|ZR Boss Stage|)",
       "id": 145,
       "sort-key": "row-1-4-5"
     },
@@ -409,7 +409,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|ZR Bonus Stage| AND |Winged Boots|",
+      "requires": "|Chest Unlock| AND (|ZR Bonus Stage| AND |Winged Boots|)",
       "id": 146,
       "sort-key": "row-1-4-6"
     },
@@ -419,7 +419,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP 1 Stage| AND |Winged Boots|",
+      "requires": "|Chest Unlock| AND (|SP 1 Stage| AND |Winged Boots|)",
       "id": 150,
       "sort-key": "row-1-5-0"
     },
@@ -429,7 +429,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP 2 Stage|",
+      "requires": "|Chest Unlock| AND (|SP 2 Stage|)",
       "id": 151,
       "sort-key": "row-1-5-1"
     },
@@ -439,7 +439,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP 3 Stage|",
+      "requires": "|Chest Unlock| AND (|SP 3 Stage|)",
       "id": 152,
       "sort-key": "row-1-5-2"
     },
@@ -449,7 +449,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP 4 Stage|",
+      "requires": "|Chest Unlock| AND (|SP 4 Stage|)",
       "id": 153,
       "sort-key": "row-1-5-3"
     },
@@ -459,7 +459,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP 5 Stage| AND |Can Fish|",
+      "requires": "|Chest Unlock| AND (|SP 5 Stage| AND |Can Fish|)",
       "id": 154,
       "sort-key": "row-1-5-4"
     },
@@ -469,7 +469,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP Boss Stage|",
+      "requires": "|Chest Unlock| AND (|SP Boss Stage|)",
       "id": 155,
       "sort-key": "row-1-5-5"
     },
@@ -479,7 +479,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|SP Bonus Stage| AND |Can Fish|",
+      "requires": "|Chest Unlock| AND (|SP Bonus Stage| AND |Can Fish|)",
       "id": 156,
       "sort-key": "row-1-5-6"
     },
@@ -489,7 +489,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF 1 Stage|",
+      "requires": "|Chest Unlock| AND (|FF 1 Stage|)",
       "id": 160,
       "sort-key": "row-1-6-0"
     },
@@ -499,7 +499,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF 2 Stage| AND (|Has High Attack| OR |Has High Magic Attack|)",
+      "requires": "|Chest Unlock| AND (|FF 2 Stage| AND (|Has High Attack| OR |Has High Magic Attack|))",
       "id": 161,
       "sort-key": "row-1-6-1"
     },
@@ -509,7 +509,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF 3 Stage| AND |Can Fish|",
+      "requires": "|Chest Unlock| AND (|FF 3 Stage| AND |Can Fish|)",
       "id": 162,
       "sort-key": "row-1-6-2"
     },
@@ -519,7 +519,7 @@
       "category": [
         "Hidden Treasure"
       ],
-      "requires": "|FF Boss Stage| AND |Can Heal| AND",
+      "requires": "|Chest Unlock| AND (|FF Boss Stage| AND |Can Heal| AND |Has High Defense|)",
       "id": 163,
       "sort-key": "row-1-6-3"
     },
@@ -531,7 +531,7 @@
       "category": [
         "Boss Reward"
       ],
-      "requires": "|TR Boss Stage| AND |@Staff| AND |@Shield|",
+      "requires": "|TR Boss Stage| AND ({YamlDisabled(tough_logic)} AND |@Staff| AND |@Shield|)",
       "dont_place_item_category": [
         "Fish",
         "Treasure"
@@ -545,7 +545,7 @@
       "category": [
         "Boss Flag"
       ],
-      "requires": "|Every Main Terran Stage|",
+      "requires": "|Every Main Terran Stage| AND ({YamlDisabled(tough_logic)} AND |@Staff| AND |@Shield|)",
       "place_item": [
         "Beat Terran Golem Flag"
       ],
@@ -2428,7 +2428,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "|TR 2 Stage|",
+      "requires": "|Chest Unlock| AND |TR 2 Stage|",
       "id": 811,
       "sort-key": "row-8-1-1"
     },
@@ -2438,7 +2438,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "|TR Boss Stage|",
+      "requires": "|Chest Unlock| AND |TR Boss Stage|",
       "id": 815,
       "sort-key": "row-8-1-5"
     },
@@ -2448,7 +2448,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "|IR 2 Stage|",
+      "requires": "|Chest Unlock| AND |IR 2 Stage|",
       "id": 821,
       "sort-key": "row-8-2-1"
     },
@@ -2458,7 +2458,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "|AR 3 Stage|",
+      "requires": "|Chest Unlock| AND |AR 3 Stage|",
       "id": 832,
       "sort-key": "row-8-3-2"
     },
@@ -2468,7 +2468,7 @@
       "category": [
         "Regular Treasure"
       ],
-      "requires": "|ZR 2 Stage|",
+      "requires": "|Chest Unlock| AND |ZR 2 Stage|",
       "id": 841,
       "sort-key": "row-8-4-1"
     },
