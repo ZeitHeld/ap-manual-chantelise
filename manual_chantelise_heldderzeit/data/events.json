@@ -657,5 +657,30 @@
     {
        "name": "Can Summon Golem",
        "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Golem|)"
+    },
+    {
+        "name": "Chest Unlock",
+        "requires": "{YamlDisabled(chest_locks)} OR ({YamlEnabled(chest_locks)} AND |Treasure Chest Key|)"
+    }
+    
+    {
+        "name": "OPTION - Tough Logic - Enabled",
+        "requires": "{YamlEnabled(tough_logic)}",
+        "visible": true
+    },
+    {
+        "name": "OPTION - Spellsanity - Simple",
+        "requires": "{YamlCompare(spellsanity == 1)}",
+        "visible": true
+    },
+    {
+        "name": "OPTION - Spellsanity - Including Tier 2",
+        "requires": "{YamlCompare(spellsanity == 2)}",
+        "visible": true
+    },
+    {
+        "name": "OPTION - Locked Chests - Enabled",
+        "requires": "{YamlEnabled(chest_locks)}",
+        "visible": true
     }
 ]
