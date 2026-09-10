@@ -213,5 +213,11 @@
     },
     "Goal Item": {
         "hidden": false
+    },
+    "Chest Locking": {
+        "yaml_option": [
+            "chest_locks"
+        ],
+        "hidden": true
     }
 }
