@@ -661,7 +661,7 @@
     {
         "name": "Chest Unlock",
         "requires": "{YamlDisabled(chest_locks)} OR ({YamlEnabled(chest_locks)} AND |Treasure Chest Key|)"
-    }
+    },
     
     {
         "name": "OPTION - Tough Logic - Enabled",
