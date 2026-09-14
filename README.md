@@ -48,6 +48,9 @@ It's old and tough but still Charming and fun.
   - There also is an option to include Tier 2 Spells. Tier 1 Spells will ALWAYS be available to cast.
 - Tough Logic (WIP)
   - A harder ruleset of logic requirements for locations. You might be required to make use of the Darkness Crystal to heal, or weaker Equipment to defeat Bosses or Clear Dungeons.
+- Locked Chests
+  - ONLY USE THIS TOGETHER OTHER OPTIONS
+  - Chests are locked and require a key to be found to be able to open them.
 
 ## Upcoming/Planned Features
 - Grasssanity?
