@@ -10,7 +10,7 @@
       ],
       "progression": true,
       "early": true,
-      "id": 9
+      "id": 85770009
     },
     {
       "count": 1,
@@ -21,7 +21,7 @@
       ],
       "progression": true,
       "early": true,
-      "id": 1
+      "id": 85770001
     },
     {
       "count": 1,
@@ -31,7 +31,7 @@
         "Separate Dungeon"
       ],
       "progression": true,
-      "id": 2
+      "id": 85770002
     },
     {
       "count": 1,
@@ -41,7 +41,7 @@
         "Separate Dungeon"
       ],
       "progression": true,
-      "id": 3
+      "id": 85770003
     },
     {
       "count": 1,
@@ -51,7 +51,7 @@
         "Separate Dungeon"
       ],
       "progression": true,
-      "id": 4
+      "id": 8577004
     },
     {
       "count": 1,
@@ -61,7 +61,7 @@
         "Separate Dungeon"
       ],
       "progression": true,
-      "id": 5
+      "id": 85770005
     },
     {
       "count": 2,
@@ -70,7 +70,7 @@
         "Dungeon Unlock"
       ],
       "progression": true,
-      "id": 6
+      "id": 85770006
     },
     {
       "count": 1,
@@ -79,7 +79,7 @@
         "Dungeon Unlock"
       ],
       "progression": true,
-      "id": 7
+      "id": 85770007
     },
     {
       "count": 2,
@@ -88,7 +88,7 @@
         "Ability"
       ],
       "progression": true,
-      "id": 15
+      "id": 85770015
     },
     {
       "count": 3,
@@ -97,7 +97,7 @@
         "Ability"
       ],
       "progression": true,
-      "id": 16
+      "id": 85770016
     },
     {
       "count": 1,
@@ -110,7 +110,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 21
+      "id": 85770021
     },
     {
       "count": 1,
@@ -123,7 +123,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 22
+      "id": 85770022
     },
     {
       "count": 1,
@@ -136,7 +136,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 23
+      "id": 85770023
     },
     {
       "count": 1,
@@ -149,7 +149,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 24
+      "id": 85770024
     },
     {
       "count": 1,
@@ -162,7 +162,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 31
+      "id": 85770031
     },
     {
       "count": 1,
@@ -175,7 +175,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 32
+      "id": 85770032
     },
     {
       "count": 1,
@@ -188,7 +188,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 33
+      "id": 85770033
     },
     {
       "count": 1,
@@ -201,7 +201,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 34
+      "id": 85770034
     },
     {
       "count": 1,
@@ -214,7 +214,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 41
+      "id": 85770041
     },
     {
       "count": 1,
@@ -227,7 +227,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 42
+      "id": 85770042
     },
     {
       "count": 1,
@@ -240,7 +240,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 43
+      "id": 85770043
     },
     {
       "count": 1,
@@ -253,7 +253,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 44
+      "id": 85770044
     },
     {
       "count": 1,
@@ -295,7 +295,7 @@
         "Boss Flag"
       ],
       "progression": true,
-      "id": 11
+      "id": 85770011
     },
     {
       "count": 1,
@@ -304,7 +304,7 @@
         "Boss Flag"
       ],
       "progression": true,
-      "id": 12
+      "id": 85770012
     },
     {
       "count": 1,
@@ -313,7 +313,7 @@
         "Boss Flag"
       ],
       "progression": true,
-      "id": 13
+      "id": 85770013
     },
     {
       "count": 1,
@@ -322,7 +322,7 @@
         "Boss Flag"
       ],
       "progression": true,
-      "id": 14
+      "id": 85770014
     },
     {
       "count": 1,
@@ -331,7 +331,7 @@
         "Boss Flag"
       ],
       "progression": true,
-      "id": 15
+      "id": 85770015
     },
     {
       "count": 1,
@@ -340,7 +340,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 140
+      "id": 85770140
     },
     {
       "count": 1,
@@ -349,7 +349,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 141
+      "id": 85770141
     },
     {
       "count": 1,
@@ -358,7 +358,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 110
+      "id": 85770110
     },
     {
       "count": 1,
@@ -367,7 +367,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 100
+      "id": 85770100
     },
     {
       "count": 1,
@@ -376,7 +376,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 142
+      "id": 85770142
     },
     {
       "count": 1,
@@ -386,7 +386,7 @@
       ],
 
       "filler": true,
-      "id": 143
+      "id": 85770143
     },
     {
       "count": 1,
@@ -395,7 +395,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 111
+      "id": 85770111
     },
     {
       "count": 1,
@@ -405,7 +405,7 @@
       ],
   
       "filler": true,
-      "id": 112
+      "id": 85770112
     },
     {
       "count": 1,
@@ -414,7 +414,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 144
+      "id": 85770144
     },
     {
       "count": 1,
@@ -423,7 +423,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 101
+      "id": 85770101
     },
     {
       "count": 1,
@@ -432,7 +432,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 102
+      "id": 85770102
     },
     {
       "count": 1,
@@ -441,7 +441,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 113
+      "id": 85770113
     },
     {
       "count": 1,
@@ -450,7 +450,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 114
+      "id": 857700114
     },
     {
       "count": 1,
@@ -459,7 +459,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 115
+      "id": 85770115
     },
     {
       "count": 1,
@@ -468,7 +468,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 116
+      "id": 85770116
     },
     {
       "count": 1,
@@ -477,7 +477,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 117
+      "id": 85770117
     },
     {
       "count": 1,
@@ -486,7 +486,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 145
+      "id": 85770145
     },
     {
       "count": 1,
@@ -495,7 +495,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 146
+      "id": 85770146
     },
     {
       "count": 1,
@@ -504,7 +504,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 118
+      "id": 85770118
     },
     {
       "count": 1,
@@ -513,7 +513,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 103
+      "id": 85770103
     },
     {
       "count": 1,
@@ -522,7 +522,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 104
+      "id": 85770104
     },
     {
       "count": 1,
@@ -531,7 +531,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 105
+      "id": 85770105
     },
     {
       "count": 1,
@@ -540,7 +540,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 119
+      "id": 85770119
     },
     {
       "count": 1,
@@ -549,7 +549,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 147
+      "id": 85770147
     },
     {
       "count": 1,
@@ -558,7 +558,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 106
+      "id": 85770106
     },
     {
       "count": 1,
@@ -567,7 +567,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 148
+      "id": 85770148
     },
     {
       "count": 1,
@@ -576,7 +576,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 149
+      "id": 85770149
     },
     {
       "count": 1,
@@ -585,7 +585,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 120
+      "id": 85770120
     },
     {
       "count": 1,
@@ -594,7 +594,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 121
+      "id": 85770121
     },
     {
       "count": 1,
@@ -603,7 +603,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 122
+      "id": 85770122
     },
     {
       "count": 1,
@@ -612,7 +612,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 123
+      "id": 85770123
     },
     {
       "count": 1,
@@ -621,7 +621,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 124
+      "id": 85770124
     },
     {
       "count": 1,
@@ -630,7 +630,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 125
+      "id": 85770125
     },
     {
       "count": 1,
@@ -639,7 +639,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 107
+      "id": 85770107
     },
     {
       "count": 1,
@@ -648,7 +648,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 150
+      "id": 85770150
     },
     {
       "count": 1,
@@ -657,7 +657,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 108
+      "id": 85770108
     },
     {
       "count": 1,
@@ -666,7 +666,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 126
+      "id": 85770126
     },
     {
       "count": 1,
@@ -675,7 +675,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 127
+      "id": 85770127
     },
     {
       "count": 1,
@@ -684,7 +684,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 151
+      "id": 857700151
     },
     {
       "count": 1,
@@ -693,7 +693,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 128
+      "id": 85770128
     },
     {
       "count": 1,
@@ -702,7 +702,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 152
+      "id": 85770152
     },
     {
       "count": 1,
@@ -711,7 +711,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 129
+      "id": 85770129
     },
     {
       "count": 1,
@@ -720,7 +720,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 130
+      "id": 85770130
     },
     {
       "count": 1,
@@ -729,7 +729,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 131
+      "id": 85770131
     },
     {
       "count": 1,
@@ -738,7 +738,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 132
+      "id": 85770132
     },
     {
       "count": 1,
@@ -747,7 +747,7 @@
         "Fish"
       ],
       "filler": true,
-      "id": 153
+      "id": 85770153
     },
     {
       "count": 0,
@@ -998,7 +998,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 50
+      "id": 85770050
     },
     {
       "count": 5,
@@ -1010,7 +1010,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 60
+      "id": 85770060
     },
     {
       "count": 5,
@@ -1022,7 +1022,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 70
+      "id": 85770070
     },
     {
       "count": 5,
@@ -1034,7 +1034,7 @@
       ],
       "progression": true,
       "useful": true,
-      "id": 80
+      "id": 85770080
     },
     {
       "classification_count": {
@@ -1049,7 +1049,7 @@
         "Merchant Item",
         "Standalone Equipment"
       ],
-      "id": 51
+      "id": 85770051
     },
     {
       "count": 2,
@@ -1062,7 +1062,7 @@
       ],
       "useful": true,
       "filler": true,
-      "id": 52
+      "id": 85770052
     },
     {
       "count": 1,
@@ -1074,7 +1074,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 53
+      "id": 85770053
     },
     {
       "count": 2,
@@ -1088,7 +1088,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 54
+      "id": 85770054
     },
     {
       "count": 1,
@@ -1100,7 +1100,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 55
+      "id": 85770055
     },
     {
       "count": 1,
@@ -1113,7 +1113,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 56
+      "id": 85770056
     },
     {
       "count": 1,
@@ -1126,7 +1126,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 57
+      "id": 85770057
     },
     {
       "classification_count": {
@@ -1141,7 +1141,7 @@
         "Merchant Item",
         "Standalone Equipment"
       ],
-      "id": 61
+      "id": 85770061
     },
     {
       "count": 1,
@@ -1153,7 +1153,7 @@
       ],
       "useful": true,
       "filler": true,
-      "id": 62
+      "id": 85770062
     },
     {
       "count": 1,
@@ -1166,7 +1166,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 63
+      "id": 85770063
     },
     {
       "count": 1,
@@ -1178,7 +1178,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 64
+      "id": 85770064
     },
     {
       "count": 1,
@@ -1190,7 +1190,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 65
+      "id": 85770065
     },
     {
       "count": 1,
@@ -1203,7 +1203,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 66
+      "id": 85770066
     },
     {
       "count": 1,
@@ -1214,7 +1214,7 @@
         "Selling Unlockable"
       ],
       "useful": true,
-      "id": 94
+      "id": 85770094
     },
     {
       "count": 1,
@@ -1225,7 +1225,7 @@
         "Trading Reward"
       ],
       "useful": true,
-      "id": 91
+      "id": 85770091
     },
     {
       "count": 1,
@@ -1236,7 +1236,7 @@
         "Trading Reward"
       ],
       "useful": true,
-      "id": 92
+      "id": 85770092
     },
     {
       "count": 1,
@@ -1247,7 +1247,7 @@
         "Aira Item"
       ],
       "useful": true,
-      "id": 93
+      "id": 85770093
     },
     {
       "classification_count": {
@@ -1262,7 +1262,7 @@
         "Merchant Item",
         "Standalone Equipment"
       ],
-      "id": 71
+      "id": 85770071
     },
     {
       "count": 1,
@@ -1275,7 +1275,7 @@
       ],
       "useful": true,
       "filler": true,
-      "id": 72
+      "id": 85770072
     },
     {
       "count": 1,
@@ -1287,7 +1287,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 73
+      "id": 85770073
     },
     {
       "count": 1,
@@ -1299,7 +1299,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 74
+      "id": 85770074
     },
     {
       "count": 1,
@@ -1311,7 +1311,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 75
+      "id": 85770075
     },
     {
       "count": 1,
@@ -1324,7 +1324,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 76
+      "id": 85770076
     },
     {
       "count": 1,
@@ -1336,7 +1336,7 @@
       ],
       "useful": true,
       "filler": true,
-      "id": 81
+      "id": 85770081
     },
     {
       "count": 1,
@@ -1348,7 +1348,7 @@
       ],
       "useful": true,
       "filler": true,
-      "id": 82
+      "id": 85770082
     },
     {
       "count": 2,
@@ -1361,7 +1361,7 @@
       ],
       "useful": true,
       "progression_skip_balancing": true,
-      "id": 83
+      "id": 85770083
     },
     {
       "count": 3,
@@ -1375,7 +1375,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 84
+      "id": 85770084
     },
     {
       "count": 1,
@@ -1387,7 +1387,7 @@
       ],
       "useful": true,
       "progression": true,
-      "id": 85
+      "id": 85770085
     },
 	{
 		"count": 1,
@@ -1400,7 +1400,7 @@
 		],
 		"useful": true,
 		"progression_skip_balancing": true,
-		"id": 86
+		"id": 85770086
 	},
 	{
 		"classification_count": {
@@ -1413,7 +1413,7 @@
 			"Charm",
 			"Aira Item"
 		],
-		"id": 99
+		"id": 85770099
 	},
 	{
 		"count": 1,
@@ -1424,7 +1424,7 @@
 			"Selling Unlockable"
 		],
 		"useful": true,
-		"id": 96
+		"id": 85770096
 	},
 	{
 		"count": 1,
@@ -1435,7 +1435,7 @@
 			"Trading Reward"
 		],
 		"useful": true,
-		"id": 98
+		"id": 85770098
 	},
 	{
 		"count": 1,
@@ -1446,7 +1446,7 @@
 			"Trading Reward"
 		],
 		"useful": true,
-  		"id": 97
+  		"id": 85770097
 	},
 	{
 		"count": 1,
