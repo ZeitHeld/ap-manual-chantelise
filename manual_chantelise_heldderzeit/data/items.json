@@ -2,17 +2,6 @@
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
   "data": [
     {
-      "count": 5,
-      "name": "Progressive Dungeon",
-      "category": [
-        "Dungeon Unlock",
-        "Progressive Dungeon"
-      ],
-      "progression": true,
-      "early": true,
-      "id": 85770009
-    },
-    {
       "count": 1,
       "name": "Terran Ruins",
       "category": [
@@ -82,13 +71,73 @@
       "id": 85770007
     },
     {
+      "count": 5,
+      "name": "Progressive Dungeon",
+      "category": [
+        "Dungeon Unlock",
+        "Progressive Dungeon"
+      ],
+      "progression": true,
+      "early": true,
+      "id": 85770009
+    },
+
+    
+    {
+      "count": 1,
+      "name": "Beat Terran Golem Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true,
+      "id": 85770011
+    },
+    {
+      "count": 1,
+      "name": "Beat Volcanicrab Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true,
+      "id": 85770012
+    },
+    {
+      "count": 1,
+      "name": "Beat Electrojelly Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true,
+      "id": 85770013
+    },
+    {
+      "count": 1,
+      "name": "Beat Aeolian Wyvern Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true,
+      "id": 85770014
+    },
+    {
+      "count": 1,
+      "name": "Beat The Forgotten Archdevil Flag",
+      "category": [
+        "Boss Flag"
+      ],
+      "progression": true,
+      "id": 85770015
+    },
+
+
+    {
       "count": 2,
       "name": "Progressive Spell Upgrade",
       "category": [
         "Ability"
       ],
       "progression": true,
-      "id": 85770015
+      "id": 85770016
     },
     {
       "count": 3,
@@ -97,8 +146,29 @@
         "Ability"
       ],
       "progression": true,
-      "id": 85770016
+      "id": 85770017
     },
+
+    {
+      "count": 0,
+      "name": "Rainbow Rose Petal",
+      "category": [
+        "Goal Item"
+      ],
+      "progression": true,
+      "id": 85770018
+    }, 
+    {
+      "count": 1,
+      "name": "Treasure Chest Key",
+      "category": [
+        "Unlocker",
+		    "Chest Locking"
+      ],
+      "progression": true,
+      "id": 85770019
+    },
+
     {
       "count": 1,
       "name": "Clusterbomb",
@@ -255,6 +325,11 @@
       "useful": true,
       "id": 85770044
     },
+
+
+
+
+
     {
       "count": 1,
       "name": "Teacher's Pole",
@@ -288,467 +363,18 @@
       ],
       "progression": true
     },
-    {
-      "count": 1,
-      "name": "Beat Terran Golem Flag",
-      "category": [
-        "Boss Flag"
-      ],
-      "progression": true,
-      "id": 85770011
-    },
-    {
-      "count": 1,
-      "name": "Beat Volcanicrab Flag",
-      "category": [
-        "Boss Flag"
-      ],
-      "progression": true,
-      "id": 85770012
-    },
-    {
-      "count": 1,
-      "name": "Beat Electrojelly Flag",
-      "category": [
-        "Boss Flag"
-      ],
-      "progression": true,
-      "id": 85770013
-    },
-    {
-      "count": 1,
-      "name": "Beat Aeolian Wyvern Flag",
-      "category": [
-        "Boss Flag"
-      ],
-      "progression": true,
-      "id": 85770014
-    },
-    {
-      "count": 1,
-      "name": "Beat The Forgotten Archdevil Flag",
-      "category": [
-        "Boss Flag"
-      ],
-      "progression": true,
-      "id": 85770015
-    },
-    {
-      "count": 1,
-      "name": "Anglerfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770140
-    },
-    {
-      "count": 1,
-      "name": "Aramaki Slamon",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770141
-    },
-    {
-      "count": 1,
-      "name": "Arowana",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770110
-    },
-    {
-      "count": 1,
-      "name": "Axolotl",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770100
-    },
-    {
-      "count": 1,
-      "name": "Blue Shark",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770142
-    },
-    {
-      "count": 1,
-      "name": "Boiled Octopus",
-      "category": [
-        "Fish"
-      ],
 
-      "filler": true,
-      "id": 85770143
-    },
-    {
-      "count": 1,
-      "name": "Carp",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770111
-    },
-    {
-      "count": 1,
-      "name": "Carp Flag",
-      "category": [
-        "Fish"
-      ],
-  
-      "filler": true,
-      "id": 85770112
-    },
-    {
-      "count": 1,
-      "name": "Catfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770144
-    },
-    {
-      "count": 1,
-      "name": "Clione",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770101
-    },
-    {
-      "count": 1,
-      "name": "Clownfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770102
-    },
-    {
-      "count": 1,
-      "name": "Coelacanth",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770113
-    },
-    {
-      "count": 1,
-      "name": "Conger Eel",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 857700114
-    },
-    {
-      "count": 1,
-      "name": "East-sea Mackerel",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770115
-    },
-    {
-      "count": 1,
-      "name": "Eel",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770116
-    },
-    {
-      "count": 1,
-      "name": "Firefish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770117
-    },
-    {
-      "count": 1,
-      "name": "Giant Oarfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770145
-    },
-    {
-      "count": 1,
-      "name": "Hammerhead",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770146
-    },
-    {
-      "count": 1,
-      "name": "Koi",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770118
-    },
-    {
-      "count": 1,
-      "name": "Little Blackfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770103
-    },
-    {
-      "count": 1,
-      "name": "Little Redfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770104
-    },
-    {
-      "count": 1,
-      "name": "Lobster",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770105
-    },
-    {
-      "count": 1,
-      "name": "Mackerel",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770119
-    },
-    {
-      "count": 1,
-      "name": "Manta",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770147
-    },
-    {
-      "count": 1,
-      "name": "Mantis Shrimp",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770106
-    },
-    {
-      "count": 1,
-      "name": "Mecha-Coelacanth",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770148
-    },
-    {
-      "count": 1,
-      "name": "Ocean Sunfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770149
-    },
-    {
-      "count": 1,
-      "name": "Octopus",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770120
-    },
-    {
-      "count": 1,
-      "name": "Penguin",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770121
-    },
-    {
-      "count": 1,
-      "name": "Piranha",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770122
-    },
-    {
-      "count": 1,
-      "name": "Pufferfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770123
-    },
-    {
-      "count": 1,
-      "name": "Rainbow Trout",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770124
-    },
-    {
-      "count": 1,
-      "name": "Red Sea Bream",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770125
-    },
-    {
-      "count": 1,
-      "name": "Red Sea Cucumber",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770107
-    },
-    {
-      "count": 1,
-      "name": "Salmon",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770150
-    },
-    {
-      "count": 1,
-      "name": "Sea Cucucmber",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770108
-    },
-    {
-      "count": 1,
-      "name": "Seabass",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770126
-    },
-    {
-      "count": 1,
-      "name": "Snakehead",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770127
-    },
-    {
-      "count": 1,
-      "name": "Sperm Whale",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 857700151
-    },
-    {
-      "count": 1,
-      "name": "Squid",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770128
-    },
-    {
-      "count": 1,
-      "name": "Star Snapper",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770152
-    },
-    {
-      "count": 1,
-      "name": "Sweetfish",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770129
-    },
-    {
-      "count": 1,
-      "name": "Taiyaki",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770130
-    },
-    {
-      "count": 1,
-      "name": "Trilobyte",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770131
-    },
-    {
-      "count": 1,
-      "name": "Tube-snout",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770132
-    },
-    {
-      "count": 1,
-      "name": "Yellowfin Tuna",
-      "category": [
-        "Fish"
-      ],
-      "filler": true,
-      "id": 85770153
-    },
+
+
+
+
+
+
+
+
+    
+
+
     {
       "count": 0,
       "name": "Thankful Statue",
@@ -2376,24 +2002,427 @@
       ],
       "progression": true
     },
-    {
-      "count": 0,
-      "name": "Rainbow Rose Petal",
-      "category": [
-        "Goal Item"
-      ],
-      "progression": true,
-      "id": 18
-    }, 
+
+
     {
       "count": 1,
-      "name": "Treasure Chest Key",
+      "name": "Anglerfish",
       "category": [
-        "Unlocker",
-		"Chest Locking"
+        "Fish"
       ],
-      "progression": true,
-      "id": 19
+      "filler": true,
+      "id": 85770140
+    },
+    {
+      "count": 1,
+      "name": "Aramaki Slamon",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770141
+    },
+    {
+      "count": 1,
+      "name": "Arowana",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770110
+    },
+    {
+      "count": 1,
+      "name": "Axolotl",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770100
+    },
+    {
+      "count": 1,
+      "name": "Blue Shark",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770142
+    },
+    {
+      "count": 1,
+      "name": "Boiled Octopus",
+      "category": [
+        "Fish"
+      ],
+
+      "filler": true,
+      "id": 85770143
+    },
+    {
+      "count": 1,
+      "name": "Carp",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770111
+    },
+    {
+      "count": 1,
+      "name": "Carp Flag",
+      "category": [
+        "Fish"
+      ],
+  
+      "filler": true,
+      "id": 85770112
+    },
+    {
+      "count": 1,
+      "name": "Catfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770144
+    },
+    {
+      "count": 1,
+      "name": "Clione",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770101
+    },
+    {
+      "count": 1,
+      "name": "Clownfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770102
+    },
+    {
+      "count": 1,
+      "name": "Coelacanth",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770113
+    },
+    {
+      "count": 1,
+      "name": "Conger Eel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 857700114
+    },
+    {
+      "count": 1,
+      "name": "East-sea Mackerel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770115
+    },
+    {
+      "count": 1,
+      "name": "Eel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770116
+    },
+    {
+      "count": 1,
+      "name": "Firefish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770117
+    },
+    {
+      "count": 1,
+      "name": "Giant Oarfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770145
+    },
+    {
+      "count": 1,
+      "name": "Hammerhead",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770146
+    },
+    {
+      "count": 1,
+      "name": "Koi",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770118
+    },
+    {
+      "count": 1,
+      "name": "Little Blackfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770103
+    },
+    {
+      "count": 1,
+      "name": "Little Redfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770104
+    },
+    {
+      "count": 1,
+      "name": "Lobster",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770105
+    },
+    {
+      "count": 1,
+      "name": "Mackerel",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770119
+    },
+    {
+      "count": 1,
+      "name": "Manta",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770147
+    },
+    {
+      "count": 1,
+      "name": "Mantis Shrimp",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770106
+    },
+    {
+      "count": 1,
+      "name": "Mecha-Coelacanth",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770148
+    },
+    {
+      "count": 1,
+      "name": "Ocean Sunfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770149
+    },
+    {
+      "count": 1,
+      "name": "Octopus",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770120
+    },
+    {
+      "count": 1,
+      "name": "Penguin",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770121
+    },
+    {
+      "count": 1,
+      "name": "Piranha",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770122
+    },
+    {
+      "count": 1,
+      "name": "Pufferfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770123
+    },
+    {
+      "count": 1,
+      "name": "Rainbow Trout",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770124
+    },
+    {
+      "count": 1,
+      "name": "Red Sea Bream",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770125
+    },
+    {
+      "count": 1,
+      "name": "Red Sea Cucumber",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770107
+    },
+    {
+      "count": 1,
+      "name": "Salmon",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770150
+    },
+    {
+      "count": 1,
+      "name": "Sea Cucucmber",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770108
+    },
+    {
+      "count": 1,
+      "name": "Seabass",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770126
+    },
+    {
+      "count": 1,
+      "name": "Snakehead",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770127
+    },
+    {
+      "count": 1,
+      "name": "Sperm Whale",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 857700151
+    },
+    {
+      "count": 1,
+      "name": "Squid",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770128
+    },
+    {
+      "count": 1,
+      "name": "Star Snapper",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770152
+    },
+    {
+      "count": 1,
+      "name": "Sweetfish",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770129
+    },
+    {
+      "count": 1,
+      "name": "Taiyaki",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770130
+    },
+    {
+      "count": 1,
+      "name": "Trilobyte",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770131
+    },
+    {
+      "count": 1,
+      "name": "Tube-snout",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770132
+    },
+    {
+      "count": 1,
+      "name": "Yellowfin Tuna",
+      "category": [
+        "Fish"
+      ],
+      "filler": true,
+      "id": 85770153
     }
+
+
+
+
   ]
 }

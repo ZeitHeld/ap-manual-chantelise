@@ -760,7 +760,7 @@
         "Treasure", "Fish"
       ],
       "prehint": true,
-      "id": 312,
+      "id": 85770312,
       "sort-key": "row-3-1-2"
     },
     {
@@ -2287,7 +2287,7 @@
         "Fishsanity"
       ],
       "requires": "|Can Catch Anglerfish|",
-      "id": 8577760,
+      "id": 85770760,
       "sort-key": "row-7-2-0"
     },
     {
@@ -2297,7 +2297,7 @@
         "Fishsanity"
       ],
       "requires": "|Can Catch Aramaki Salmon|",
-      "id": 8577761,
+      "id": 85770761,
       "sort-key": "row-7-2-1"
     },
     {
@@ -2307,7 +2307,7 @@
         "Fishsanity"
       ],
       "requires": "|Can Catch Blue Shark|",
-      "id": 8577762,
+      "id": 85770762,
       "sort-key": "row-7-2-2"
     },
     {
@@ -2317,7 +2317,7 @@
         "Fishsanity"
       ],
       "requires": "|Can Catch Boiled Octopus|",
-      "id": 8577763,
+      "id": 85770763,
       "sort-key": "row-7-2-3"
     },
     {
@@ -2327,7 +2327,7 @@
         "Fishsanity"
       ],
       "requires": "|Can Catch Catfish|",
-      "id": 8577764,
+      "id": 85770764,
       "sort-key": "row-7-2-4"
     },
     {
