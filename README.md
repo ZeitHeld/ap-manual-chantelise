@@ -7,7 +7,7 @@ It's old and tough but still Charming and fun.
 - [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases)
 - (Optional but Highly Reccomended) Universal Tracker
 - [Latest Release of the Chantelise AP-Manual apWorld](https://github.com/ZeitHeld/ap-manual-chantelise/releases)
-- A (near) 100% Save File of Chantelise (May provide one?)
+- A played through or (near) 100% Save File of Chantelise (May provide one?)
   - Have at least every item once
 - A strong will
 - [Patience](https://static.wikia.nocookie.net/judgement-day-roblox/images/b/bf/Patience.png/revision/latest?cb=20230109153235)
