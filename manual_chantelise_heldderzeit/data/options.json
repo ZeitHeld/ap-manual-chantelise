@@ -56,8 +56,10 @@
         "progressive_dungeons": {
             "display_name": "Progressive Dungeons",
             "description": [
-                "Dungeons are progressive, meaning you get the Dungeons in order. Survival Dungeon and Familair Forest Exluded.",
-                "Order: Terran -> Ignan -> Aquan -> Zephyran -> Sealed Palace"],
+                "Dungeons are progressive, meaning you get the Dungeons in order.",
+                "Survival Dungeon and Familiar Forest Exluded.",
+                "Order: Terran -> Ignan -> Aquan -> Zephyran -> Sealed Palace"
+            ],
             "type": "Toggle",
             "visibility": [
                 "simple_ui",
