@@ -3479,47 +3479,6 @@
       "sort-key": "row-12-6-0-5"
     },
 
-
-    {
-      "name": "Town - West Tree Front Grass",
-      "region": "Town",
-      "category": [
-        "Grasssanity"
-      ],
-      "requires": "",
-      "id": 1301,
-      "sort-key": "row-13-0-0-1"
-    },
-    {
-      "name": "Town - West Tree Back Grass",
-      "region": "Town",
-      "category": [
-        "Grasssanity"
-      ],
-      "requires": "",
-      "id": 1302,
-      "sort-key": "row-13-0-0-2"
-    },
-    {
-      "name": "Town - East Tree Front Grass",
-      "region": "Town",
-      "category": [
-        "Grasssanity"
-      ],
-      "requires": "",
-      "id": 1303,
-      "sort-key": "row-13-0-0-3"
-    },
-    {
-      "name": "Town - East Tree Back Grass",
-      "region": "Town",
-      "category": [
-        "Grasssanity"
-      ],
-      "requires": "",
-      "id": 1304,
-      "sort-key": "row-13-0-0-4"
-    },
     
     {
       "name": "Tutorial 3 - Entrance Fisherman Grass 1",
@@ -3528,7 +3487,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1305,
+      "id": 1301,
       "sort-key": "row-13-0-1-1"
     },
     {
@@ -3538,7 +3497,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1306,
+      "id": 1302,
       "sort-key": "row-13-0-1-2"
     },
     {
@@ -3548,7 +3507,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1307,
+      "id": 1303,
       "sort-key": "row-13-0-1-3"
     },
     {
@@ -3558,7 +3517,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1308,
+      "id": 1304,
       "sort-key": "row-13-0-1-4"
     },
     {
@@ -3568,7 +3527,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1309,
+      "id": 1305,
       "sort-key": "row-13-0-1-5"
     },
     {
@@ -3578,7 +3537,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1310,
+      "id": 1306,
       "sort-key": "row-13-0-1-6"
     },
     {
@@ -3588,7 +3547,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1311,
+      "id": 1307,
       "sort-key": "row-13-0-1-7"
     },
     {
@@ -3598,7 +3557,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1312,
+      "id": 1308,
       "sort-key": "row-13-0-1-8"
     },
     {
@@ -3608,7 +3567,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1313,
+      "id": 1309,
       "sort-key": "row-13-0-1-9"
     },
     {
@@ -3618,7 +3577,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1314,
+      "id": 1310,
       "sort-key": "row-13-0-1-10"
     },
     {
@@ -3628,7 +3587,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1315,
+      "id": 1311,
       "sort-key": "row-13-0-1-11"
     },
     {
@@ -3638,7 +3597,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1316,
+      "id": 1312,
       "sort-key": "row-13-0-1-12"
     },
     {
@@ -3648,7 +3607,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1317,
+      "id": 1313,
       "sort-key": "row-13-0-1-13"
     },
     {
@@ -3658,7 +3617,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1318,
+      "id": 1314,
       "sort-key": "row-13-0-1-14"
     },
     {
@@ -3668,7 +3627,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1319,
+      "id": 1315,
       "sort-key": "row-13-0-1-15"
     },
     {
@@ -3678,7 +3637,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1320,
+      "id": 1316,
       "sort-key": "row-13-0-1-16"
     },
     {
@@ -3688,7 +3647,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1321,
+      "id": 1317,
       "sort-key": "row-13-0-1-17"
     },
     {
@@ -3698,7 +3657,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1322,
+      "id": 1318,
       "sort-key": "row-13-0-1-18"
     },
     {
@@ -3708,7 +3667,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1323,
+      "id": 1319,
       "sort-key": "row-13-0-1-19"
     },
     {
@@ -3718,7 +3677,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1324,
+      "id": 1320,
       "sort-key": "row-13-0-1-20"
     },
     {
@@ -3728,7 +3687,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1325,
+      "id": 1321,
       "sort-key": "row-13-0-1-21"
     },
     {
@@ -3738,7 +3697,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1326,
+      "id": 1322,
       "sort-key": "row-13-0-1-22"
     },
     {
@@ -3748,7 +3707,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1327,
+      "id": 1323,
       "sort-key": "row-13-0-1-23"
     },
     {
@@ -3758,7 +3717,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1328,
+      "id": 1324,
       "sort-key": "row-13-0-1-24"
     },
 
@@ -3769,7 +3728,7 @@
         "Grasssanity"
       ],
       "requires": "",
-      "id": 1329,
+      "id": 1325,
       "sort-key": "row-13-1-1-1"
     },
 
@@ -3780,10 +3739,11 @@
       "region": "Map",
       "category": ["Tough Challenge"],
       "requires": "|All Hidden Treasures Main Access|",
-      "id": 5000,
-      "sort-key": "row-50-0-0"
+      "id": 5001,
+      "sort-key": "row-50-0-1"
     },
 
+    
     {
       "name": "Defeat The Forgotten Archdevil",
       "region": "Sealed Palace",
