@@ -612,74 +612,86 @@
     },
     {
        "name": "Can Cast Clusterbomb",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)} AND |Clusterbomb|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND |Spellsanity T2-T4| AND |Clusterbomb|)"
     },
     {
        "name": "Can Cast Icicle Edge",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Icicle Edge|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND |Spellsanity T2-T4| AND |Icicle Edge|)"
     },
     {
        "name": "Can Cast Blitz",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Blitz|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND |Spellsanity T2-T4| AND |Blitz|)"
     },
     {
        "name": "Can Cast Super Armor",
-       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)} AND |Super Armor|)"
+       "requires": "({YamlCompare(spellsanity <= 1)}) OR (|Progressive Spell Upgrade:1| AND |Spellsanity T2-T4| AND |Super Armor|)"
     },
     {
        "name": "Can Cast Fire Wall",
-       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 2)})) AND |Fire Wall|)"
+       "requires": "(|Progressive Spell Upgrade:1| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:1| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:2| AND |Spellsanity T2-T4|)) AND |Fire Wall|)"
     },
     {
        "name": "Can Cast Heal",
-       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Heal|)"
+       "requires": "(|Progressive Spell Upgrade:1| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:1| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:2| AND |Spellsanity T2-T4|)) AND |Heal|)"
     },
     {
        "name": "Can Cast Tornado",
-       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Tornado|)"
+       "requires": "(|Progressive Spell Upgrade:1| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:1| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:2| AND |Spellsanity T2-T4|)) AND |Tornado|)"
     },
     {
        "name": "Can Cast Meteor Impact",
-       "requires": "(|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:1| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 2)})) AND |Meteor Impact|)"
+       "requires": "(|Progressive Spell Upgrade:1| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:1| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:2| AND |Spellsanity T2-T4|)) AND |Meteor Impact|)"
     },
     {
        "name": "Can Summon Salamander",
-       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Salamander|)"
+       "requires": "(|Progressive Spell Upgrade:2| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:2| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:3| AND |Spellsanity T2-T4|)) AND |Salamander|)"
     },
     {
        "name": "Can Summon Aqua",
-       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Aqua|)"
+       "requires": "(|Progressive Spell Upgrade:2| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:2| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:3| AND |Spellsanity T2-T4|)) AND |Aqua|)"
     },
     {
        "name": "Can Summon Sylphie",
-       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Sylphie|)"
+       "requires": "(|Progressive Spell Upgrade:2| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:2| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:3| AND |Spellsanity T2-T4|)) AND |Sylphie|)"
     },
     {
        "name": "Can Summon Golem",
-       "requires": "(|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 0)}) OR (((|Progressive Spell Upgrade:2| AND {YamlCompare(spellsanity == 1)}) OR (|Progressive Spell Upgrade:3| AND {YamlCompare(spellsanity == 2)})) AND |Golem|)"
+       "requires": "(|Progressive Spell Upgrade:2| AND |No Spellsanity|) OR (((|Progressive Spell Upgrade:2| AND |Spellsanity T3-T4|) OR (|Progressive Spell Upgrade:3| AND |Spellsanity T2-T4|)) AND |Golem|)"
     },
     {
         "name": "Chest Unlock",
         "requires": "{YamlDisabled(chest_locks)} OR ({YamlEnabled(chest_locks)} AND |Treasure Chest Key|)"
     },
+    {
+       "name": "No Spellsanity",
+       "requires": "{YamlCompare(spellsanity == 0)}"
+    },
+    {
+       "name": "Spellsanity T3-T4",
+       "requires": "{YamlCompare(spellsanity == 1)}"
+    },
+    {
+       "name": "Spellsanity T2-T4",
+       "requires": "{YamlCompare(spellsanity == 2)}"
+    },
     
     {
-        "name": "OPTION - Tough Logic - Enabled",
+        "name": "Tough Logic - Enabled",
         "requires": "{YamlEnabled(tough_logic)}",
         "visible": true
     },
     {
-        "name": "OPTION - Spellsanity - Simple",
-        "requires": "{YamlCompare(spellsanity == 1)}",
+        "name": "Spellsanity - Simple",
+        "requires": "|Spellsanity T3-T4|",
         "visible": true
     },
     {
-        "name": "OPTION - Spellsanity - Including Tier 2",
-        "requires": "{YamlCompare(spellsanity == 2)}",
+        "name": "Spellsanity - Including Tier 2",
+        "requires": "|Spellsanity T2-T4|",
         "visible": true
     },
     {
-        "name": "OPTION - Locked Chests - Enabled",
+        "name": "Locked Chests - Enabled",
         "requires": "{YamlEnabled(chest_locks)}",
         "visible": true
     }
