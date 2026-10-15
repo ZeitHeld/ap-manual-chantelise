@@ -6,6 +6,9 @@
         "hidden": true
     },
     "Survival Dungeon Shop Shuffle": {
+        "yaml_option": [
+            "toggle_dungeon"
+        ],
         "hidden": true
     },
     "Fish Trading": {
@@ -170,11 +173,14 @@
         "hidden": true
     },
     "Forest Stage": {
+        "yaml_option": [
+            "toggle_forest"
+        ],
         "hidden": true
     },
     "Survival Dungeon Stage": {
         "yaml_option": [
-            "survival_dungeon"
+            "toggle_dungeon"
         ],
         "hidden": true
     },
