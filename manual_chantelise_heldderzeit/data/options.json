@@ -153,6 +153,39 @@
             "default": false,
             "group": "Gameplay Options"
         },
+
+        
+        "toggle_forest":{
+            "display_name": "Include Familiar Forest Stages",
+            "description": [
+                "Includes Familiar Forest locations and items into the pool, which would have been found there.",
+                "If disabled, the Merchant and a single Familiar Forest Unlock will still be considered for progression."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Randomization Options"
+        },
+        "toggle_survival":{
+            "display_name": "Include Survival Dungeon",
+            "description": [
+                "Includes Survival Dungeon locations and items into the pool, which would have been found there."
+            ],
+            "type": "Toggle",
+            "visibility": [
+                "simple_ui",
+                "complex_ui",
+                "template",
+                "spoiler"
+            ],
+            "default": false,
+            "group": "Randomization Options"
+        },
         "stagesanity":{
             "display_name": "Stagesanity",
             "description": [
